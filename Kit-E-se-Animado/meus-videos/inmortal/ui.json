@@ -1,0 +1,178 @@
+{
+  "duracao": 490,
+  "palavrasPorLegenda": 4,
+  "destaques": [
+    "morir.",
+    "único",
+    "biblioteca",
+    "miedo",
+    "límites.",
+    "sangre.",
+    "arma.",
+    "laboratorio.",
+    "escondes.",
+    "73",
+    "Lucía.",
+    "feliz.",
+    "5",
+    "122",
+    "34",
+    "acento.",
+    "solo.",
+    "medusa",
+    "inmortal.",
+    "madre.",
+    "catedral",
+    "torcida.",
+    "Matusalén,",
+    "117",
+    "300",
+    "desierto.",
+    "sed.",
+    "Voyager.",
+    "roja.",
+    "acababa.",
+    "promesa.",
+    "libro",
+    "multa"
+  ],
+  "trocas": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9",
+    "10": "10",
+    "11": "11",
+    "12": "12",
+    "13": "13",
+    "14": "14",
+    "15": "15",
+    "16": "16",
+    "17": "17",
+    "18": "18",
+    "19": "19",
+    "20": "20",
+    "73000": "73.000",
+    "4800": "4.800",
+    "5000": "5.000",
+    "2000": "2.000",
+    "1000": "1.000"
+  },
+  "elementos": [
+    {
+      "tipo": "placa",
+      "inicio": 106.9,
+      "fim": 110.6,
+      "numero": "73 AÑOS",
+      "rotulo": "ESPERANZA DE VIDA MUNDIAL"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 157.8,
+      "fim": 161.6,
+      "numero": "5.000",
+      "rotulo": "CARAS QUE CONOCE UNA PERSONA"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 169.0,
+      "fim": 176.8,
+      "numero": "122 AÑOS Y 164 DÍAS",
+      "rotulo": "RÉCORD COMPROBADO"
+    },
+    {
+      "tipo": "etiqueta",
+      "inicio": 70.8,
+      "fim": 74.2,
+      "texto": "AÑO 150"
+    },
+    {
+      "tipo": "etiqueta",
+      "inicio": 185.3,
+      "fim": 190,
+      "texto": "AÑO 200"
+    },
+    {
+      "tipo": "etiqueta",
+      "inicio": 196.3,
+      "fim": 201,
+      "texto": "AÑO 300"
+    },
+    {
+      "tipo": "etiqueta",
+      "inicio": 216.1,
+      "fim": 221,
+      "texto": "AÑO 500"
+    },
+    {
+      "tipo": "etiqueta",
+      "inicio": 257.9,
+      "fim": 263,
+      "texto": "AÑO 1.000"
+    },
+    {
+      "tipo": "etiqueta",
+      "inicio": 273.6,
+      "fim": 279,
+      "texto": "AÑO 2.000"
+    },
+    {
+      "tipo": "etiqueta",
+      "inicio": 311.6,
+      "fim": 316,
+      "texto": "AÑO 5.000"
+    },
+    {
+      "tipo": "pill",
+      "inicio": 235.7,
+      "fim": 241.6,
+      "texto": "TURRITOPSIS DOHRNII"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 316.1,
+      "fim": 322.3,
+      "numero": "4.800+ AÑOS",
+      "rotulo": "PINO MATUSALÉN"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 326.2,
+      "fim": 331.2,
+      "numero": "117.000.000.000",
+      "rotulo": "PERSONAS NACIDAS EN LA HISTORIA"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 336.2,
+      "fim": 339.1,
+      "numero": "300.000 AÑOS",
+      "rotulo": "DE HOMO SAPIENS"
+    },
+    {
+      "tipo": "etiqueta",
+      "inicio": 362.0,
+      "fim": 367.5,
+      "texto": "+1.000 MILLONES DE AÑOS"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 404.2,
+      "fim": 410.3,
+      "numero": "73.000 AÑOS",
+      "rotulo": "VOYAGER 1 HASTA PRÓXIMA CENTAURI"
+    },
+    {
+      "tipo": "etiqueta",
+      "inicio": 432.5,
+      "fim": 439.4,
+      "texto": "+5.000 MILLONES DE AÑOS"
+    }
+  ]
+}
