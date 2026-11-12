@@ -1,0 +1,81 @@
+{
+  "duracao": 121.2,
+  "palavrasPorLegenda": 4,
+  "destaques": [
+    "cero",
+    "batería.",
+    "enchufados,",
+    "abuela.",
+    "pared.",
+    "metro.",
+    "enchufe.",
+    "café.",
+    "árboles.",
+    "perdido.",
+    "cable.",
+    "1983",
+    "nobel",
+    "1240",
+    "fijo.",
+    "abuela"
+  ],
+  "trocas": {
+    "1240": "1.240"
+  },
+  "elementos": [
+    {
+      "tipo": "placa",
+      "inicio": 24.8,
+      "fim": 31.9,
+      "numero": "4.600.000.000",
+      "rotulo": "PERSONAS USAN INTERNET EN EL CELULAR"
+    },
+    {
+      "tipo": "etiqueta",
+      "inicio": 60.8,
+      "fim": 69.5,
+      "texto": "1983"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 65.4,
+      "fim": 67.75,
+      "numero": "30 MIN",
+      "rotulo": "DE LLAMADA"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 67.8,
+      "fim": 69.6,
+      "numero": "10 HORAS",
+      "rotulo": "PARA CARGAR"
+    },
+    {
+      "tipo": "etiqueta",
+      "inicio": 72.4,
+      "fim": 74.4,
+      "texto": "1991"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 74.5,
+      "fim": 78.5,
+      "numero": "2019",
+      "rotulo": "PREMIO NOBEL DE QUÍMICA"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 87.2,
+      "fim": 90.7,
+      "numero": "1.240.000.000",
+      "rotulo": "CELULARES VENDIDOS EN 2024"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 96.3,
+      "fim": 99.3,
+      "numero": "3 H 30 MIN",
+      "rotulo": "AL DÍA MIRANDO EL CELULAR"
+    }
+  ]
+}

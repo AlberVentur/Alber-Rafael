@@ -1,0 +1,1564 @@
+{
+ "words": [
+  {
+   "text": "Te",
+   "start": 0.0,
+   "end": 0.18
+  },
+  {
+   "text": "despiertas.",
+   "start": 0.18,
+   "end": 0.92
+  },
+  {
+   "text": "Tu",
+   "start": 1.38,
+   "end": 1.52
+  },
+  {
+   "text": "celular",
+   "start": 1.52,
+   "end": 1.88
+  },
+  {
+   "text": "está",
+   "start": 1.88,
+   "end": 2.2
+  },
+  {
+   "text": "en",
+   "start": 2.2,
+   "end": 2.38
+  },
+  {
+   "text": "cero",
+   "start": 2.38,
+   "end": 2.76
+  },
+  {
+   "text": "y",
+   "start": 2.76,
+   "end": 3.24
+  },
+  {
+   "text": "nunca",
+   "start": 3.24,
+   "end": 3.64
+  },
+  {
+   "text": "más",
+   "start": 3.64,
+   "end": 4.16
+  },
+  {
+   "text": "va",
+   "start": 4.16,
+   "end": 4.32
+  },
+  {
+   "text": "a",
+   "start": 4.32,
+   "end": 4.44
+  },
+  {
+   "text": "cargar.",
+   "start": 4.44,
+   "end": 4.74
+  },
+  {
+   "text": "Ningún",
+   "start": 5.2,
+   "end": 5.68
+  },
+  {
+   "text": "celular",
+   "start": 5.68,
+   "end": 6.1
+  },
+  {
+   "text": "del",
+   "start": 6.1,
+   "end": 6.3
+  },
+  {
+   "text": "planeta",
+   "start": 6.3,
+   "end": 6.68
+  },
+  {
+   "text": "tiene",
+   "start": 6.68,
+   "end": 7.06
+  },
+  {
+   "text": "batería.",
+   "start": 7.06,
+   "end": 7.58
+  },
+  {
+   "text": "Sólo",
+   "start": 7.92,
+   "end": 8.16
+  },
+  {
+   "text": "funcionan",
+   "start": 8.16,
+   "end": 8.66
+  },
+  {
+   "text": "enchufados,",
+   "start": 8.66,
+   "end": 9.22
+  },
+  {
+   "text": "como",
+   "start": 9.48,
+   "end": 9.84
+  },
+  {
+   "text": "el",
+   "start": 9.84,
+   "end": 9.96
+  },
+  {
+   "text": "teléfono",
+   "start": 9.96,
+   "end": 10.3
+  },
+  {
+   "text": "de",
+   "start": 10.3,
+   "end": 10.5
+  },
+  {
+   "text": "tu",
+   "start": 10.5,
+   "end": 10.6
+  },
+  {
+   "text": "abuela.",
+   "start": 10.6,
+   "end": 10.9
+  },
+  {
+   "text": "Lo",
+   "start": 11.58,
+   "end": 11.7
+  },
+  {
+   "text": "bueno:",
+   "start": 11.7,
+   "end": 11.92
+  },
+  {
+   "text": "se",
+   "start": 12.34,
+   "end": 12.56
+  },
+  {
+   "text": "acabó",
+   "start": 12.56,
+   "end": 12.98
+  },
+  {
+   "text": "el",
+   "start": 12.98,
+   "end": 13.12
+  },
+  {
+   "text": "miedo",
+   "start": 13.12,
+   "end": 13.42
+  },
+  {
+   "text": "al",
+   "start": 13.42,
+   "end": 13.6
+  },
+  {
+   "text": "uno",
+   "start": 13.6,
+   "end": 13.78
+  },
+  {
+   "text": "por",
+   "start": 13.78,
+   "end": 14.0
+  },
+  {
+   "text": "ciento.",
+   "start": 14.0,
+   "end": 14.3
+  },
+  {
+   "text": "¿Qué",
+   "start": 14.76,
+   "end": 14.88
+  },
+  {
+   "text": "podría",
+   "start": 14.88,
+   "end": 15.22
+  },
+  {
+   "text": "salir",
+   "start": 15.22,
+   "end": 15.52
+  },
+  {
+   "text": "mal?",
+   "start": 15.52,
+   "end": 15.76
+  },
+  {
+   "text": "Para",
+   "start": 16.42,
+   "end": 16.56
+  },
+  {
+   "text": "empezar,",
+   "start": 16.56,
+   "end": 16.86
+  },
+  {
+   "text": "tu",
+   "start": 17.4,
+   "end": 17.44
+  },
+  {
+   "text": "celular",
+   "start": 17.44,
+   "end": 17.86
+  },
+  {
+   "text": "ahora",
+   "start": 17.86,
+   "end": 18.2
+  },
+  {
+   "text": "vive",
+   "start": 18.2,
+   "end": 18.5
+  },
+  {
+   "text": "pegado",
+   "start": 18.5,
+   "end": 19.14
+  },
+  {
+   "text": "a",
+   "start": 19.14,
+   "end": 19.26
+  },
+  {
+   "text": "la",
+   "start": 19.26,
+   "end": 19.34
+  },
+  {
+   "text": "pared.",
+   "start": 19.34,
+   "end": 19.62
+  },
+  {
+   "text": "Tu",
+   "start": 20.08,
+   "end": 20.14
+  },
+  {
+   "text": "cable",
+   "start": 20.14,
+   "end": 20.44
+  },
+  {
+   "text": "mide",
+   "start": 20.44,
+   "end": 20.78
+  },
+  {
+   "text": "un",
+   "start": 20.78,
+   "end": 21.06
+  },
+  {
+   "text": "metro.",
+   "start": 21.06,
+   "end": 21.36
+  },
+  {
+   "text": "Tu",
+   "start": 21.78,
+   "end": 21.88
+  },
+  {
+   "text": "vida,",
+   "start": 21.88,
+   "end": 22.16
+  },
+  {
+   "text": "también.",
+   "start": 22.5,
+   "end": 22.78
+  },
+  {
+   "text": "Y",
+   "start": 23.34,
+   "end": 23.5
+  },
+  {
+   "text": "no",
+   "start": 23.5,
+   "end": 23.72
+  },
+  {
+   "text": "eres",
+   "start": 23.72,
+   "end": 23.96
+  },
+  {
+   "text": "el",
+   "start": 23.96,
+   "end": 24.16
+  },
+  {
+   "text": "único.",
+   "start": 24.16,
+   "end": 24.4
+  },
+  {
+   "text": "Unos",
+   "start": 24.8,
+   "end": 25.06
+  },
+  {
+   "text": "cuatro",
+   "start": 25.06,
+   "end": 25.26
+  },
+  {
+   "text": "mil",
+   "start": 25.26,
+   "end": 25.68
+  },
+  {
+   "text": "seiscientos",
+   "start": 25.68,
+   "end": 26.5
+  },
+  {
+   "text": "millones",
+   "start": 26.5,
+   "end": 26.86
+  },
+  {
+   "text": "de",
+   "start": 26.86,
+   "end": 27.24
+  },
+  {
+   "text": "personas",
+   "start": 27.24,
+   "end": 27.66
+  },
+  {
+   "text": "usan",
+   "start": 27.66,
+   "end": 28.1
+  },
+  {
+   "text": "internet",
+   "start": 28.1,
+   "end": 28.56
+  },
+  {
+   "text": "en",
+   "start": 28.56,
+   "end": 28.72
+  },
+  {
+   "text": "el",
+   "start": 28.72,
+   "end": 28.82
+  },
+  {
+   "text": "celular.",
+   "start": 28.82,
+   "end": 29.2
+  },
+  {
+   "text": "Todos",
+   "start": 29.2,
+   "end": 29.8
+  },
+  {
+   "text": "buscando",
+   "start": 29.8,
+   "end": 30.38
+  },
+  {
+   "text": "el",
+   "start": 30.38,
+   "end": 30.7
+  },
+  {
+   "text": "mismo",
+   "start": 30.7,
+   "end": 31.08
+  },
+  {
+   "text": "enchufe.",
+   "start": 31.08,
+   "end": 31.52
+  },
+  {
+   "text": "En",
+   "start": 32.04,
+   "end": 32.22
+  },
+  {
+   "text": "los",
+   "start": 32.22,
+   "end": 32.34
+  },
+  {
+   "text": "cafés,",
+   "start": 32.34,
+   "end": 32.78
+  },
+  {
+   "text": "la",
+   "start": 33.1,
+   "end": 33.22
+  },
+  {
+   "text": "mesa",
+   "start": 33.22,
+   "end": 33.42
+  },
+  {
+   "text": "junto",
+   "start": 33.42,
+   "end": 33.64
+  },
+  {
+   "text": "a",
+   "start": 33.64,
+   "end": 33.84
+  },
+  {
+   "text": "la",
+   "start": 33.84,
+   "end": 33.9
+  },
+  {
+   "text": "pared",
+   "start": 33.9,
+   "end": 34.18
+  },
+  {
+   "text": "cuesta",
+   "start": 34.18,
+   "end": 34.64
+  },
+  {
+   "text": "más",
+   "start": 34.64,
+   "end": 34.98
+  },
+  {
+   "text": "que",
+   "start": 34.98,
+   "end": 35.12
+  },
+  {
+   "text": "el",
+   "start": 35.12,
+   "end": 35.24
+  },
+  {
+   "text": "café.",
+   "start": 35.24,
+   "end": 35.5
+  },
+  {
+   "text": "En",
+   "start": 35.98,
+   "end": 36.12
+  },
+  {
+   "text": "el",
+   "start": 36.12,
+   "end": 36.24
+  },
+  {
+   "text": "autobús",
+   "start": 36.24,
+   "end": 36.68
+  },
+  {
+   "text": "no",
+   "start": 36.68,
+   "end": 37.08
+  },
+  {
+   "text": "hay",
+   "start": 37.08,
+   "end": 37.24
+  },
+  {
+   "text": "enchufe,",
+   "start": 37.24,
+   "end": 37.64
+  },
+  {
+   "text": "así",
+   "start": 37.92,
+   "end": 38.16
+  },
+  {
+   "text": "que",
+   "start": 38.16,
+   "end": 38.32
+  },
+  {
+   "text": "la",
+   "start": 38.32,
+   "end": 38.42
+  },
+  {
+   "text": "gente",
+   "start": 38.42,
+   "end": 38.68
+  },
+  {
+   "text": "vuelve",
+   "start": 38.68,
+   "end": 39.22
+  },
+  {
+   "text": "a",
+   "start": 39.22,
+   "end": 39.3
+  },
+  {
+   "text": "mirar",
+   "start": 39.3,
+   "end": 39.58
+  },
+  {
+   "text": "por",
+   "start": 39.58,
+   "end": 39.72
+  },
+  {
+   "text": "la",
+   "start": 39.72,
+   "end": 39.86
+  },
+  {
+   "text": "ventana",
+   "start": 39.86,
+   "end": 40.28
+  },
+  {
+   "text": "y",
+   "start": 40.28,
+   "end": 40.76
+  },
+  {
+   "text": "descubre",
+   "start": 40.76,
+   "end": 41.3
+  },
+  {
+   "text": "que",
+   "start": 41.3,
+   "end": 41.44
+  },
+  {
+   "text": "la",
+   "start": 41.44,
+   "end": 41.56
+  },
+  {
+   "text": "ciudad",
+   "start": 41.56,
+   "end": 41.84
+  },
+  {
+   "text": "tiene",
+   "start": 41.84,
+   "end": 42.38
+  },
+  {
+   "text": "árboles.",
+   "start": 42.38,
+   "end": 42.8
+  },
+  {
+   "text": "Caminar",
+   "start": 43.4,
+   "end": 43.78
+  },
+  {
+   "text": "mirando",
+   "start": 43.78,
+   "end": 44.14
+  },
+  {
+   "text": "el",
+   "start": 44.14,
+   "end": 44.3
+  },
+  {
+   "text": "mapa",
+   "start": 44.3,
+   "end": 44.56
+  },
+  {
+   "text": "ya",
+   "start": 44.56,
+   "end": 44.9
+  },
+  {
+   "text": "no",
+   "start": 44.9,
+   "end": 45.04
+  },
+  {
+   "text": "se",
+   "start": 45.04,
+   "end": 45.18
+  },
+  {
+   "text": "puede.",
+   "start": 45.18,
+   "end": 45.44
+  },
+  {
+   "text": "Te",
+   "start": 45.82,
+   "end": 45.94
+  },
+  {
+   "text": "pierdes.",
+   "start": 45.94,
+   "end": 46.38
+  },
+  {
+   "text": "Le",
+   "start": 46.86,
+   "end": 46.96
+  },
+  {
+   "text": "preguntas",
+   "start": 46.96,
+   "end": 47.28
+  },
+  {
+   "text": "a",
+   "start": 47.28,
+   "end": 47.54
+  },
+  {
+   "text": "un",
+   "start": 47.54,
+   "end": 47.64
+  },
+  {
+   "text": "desconocido.",
+   "start": 47.64,
+   "end": 48.26
+  },
+  {
+   "text": "El",
+   "start": 48.64,
+   "end": 48.72
+  },
+  {
+   "text": "desconocido",
+   "start": 48.72,
+   "end": 49.42
+  },
+  {
+   "text": "también",
+   "start": 49.42,
+   "end": 49.88
+  },
+  {
+   "text": "está",
+   "start": 49.88,
+   "end": 50.24
+  },
+  {
+   "text": "perdido.",
+   "start": 50.24,
+   "end": 50.7
+  },
+  {
+   "text": "Los",
+   "start": 51.14,
+   "end": 51.24
+  },
+  {
+   "text": "alargadores",
+   "start": 51.24,
+   "end": 51.82
+  },
+  {
+   "text": "se",
+   "start": 51.82,
+   "end": 52.12
+  },
+  {
+   "text": "vuelven",
+   "start": 52.12,
+   "end": 52.42
+  },
+  {
+   "text": "el",
+   "start": 52.42,
+   "end": 52.62
+  },
+  {
+   "text": "regalo",
+   "start": 52.62,
+   "end": 53.06
+  },
+  {
+   "text": "del",
+   "start": 53.06,
+   "end": 53.28
+  },
+  {
+   "text": "año.",
+   "start": 53.28,
+   "end": 53.54
+  },
+  {
+   "text": "Hay",
+   "start": 53.54,
+   "end": 54.02
+  },
+  {
+   "text": "gente",
+   "start": 54.02,
+   "end": 54.28
+  },
+  {
+   "text": "que",
+   "start": 54.28,
+   "end": 54.44
+  },
+  {
+   "text": "sale",
+   "start": 54.44,
+   "end": 54.68
+  },
+  {
+   "text": "a",
+   "start": 54.68,
+   "end": 54.8
+  },
+  {
+   "text": "la",
+   "start": 54.8,
+   "end": 54.9
+  },
+  {
+   "text": "calle",
+   "start": 54.9,
+   "end": 55.16
+  },
+  {
+   "text": "arrastrando",
+   "start": 55.16,
+   "end": 55.74
+  },
+  {
+   "text": "20",
+   "start": 55.74,
+   "end": 56.26
+  },
+  {
+   "text": "metros",
+   "start": 56.26,
+   "end": 56.8
+  },
+  {
+   "text": "de",
+   "start": 56.8,
+   "end": 57.04
+  },
+  {
+   "text": "cable.",
+   "start": 57.04,
+   "end": 57.34
+  },
+  {
+   "text": "Esto",
+   "start": 58.06,
+   "end": 58.42
+  },
+  {
+   "text": "ya",
+   "start": 58.42,
+   "end": 58.76
+  },
+  {
+   "text": "pasó,",
+   "start": 58.76,
+   "end": 59.12
+  },
+  {
+   "text": "más",
+   "start": 59.5,
+   "end": 59.82
+  },
+  {
+   "text": "o",
+   "start": 59.82,
+   "end": 60.0
+  },
+  {
+   "text": "menos.",
+   "start": 60.0,
+   "end": 60.2
+  },
+  {
+   "text": "En",
+   "start": 60.76,
+   "end": 60.9
+  },
+  {
+   "text": "1983",
+   "start": 60.9,
+   "end": 61.94
+  },
+  {
+   "text": "llegó",
+   "start": 61.94,
+   "end": 62.64
+  },
+  {
+   "text": "el",
+   "start": 62.64,
+   "end": 62.86
+  },
+  {
+   "text": "primer",
+   "start": 62.86,
+   "end": 63.22
+  },
+  {
+   "text": "celular",
+   "start": 63.22,
+   "end": 63.74
+  },
+  {
+   "text": "de",
+   "start": 63.74,
+   "end": 63.94
+  },
+  {
+   "text": "mano.",
+   "start": 63.94,
+   "end": 64.18
+  },
+  {
+   "text": "Su",
+   "start": 64.58,
+   "end": 64.66
+  },
+  {
+   "text": "batería",
+   "start": 64.66,
+   "end": 65.12
+  },
+  {
+   "text": "daba",
+   "start": 65.12,
+   "end": 65.4
+  },
+  {
+   "text": "30",
+   "start": 65.4,
+   "end": 65.84
+  },
+  {
+   "text": "minutos",
+   "start": 65.84,
+   "end": 66.28
+  },
+  {
+   "text": "de",
+   "start": 66.28,
+   "end": 66.56
+  },
+  {
+   "text": "llamada",
+   "start": 66.56,
+   "end": 66.98
+  },
+  {
+   "text": "y",
+   "start": 66.98,
+   "end": 67.36
+  },
+  {
+   "text": "tardaba",
+   "start": 67.36,
+   "end": 67.8
+  },
+  {
+   "text": "10",
+   "start": 67.8,
+   "end": 68.22
+  },
+  {
+   "text": "horas",
+   "start": 68.22,
+   "end": 68.64
+  },
+  {
+   "text": "en",
+   "start": 68.64,
+   "end": 68.86
+  },
+  {
+   "text": "cargar.",
+   "start": 68.86,
+   "end": 69.2
+  },
+  {
+   "text": "La",
+   "start": 69.64,
+   "end": 69.8
+  },
+  {
+   "text": "batería",
+   "start": 69.8,
+   "end": 70.2
+  },
+  {
+   "text": "de",
+   "start": 70.2,
+   "end": 70.34
+  },
+  {
+   "text": "Litio",
+   "start": 70.34,
+   "end": 70.72
+  },
+  {
+   "text": "la",
+   "start": 70.72,
+   "end": 70.86
+  },
+  {
+   "text": "vendió",
+   "start": 70.86,
+   "end": 71.18
+  },
+  {
+   "text": "Sony",
+   "start": 71.18,
+   "end": 71.5
+  },
+  {
+   "text": "por",
+   "start": 71.5,
+   "end": 71.72
+  },
+  {
+   "text": "primera",
+   "start": 71.72,
+   "end": 72.06
+  },
+  {
+   "text": "vez",
+   "start": 72.06,
+   "end": 72.38
+  },
+  {
+   "text": "en",
+   "start": 72.38,
+   "end": 72.66
+  },
+  {
+   "text": "1991.",
+   "start": 72.66,
+   "end": 73.72
+  },
+  {
+   "text": "Sus",
+   "start": 74.46,
+   "end": 74.6
+  },
+  {
+   "text": "inventores",
+   "start": 74.6,
+   "end": 75.2
+  },
+  {
+   "text": "ganaron",
+   "start": 75.2,
+   "end": 75.66
+  },
+  {
+   "text": "el",
+   "start": 75.66,
+   "end": 75.84
+  },
+  {
+   "text": "premio",
+   "start": 75.84,
+   "end": 76.16
+  },
+  {
+   "text": "Nobel",
+   "start": 76.16,
+   "end": 76.38
+  },
+  {
+   "text": "de",
+   "start": 76.38,
+   "end": 76.6
+  },
+  {
+   "text": "Química",
+   "start": 76.6,
+   "end": 77.0
+  },
+  {
+   "text": "en",
+   "start": 77.0,
+   "end": 77.26
+  },
+  {
+   "text": "2019.",
+   "start": 77.26,
+   "end": 77.82
+  },
+  {
+   "text": "Sin",
+   "start": 78.62,
+   "end": 78.86
+  },
+  {
+   "text": "ella,",
+   "start": 78.86,
+   "end": 79.14
+  },
+  {
+   "text": "no",
+   "start": 79.52,
+   "end": 79.76
+  },
+  {
+   "text": "hay",
+   "start": 79.76,
+   "end": 79.96
+  },
+  {
+   "text": "celular",
+   "start": 79.96,
+   "end": 80.26
+  },
+  {
+   "text": "en",
+   "start": 80.26,
+   "end": 80.52
+  },
+  {
+   "text": "el",
+   "start": 80.52,
+   "end": 80.64
+  },
+  {
+   "text": "bolsillo.",
+   "start": 80.64,
+   "end": 81.02
+  },
+  {
+   "text": "Ni",
+   "start": 81.02,
+   "end": 81.5
+  },
+  {
+   "text": "auriculares",
+   "start": 81.5,
+   "end": 82.04
+  },
+  {
+   "text": "sin",
+   "start": 82.04,
+   "end": 82.32
+  },
+  {
+   "text": "cable,",
+   "start": 82.32,
+   "end": 82.62
+  },
+  {
+   "text": "ni",
+   "start": 82.96,
+   "end": 83.08
+  },
+  {
+   "text": "reloj",
+   "start": 83.08,
+   "end": 83.46
+  },
+  {
+   "text": "inteligente,",
+   "start": 83.46,
+   "end": 84.16
+  },
+  {
+   "text": "ni",
+   "start": 84.5,
+   "end": 84.62
+  },
+  {
+   "text": "patinete",
+   "start": 84.62,
+   "end": 85.16
+  },
+  {
+   "text": "eléctrico.",
+   "start": 85.16,
+   "end": 85.74
+  },
+  {
+   "text": "Cada",
+   "start": 86.18,
+   "end": 86.38
+  },
+  {
+   "text": "año",
+   "start": 86.38,
+   "end": 86.72
+  },
+  {
+   "text": "se",
+   "start": 86.72,
+   "end": 86.9
+  },
+  {
+   "text": "venden",
+   "start": 86.9,
+   "end": 87.16
+  },
+  {
+   "text": "unos",
+   "start": 87.16,
+   "end": 87.42
+  },
+  {
+   "text": "1240",
+   "start": 87.42,
+   "end": 88.84
+  },
+  {
+   "text": "millones",
+   "start": 88.84,
+   "end": 89.46
+  },
+  {
+   "text": "de",
+   "start": 89.46,
+   "end": 89.84
+  },
+  {
+   "text": "celulares.",
+   "start": 89.84,
+   "end": 90.3
+  },
+  {
+   "text": "Este",
+   "start": 90.76,
+   "end": 91.06
+  },
+  {
+   "text": "año",
+   "start": 91.06,
+   "end": 91.38
+  },
+  {
+   "text": "también",
+   "start": 91.38,
+   "end": 91.88
+  },
+  {
+   "text": "se",
+   "start": 91.88,
+   "end": 92.16
+  },
+  {
+   "text": "venden",
+   "start": 92.16,
+   "end": 92.42
+  },
+  {
+   "text": "1240",
+   "start": 92.42,
+   "end": 93.7
+  },
+  {
+   "text": "millones",
+   "start": 93.7,
+   "end": 94.28
+  },
+  {
+   "text": "de",
+   "start": 94.28,
+   "end": 94.62
+  },
+  {
+   "text": "cables",
+   "start": 94.62,
+   "end": 94.92
+  },
+  {
+   "text": "largos.",
+   "start": 94.92,
+   "end": 95.52
+  },
+  {
+   "text": "Pasamos",
+   "start": 95.88,
+   "end": 96.22
+  },
+  {
+   "text": "unas",
+   "start": 96.22,
+   "end": 96.52
+  },
+  {
+   "text": "3",
+   "start": 96.52,
+   "end": 96.88
+  },
+  {
+   "text": "horas",
+   "start": 96.88,
+   "end": 97.14
+  },
+  {
+   "text": "y",
+   "start": 97.14,
+   "end": 97.38
+  },
+  {
+   "text": "media",
+   "start": 97.38,
+   "end": 97.6
+  },
+  {
+   "text": "al",
+   "start": 97.6,
+   "end": 97.78
+  },
+  {
+   "text": "día",
+   "start": 97.78,
+   "end": 97.98
+  },
+  {
+   "text": "mirando",
+   "start": 97.98,
+   "end": 98.4
+  },
+  {
+   "text": "el",
+   "start": 98.4,
+   "end": 98.54
+  },
+  {
+   "text": "celular.",
+   "start": 98.54,
+   "end": 98.92
+  },
+  {
+   "text": "Ahora,",
+   "start": 99.36,
+   "end": 99.66
+  },
+  {
+   "text": "esas",
+   "start": 100.04,
+   "end": 100.22
+  },
+  {
+   "text": "3",
+   "start": 100.22,
+   "end": 100.52
+  },
+  {
+   "text": "horas",
+   "start": 100.52,
+   "end": 100.74
+  },
+  {
+   "text": "y",
+   "start": 100.74,
+   "end": 100.96
+  },
+  {
+   "text": "media",
+   "start": 100.96,
+   "end": 101.2
+  },
+  {
+   "text": "son",
+   "start": 101.2,
+   "end": 101.46
+  },
+  {
+   "text": "de",
+   "start": 101.46,
+   "end": 101.64
+  },
+  {
+   "text": "pie,",
+   "start": 101.64,
+   "end": 101.9
+  },
+  {
+   "text": "junto",
+   "start": 102.16,
+   "end": 102.46
+  },
+  {
+   "text": "a",
+   "start": 102.46,
+   "end": 102.66
+  },
+  {
+   "text": "un",
+   "start": 102.66,
+   "end": 102.76
+  },
+  {
+   "text": "enchufe.",
+   "start": 102.76,
+   "end": 103.18
+  },
+  {
+   "text": "Al",
+   "start": 103.64,
+   "end": 103.78
+  },
+  {
+   "text": "final,",
+   "start": 103.78,
+   "end": 104.06
+  },
+  {
+   "text": "la",
+   "start": 104.54,
+   "end": 104.56
+  },
+  {
+   "text": "humanidad",
+   "start": 104.56,
+   "end": 105.04
+  },
+  {
+   "text": "se",
+   "start": 105.04,
+   "end": 105.26
+  },
+  {
+   "text": "adapta.",
+   "start": 105.26,
+   "end": 105.66
+  },
+  {
+   "text": "Inventamos",
+   "start": 106.02,
+   "end": 106.52
+  },
+  {
+   "text": "un",
+   "start": 106.52,
+   "end": 106.72
+  },
+  {
+   "text": "teléfono",
+   "start": 106.72,
+   "end": 107.14
+  },
+  {
+   "text": "que",
+   "start": 107.14,
+   "end": 107.34
+  },
+  {
+   "text": "se",
+   "start": 107.34,
+   "end": 107.46
+  },
+  {
+   "text": "queda",
+   "start": 107.46,
+   "end": 107.64
+  },
+  {
+   "text": "en",
+   "start": 107.64,
+   "end": 107.84
+  },
+  {
+   "text": "casa,",
+   "start": 107.84,
+   "end": 108.16
+  },
+  {
+   "text": "pegado",
+   "start": 108.46,
+   "end": 108.92
+  },
+  {
+   "text": "a",
+   "start": 108.92,
+   "end": 108.98
+  },
+  {
+   "text": "la",
+   "start": 108.98,
+   "end": 109.06
+  },
+  {
+   "text": "pared",
+   "start": 109.06,
+   "end": 109.44
+  },
+  {
+   "text": "con",
+   "start": 109.44,
+   "end": 109.76
+  },
+  {
+   "text": "su",
+   "start": 109.76,
+   "end": 109.92
+  },
+  {
+   "text": "cable.",
+   "start": 109.92,
+   "end": 110.26
+  },
+  {
+   "text": "Lo",
+   "start": 110.58,
+   "end": 110.74
+  },
+  {
+   "text": "llamamos",
+   "start": 110.74,
+   "end": 111.3
+  },
+  {
+   "text": "teléfono",
+   "start": 111.3,
+   "end": 112.24
+  },
+  {
+   "text": "fijo.",
+   "start": 112.24,
+   "end": 112.62
+  },
+  {
+   "text": "Y",
+   "start": 113.1,
+   "end": 113.16
+  },
+  {
+   "text": "tu",
+   "start": 113.16,
+   "end": 113.26
+  },
+  {
+   "text": "celular",
+   "start": 113.26,
+   "end": 113.66
+  },
+  {
+   "text": "sigue",
+   "start": 113.66,
+   "end": 114.24
+  },
+  {
+   "text": "en",
+   "start": 114.24,
+   "end": 114.42
+  },
+  {
+   "text": "cero.",
+   "start": 114.42,
+   "end": 114.72
+  },
+  {
+   "text": "Pero",
+   "start": 115.02,
+   "end": 115.22
+  },
+  {
+   "text": "por",
+   "start": 115.22,
+   "end": 115.42
+  },
+  {
+   "text": "fin",
+   "start": 115.42,
+   "end": 115.8
+  },
+  {
+   "text": "alguien",
+   "start": 115.8,
+   "end": 116.34
+  },
+  {
+   "text": "te",
+   "start": 116.34,
+   "end": 116.6
+  },
+  {
+   "text": "llama.",
+   "start": 116.6,
+   "end": 116.9
+  },
+  {
+   "text": "Es",
+   "start": 117.28,
+   "end": 117.54
+  },
+  {
+   "text": "tu",
+   "start": 117.54,
+   "end": 117.66
+  },
+  {
+   "text": "abuela",
+   "start": 117.66,
+   "end": 118.04
+  },
+  {
+   "text": "desde",
+   "start": 118.04,
+   "end": 118.62
+  },
+  {
+   "text": "el",
+   "start": 118.62,
+   "end": 118.84
+  },
+  {
+   "text": "fijo.",
+   "start": 118.84,
+   "end": 119.12
+  }
+ ]
+}
