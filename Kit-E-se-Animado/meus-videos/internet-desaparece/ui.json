@@ -1,0 +1,15 @@
+{
+  "duracao": 60.5,
+  "palavrasPorLegenda": 3,
+  "destaques": ["conexión.", "internet.", "desapareció.", "planeta.", "cero.", "tarjeta", "cajero.", "monedas", "monedas.", "egipto", "millones", "entero.", "300", "familia.", "nadie"],
+  "trocas": {},
+  "elementos": [
+    { "tipo": "placa", "inicio": 7.4, "fim": 10.1, "numero": "5.500.000.000", "rotulo": "PERSONAS SIN CONEXIÓN" },
+    { "tipo": "placa", "inicio": 20.4, "fim": 24.35, "numero": "640.000.000", "rotulo": "PAGOS CON TARJETA AL DÍA" },
+    { "tipo": "contador", "inicio": 24.4, "fim": 25.85, "de": 640000000, "ate": 0, "duracaoConta": 0.6, "rotulo": "HOY" },
+    { "tipo": "etiqueta", "inicio": 42.4, "fim": 48.4, "texto": "EGIPTO · 2011", "topo": 240 },
+    { "tipo": "placa", "inicio": 45.8, "fim": 48.45, "numero": "US$ 90.000.000", "rotulo": "5 DÍAS SIN INTERNET", "topo": 360 },
+    { "tipo": "pill", "inicio": 48.6, "fim": 52.0, "texto": "AHORA, TODO EL MUNDO" },
+    { "tipo": "burst", "inicio": 55.36, "fim": 56.9, "texto": "300", "topo": 230 }
+  ]
+}
