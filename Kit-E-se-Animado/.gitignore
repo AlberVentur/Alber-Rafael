@@ -1,3 +1,4 @@
 node_modules/
 meus-videos/*/.hyperframes/
 meus-videos/*/_render.mp4
+meus-videos/*/work-*/
