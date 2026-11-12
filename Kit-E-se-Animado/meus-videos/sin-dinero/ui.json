@@ -1,0 +1,11 @@
+{
+  "duracao": 43.5,
+  "palavrasPorLegenda": 3,
+  "destaques": ["vacía.", "dinero", "deudas.", "zapatos.", "guitarra.", "trueque.", "moneda.", "caballa.", "sobres.", "pescado.", "lidia,"],
+  "trocas": {},
+  "elementos": [
+    { "tipo": "etiqueta", "inicio": 21.3, "fim": 26.7, "texto": "LIDIA · HACE 2.600 AÑOS", "topo": 240 },
+    { "tipo": "pill", "inicio": 27.0, "fim": 32.0, "texto": "CÁRCELES DE EE. UU.", "topo": 240 },
+    { "tipo": "placa", "inicio": 32.1, "fim": 34.35, "numero": "2 SOBRES", "rotulo": "= 1 CORTE DE PELO", "topo": 230 }
+  ]
+}
