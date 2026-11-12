@@ -1,0 +1,529 @@
+{
+ "words": [
+  {
+   "text": "Abres",
+   "start": 0.22,
+   "end": 0.36
+  },
+  {
+   "text": "tu",
+   "start": 0.36,
+   "end": 0.52
+  },
+  {
+   "text": "cartera.",
+   "start": 0.52,
+   "end": 0.94
+  },
+  {
+   "text": "Vacía.",
+   "start": 1.62,
+   "end": 2.12
+  },
+  {
+   "text": "La",
+   "start": 2.64,
+   "end": 2.84
+  },
+  {
+   "text": "de",
+   "start": 2.84,
+   "end": 3.0
+  },
+  {
+   "text": "todo",
+   "start": 3.0,
+   "end": 3.2
+  },
+  {
+   "text": "el",
+   "start": 3.2,
+   "end": 3.4
+  },
+  {
+   "text": "mundo,",
+   "start": 3.4,
+   "end": 3.68
+  },
+  {
+   "text": "también.",
+   "start": 3.76,
+   "end": 4.04
+  },
+  {
+   "text": "El",
+   "start": 4.72,
+   "end": 4.86
+  },
+  {
+   "text": "dinero",
+   "start": 4.86,
+   "end": 5.16
+  },
+  {
+   "text": "dejó",
+   "start": 5.16,
+   "end": 5.64
+  },
+  {
+   "text": "de",
+   "start": 5.64,
+   "end": 5.76
+  },
+  {
+   "text": "existir.",
+   "start": 5.76,
+   "end": 6.26
+  },
+  {
+   "text": "Lo",
+   "start": 6.8,
+   "end": 6.96
+  },
+  {
+   "text": "bueno:",
+   "start": 6.96,
+   "end": 7.2
+  },
+  {
+   "text": "Se",
+   "start": 7.62,
+   "end": 7.82
+  },
+  {
+   "text": "acabaron",
+   "start": 7.82,
+   "end": 8.28
+  },
+  {
+   "text": "las",
+   "start": 8.28,
+   "end": 8.48
+  },
+  {
+   "text": "deudas.",
+   "start": 8.48,
+   "end": 8.9
+  },
+  {
+   "text": "¿Qué",
+   "start": 9.4,
+   "end": 9.5
+  },
+  {
+   "text": "podría",
+   "start": 9.5,
+   "end": 9.8
+  },
+  {
+   "text": "salir",
+   "start": 9.8,
+   "end": 10.14
+  },
+  {
+   "text": "mal?",
+   "start": 10.14,
+   "end": 10.34
+  },
+  {
+   "text": "Vas",
+   "start": 11.32,
+   "end": 11.5
+  },
+  {
+   "text": "por",
+   "start": 11.5,
+   "end": 11.72
+  },
+  {
+   "text": "pan.",
+   "start": 11.72,
+   "end": 11.94
+  },
+  {
+   "text": "El",
+   "start": 12.48,
+   "end": 12.58
+  },
+  {
+   "text": "panadero",
+   "start": 12.58,
+   "end": 13.06
+  },
+  {
+   "text": "quiere",
+   "start": 13.06,
+   "end": 13.34
+  },
+  {
+   "text": "zapatos.",
+   "start": 13.34,
+   "end": 13.86
+  },
+  {
+   "text": "Tú",
+   "start": 14.42,
+   "end": 14.56
+  },
+  {
+   "text": "solo",
+   "start": 14.56,
+   "end": 14.78
+  },
+  {
+   "text": "tienes",
+   "start": 14.78,
+   "end": 15.08
+  },
+  {
+   "text": "una",
+   "start": 15.08,
+   "end": 15.36
+  },
+  {
+   "text": "guitarra.",
+   "start": 15.36,
+   "end": 15.86
+  },
+  {
+   "text": "Eso",
+   "start": 16.44,
+   "end": 16.66
+  },
+  {
+   "text": "es",
+   "start": 16.66,
+   "end": 16.88
+  },
+  {
+   "text": "el",
+   "start": 16.88,
+   "end": 17.02
+  },
+  {
+   "text": "trueque.",
+   "start": 17.02,
+   "end": 17.38
+  },
+  {
+   "text": "Necesitas",
+   "start": 17.8,
+   "end": 18.32
+  },
+  {
+   "text": "a",
+   "start": 18.32,
+   "end": 18.54
+  },
+  {
+   "text": "alguien",
+   "start": 18.54,
+   "end": 18.78
+  },
+  {
+   "text": "que",
+   "start": 18.78,
+   "end": 18.96
+  },
+  {
+   "text": "quiera",
+   "start": 18.96,
+   "end": 19.2
+  },
+  {
+   "text": "justo",
+   "start": 19.2,
+   "end": 19.64
+  },
+  {
+   "text": "lo",
+   "start": 19.64,
+   "end": 19.88
+  },
+  {
+   "text": "que",
+   "start": 19.88,
+   "end": 20.02
+  },
+  {
+   "text": "tú",
+   "start": 20.02,
+   "end": 20.26
+  },
+  {
+   "text": "tienes.",
+   "start": 20.26,
+   "end": 20.64
+  },
+  {
+   "text": "Por",
+   "start": 21.18,
+   "end": 21.34
+  },
+  {
+   "text": "eso,",
+   "start": 21.34,
+   "end": 21.58
+  },
+  {
+   "text": "hace",
+   "start": 21.86,
+   "end": 22.04
+  },
+  {
+   "text": "unos",
+   "start": 22.04,
+   "end": 22.28
+  },
+  {
+   "text": "dos",
+   "start": 22.28,
+   "end": 22.56
+  },
+  {
+   "text": "mil",
+   "start": 22.56,
+   "end": 22.86
+  },
+  {
+   "text": "seiscientos",
+   "start": 22.86,
+   "end": 23.52
+  },
+  {
+   "text": "años,",
+   "start": 23.52,
+   "end": 23.8
+  },
+  {
+   "text": "en",
+   "start": 24.16,
+   "end": 24.24
+  },
+  {
+   "text": "Lidia,",
+   "start": 24.24,
+   "end": 24.66
+  },
+  {
+   "text": "alguien",
+   "start": 25.04,
+   "end": 25.32
+  },
+  {
+   "text": "inventó",
+   "start": 25.32,
+   "end": 25.84
+  },
+  {
+   "text": "la",
+   "start": 25.84,
+   "end": 25.96
+  },
+  {
+   "text": "moneda.",
+   "start": 25.96,
+   "end": 26.34
+  },
+  {
+   "text": "¿Y",
+   "start": 26.82,
+   "end": 27.02
+  },
+  {
+   "text": "sin",
+   "start": 27.02,
+   "end": 27.22
+  },
+  {
+   "text": "billetes?",
+   "start": 27.22,
+   "end": 27.6
+  },
+  {
+   "text": "En",
+   "start": 27.92,
+   "end": 28.32
+  },
+  {
+   "text": "las",
+   "start": 28.32,
+   "end": 28.48
+  },
+  {
+   "text": "cárceles",
+   "start": 28.48,
+   "end": 28.98
+  },
+  {
+   "text": "de",
+   "start": 28.98,
+   "end": 29.08
+  },
+  {
+   "text": "Estados",
+   "start": 29.08,
+   "end": 29.34
+  },
+  {
+   "text": "Unidos",
+   "start": 29.34,
+   "end": 29.8
+  },
+  {
+   "text": "se",
+   "start": 29.8,
+   "end": 30.16
+  },
+  {
+   "text": "paga",
+   "start": 30.16,
+   "end": 30.42
+  },
+  {
+   "text": "con",
+   "start": 30.42,
+   "end": 30.62
+  },
+  {
+   "text": "sobres",
+   "start": 30.62,
+   "end": 31.1
+  },
+  {
+   "text": "de",
+   "start": 31.1,
+   "end": 31.2
+  },
+  {
+   "text": "caballa.",
+   "start": 31.2,
+   "end": 31.66
+  },
+  {
+   "text": "Un",
+   "start": 32.04,
+   "end": 32.18
+  },
+  {
+   "text": "corte",
+   "start": 32.18,
+   "end": 32.52
+  },
+  {
+   "text": "de",
+   "start": 32.52,
+   "end": 32.58
+  },
+  {
+   "text": "pelo,",
+   "start": 32.58,
+   "end": 32.86
+  },
+  {
+   "text": "dos",
+   "start": 33.18,
+   "end": 33.4
+  },
+  {
+   "text": "sobres.",
+   "start": 33.4,
+   "end": 33.9
+  },
+  {
+   "text": "Así",
+   "start": 34.42,
+   "end": 34.6
+  },
+  {
+   "text": "que",
+   "start": 34.6,
+   "end": 34.8
+  },
+  {
+   "text": "en",
+   "start": 34.8,
+   "end": 34.96
+  },
+  {
+   "text": "una",
+   "start": 34.96,
+   "end": 35.12
+  },
+  {
+   "text": "semana,",
+   "start": 35.12,
+   "end": 35.54
+  },
+  {
+   "text": "inventamos",
+   "start": 35.7,
+   "end": 36.38
+  },
+  {
+   "text": "el",
+   "start": 36.38,
+   "end": 36.56
+  },
+  {
+   "text": "dinero",
+   "start": 36.56,
+   "end": 36.9
+  },
+  {
+   "text": "otra",
+   "start": 36.9,
+   "end": 37.32
+  },
+  {
+   "text": "vez.",
+   "start": 37.32,
+   "end": 37.66
+  },
+  {
+   "text": "Y",
+   "start": 38.2,
+   "end": 38.26
+  },
+  {
+   "text": "tu",
+   "start": 38.26,
+   "end": 38.38
+  },
+  {
+   "text": "cartera",
+   "start": 38.38,
+   "end": 38.82
+  },
+  {
+   "text": "sigue",
+   "start": 38.82,
+   "end": 39.22
+  },
+  {
+   "text": "vacía.",
+   "start": 39.22,
+   "end": 39.74
+  },
+  {
+   "text": "Pero",
+   "start": 40.28,
+   "end": 40.36
+  },
+  {
+   "text": "huele",
+   "start": 40.36,
+   "end": 40.86
+  },
+  {
+   "text": "a",
+   "start": 40.86,
+   "end": 40.92
+  },
+  {
+   "text": "pescado.",
+   "start": 40.92,
+   "end": 41.38
+  }
+ ]
+}
