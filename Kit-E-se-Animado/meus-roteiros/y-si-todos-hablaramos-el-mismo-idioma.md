@@ -4,11 +4,11 @@
 
 Abres la boca y todo el planeta te entiende. Hasta tu suegra.
 
-Ayer había más de siete mil idiomas. Hoy, solo uno.
+Ayer había más de siete mil idiomas. Hoy, solo uno. El mismo para todos.
 
 Lo bueno: viajas sin diccionario. ¿Qué podría salir mal?
 
-Los traductores se quedan sin trabajo. Su negocio movía unos setenta mil millones de dólares al año.
+Los traductores y los profes de inglés se quedan sin trabajo. Su negocio movía unos setenta mil millones de dólares al año.
 
 Y con cada idioma se van canciones, chistes y palabras que no existen en ningún otro.
 
