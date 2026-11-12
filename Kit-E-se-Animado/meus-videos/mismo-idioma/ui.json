@@ -1,0 +1,13 @@
+{
+  "duracao": 42.8,
+  "palavrasPorLegenda": 3,
+  "destaques": ["planeta", "suegra.", "idiomas.", "uno.", "diccionario.", "trabajo.", "canciones,", "chistes", "palabras", "esperanto.", "mil", "suegra"],
+  "trocas": {},
+  "elementos": [
+    { "tipo": "placa", "inicio": 5.4, "fim": 7.55, "numero": "7.000+", "rotulo": "IDIOMAS AYER" },
+    { "tipo": "contador", "inicio": 7.6, "fim": 11.0, "de": 7000, "ate": 1, "duracaoConta": 0.8, "rotulo": "IDIOMAS HOY" },
+    { "tipo": "placa", "inicio": 19.1, "fim": 22.85, "numero": "US$ 70.000.000.000", "rotulo": "AL AÑO EN SERVICIOS DE IDIOMAS" },
+    { "tipo": "etiqueta", "inicio": 30.3, "fim": 33.5, "texto": "1887", "topo": 240 },
+    { "tipo": "placa", "inicio": 33.6, "fim": 36.6, "numero": "~1.000", "rotulo": "HABLANTES NATIVOS DE ESPERANTO" }
+  ]
+}
