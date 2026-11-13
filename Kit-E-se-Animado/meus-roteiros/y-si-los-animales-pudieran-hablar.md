@@ -74,6 +74,14 @@ Las verduras se agotan en los supermercados. Las hamburguesas de lentejas se vue
 
 Y los países tienen que hacer nuevas leyes. Porque si alguien te puede decir que no quiere, ya no es tan fácil decir que no sabías.
 
+Las Naciones Unidas convocan una reunión de emergencia. Por primera vez en la historia, en la mesa hay humanos y animales.
+
+No sale bien. El representante de los gatos llega tarde y se duerme encima de los papeles. El de los perros se emociona y le mueve la cola a todo el mundo, incluso a los que no le caen bien. Los loros repiten todo lo que dicen los demás, así que nadie sabe quién propuso qué.
+
+Y el delegado de las hormigas, que representa a muchísimas más hormigas que humanos hay en el planeta, pide la palabra. Habla durante seis horas. Nadie se atreve a interrumpirlo.
+
+Al final se firma un acuerdo muy corto. Dice, más o menos: vamos a intentarlo.
+
 Pero no todo son problemas.
 
 Los perros de rescate pueden decir exactamente dónde huelen a una persona atrapada. Los perros guía avisan: cuidado, un escalón, y el semáforo está en rojo aunque ese señor cruce.
@@ -135,4 +143,4 @@ Seis años cayendo, dice. Ahora estamos a mano.
 - Más de 80.000 millones de animales terrestres sacrificados al año para carne; unos 74.000 millones de pollos (FAOSTAT vía Our World in Data y Faunalytics). https://ourworldindata.org/data-insights/billions-of-chickens-ducks-and-pigs-are-slaughtered-for-meat-every-year
 - Chaser, border collie, 1.022 nombres de objetos (Pilley y Reid, Behavioural Processes, 2010). https://www.sciencedaily.com/releases/2011/01/110106144252.htm
 - Abejas y pesticidas/pérdida de flores: amenazas conocidas para los polinizadores (conocimiento general; el guion lo pone en boca de las abejas).
-- Todo lo demás (Lord Bigotes, Ramón, el loro, la ballena, el contrato, los abogados cerdos, el perro y la pelota): ficción.
+- Todo lo demás (Lord Bigotes, Ramón, la reunión de la ONU, el loro, la ballena, el contrato, los abogados cerdos, el perro y la pelota): ficción.
