@@ -1,136 +1,135 @@
 # Guion: ¿y si fueras el único hombre en la Tierra? (YouTube horizontal, ~8 min)
 
+Versión: desaparecen todos los hombres del planeta menos tú. Las mujeres siguen aquí.
+
 ## Narración (para grabar o pegar en ElevenLabs)
 
-Te despiertas. Hay silencio. Pero un silencio raro.
+Te despiertas. Bajas a la cocina. Tu papá no está. Tu hermano tampoco. Hay dos tazas de café en la mesa, todavía calientes.
 
-No hay tráfico. No hay vecinos. No ladra ni el perro de enfrente, que ladra siempre.
+Tu mamá está frente a la televisión, con la boca abierta.
 
-Miras el celular. Cero mensajes. Ni siquiera del grupo de la familia.
+En las noticias, una presentadora repite lo mismo una y otra vez: todos los hombres del planeta desaparecieron anoche.
 
-Sales a la calle. Hay coches parados en medio de la avenida, con las puertas abiertas. Hay un café a medio tomar en una mesa. Todavía está tibio.
+Todos. Más de cuatro mil millones.
 
-Gritas: ¿hola? Nadie contesta.
+Tu mamá se da vuelta despacio. Te mira. Y grita.
 
-Esa noche, unas ocho mil doscientos millones de personas desaparecieron.
-
-Todas. Menos tú.
+Porque tú sigues aquí.
 
 Eres el único hombre en la Tierra.
 
-Lo bueno: todo es tuyo. El supermercado es tuyo. La mansión de la colina es tuya. El coche deportivo que siempre mirabas, también. Las llaves están puestas.
-
-Vas al cine. Eliges la mejor butaca. Pones la película que quieres. Nadie habla. Nadie mira el celular. Es perfecto.
-
-Entras al supermercado y llenas el carrito de todo lo que nunca te compraste. Y antes de salir, por costumbre, dejas dinero en la caja.
+Lo bueno: se acabó la fila en el baño de hombres. Para siempre. Es tuyo. Todos los baños de hombres del mundo son tuyos.
 
 ¿Qué podría salir mal?
 
-Te subes al coche deportivo y aceleras por la autopista vacía. Ni un semáforo, ni una multa, ni un atasco. Por costumbre, pones el intermitente para cambiar de carril. No hay nadie a quien avisar. Lo pones igual.
+El primer día, el mundo se queda quieto. Hay oficinas a medias, cocinas a medias, aviones que no despegan. Porque había trabajos que hacían casi solo hombres.
 
-Esa noche duermes en la mansión de la colina. Tiene catorce habitaciones. Duermes en el sofá de la sala, con todas las luces prendidas.
+En Estados Unidos, por ejemplo, menos del cuatro por ciento de los carpinteros y de los electricistas eran mujeres. En las obras de construcción, casi lo mismo. Y en las cabinas de los aviones de pasajeros, menos de cinco pilotos de cada cien eran mujeres.
 
-El primer problema llega rápido. Las centrales eléctricas necesitan gente. Sin nadie que las vigile, muchas se apagan solas en menos de un día. Y el apagón se va contagiando, ciudad por ciudad.
+Así que los aviones se quedan en tierra. Las obras se quedan con la grúa en el aire. Y los camiones que llevan la comida a los supermercados se quedan parados en la carretera.
 
-La segunda noche, el mundo entero está a oscuras.
+Tú, como eres el único hombre, sientes que tienes que hacer algo. Te ofreces a arreglar la luz del barrio. Abres el cuadro eléctrico. Lo miras. Lo cierras.
 
-Sin electricidad no hay bombas de agua. En Nueva York, los túneles del metro necesitan sacar millones de litros de agua cada día para no inundarse. Sin nadie que las encienda, en uno o dos días el metro se llena de agua.
+Una vecina que estudió ingeniería te aparta con cuidado y lo arregla en diez minutos.
 
-Internet se apaga. La televisión se apaga. La radio solo hace un ruido. Shhhhh.
+Y eso pasa en todas partes. A la semana, hay filas de mujeres en las escuelas de pilotos, de electricistas, de camioneras. Al mes, los supermercados vuelven a tener pan. Al año, la grúa de la obra de enfrente vuelve a moverse.
 
-Tu celular se queda con un uno por ciento de batería. Lo usas para algo importante: la última foto de la ciudad con luz. Y se apaga.
+Las primeras semanas no son fáciles. Hay apagones, retrasos y filas larguísimas. Pero cada día algo vuelve a funcionar, y aparece alguien nuevo que sabe cómo hacerlo.
 
-A la semana, el supermercado ya no huele bien. La carne se pudre. La leche se corta. El pan se pone verde.
+El mundo no se rompió. Solo tuvo que aprender rápido.
 
-Aprendes la regla más importante del fin del mundo: las latas. Las latas duran años. Comes atún, garbanzos y melocotón en almíbar. En ese orden. Todos los días.
+Y algunas cosas, de repente, mejoran.
 
-Sigues dejando dinero en la caja. Por si acaso.
+Casi tres de cada cuatro personas que morían en accidentes de tráfico eran hombres. Ahora las carreteras son mucho más tranquilas.
 
-Y no estás tan solo como pensabas. Los animales siguen aquí. En la calle aparecen perros. Muchos perros. Perros grandes, perros pequeños, perros con suéter.
+En las cárceles federales de Estados Unidos, unos noventa y tres de cada cien presos eran hombres. De la noche a la mañana, las cárceles quedan casi vacías.
 
-Uno te sigue a todas partes. Es feo, tiene una oreja rota y huele a charco. Le pones de nombre Lunes, porque lo encontraste un lunes. O eso crees. Ya no sabes qué día es.
+Los guardias no saben qué hacer. Uno te mira con desconfianza. Por si acaso.
 
-Una noche, sin luces en ninguna parte, miras para arriba.
+Pero tu vida cambia de otra forma: eres famoso. El más famoso del planeta.
 
-Y ves algo que nunca habías visto: la Vía Láctea. Entera. De un lado a otro del cielo.
+Tu cara está en todos los noticieros. En las revistas. En las cajas de cereales. Hay un documental sobre ti, y ni siquiera te preguntaron.
 
-Siempre estuvo ahí. Pero hoy, más del ochenta por ciento de las personas vive bajo un cielo contaminado de luz. Y un tercio de la humanidad no puede ver la Vía Láctea desde su casa.
+Recibes un millón de cartas al día. La mitad son de científicas que quieren estudiarte. La otra mitad, de abuelas que quieren presentarte a sus nietas. Tu mamá las contesta todas. Con la misma carta.
 
-Tú sí. Eres el único que la está mirando. Y no tienes a quién decírselo.
+Los gobiernos te ponen guardaespaldas. Los científicos quieren estudiarte. Te sacan sangre, te hacen preguntas, te miden la cabeza.
 
-Ese es el problema de verdad. No es el hambre. No es la oscuridad. Es el silencio.
+Y en todas partes te dicen lo mismo: eres el futuro de la humanidad.
 
-Empiezas a hablar solo. Primero un poco. Luego mucho. Luego discutes contigo mismo. Y pierdes.
+Tú te lo crees. Te compras un traje. Practicas cara de héroe en el espejo.
 
-Los científicos dicen que la soledad es peligrosa. Un estudio muy grande encontró que estar aislado puede ser tan malo para la salud como fumar hasta quince cigarrillos al día.
+Hasta que una científica te explica algo con mucha paciencia.
 
-Así que haces lo que haría cualquiera: te consigues amigos. Vas a una tienda de ropa y te llevas un maniquí. Le pones un sombrero. Lo llamas Carlos.
+Ya existen bancos de donantes que envían muestras congeladas a más de cien países. Hay miles de muestras guardadas. La humanidad puede seguir teniendo bebés, niñas y niños, sin pedirte permiso.
 
-Carlos es buen oyente. No interrumpe. No te pide dinero. Lunes lo odia.
+Y la ciencia va todavía más lejos. En dos mil cuatro, en Japón, nació un ratón con dos mamás y ningún papá. En dos mil dieciocho, en China, nacieron decenas de ratones sanos con dos mamás. En personas todavía no se puede, y no se sabe si se podrá. Pero ya no eres tan necesario como creías.
 
-Llega diciembre. O eso calculas por el frío. Decoras un árbol en la plaza con luces que prendes con un generador. Envuelves regalos. Uno para Lunes, uno para Carlos, uno para ti.
+Te quitas el traje. Vuelves a ponerte la camiseta de siempre.
 
-Te regalas un reloj. Lunes recibe un hueso. Carlos, una bufanda. Cantas villancicos solo. Lunes aúlla en el estribillo. Es la peor Navidad de tu vida. Y también, de alguna forma, una de las más bonitas.
+Y empieza el chiste que te va a perseguir toda la vida.
 
-Al año, la ciudad ya no parece una ciudad. Crece pasto entre las baldosas. Las enredaderas suben por los semáforos. Las ventanas se rompen con las tormentas y los pájaros hacen nidos en las oficinas.
+Todo el mundo, en todas partes, te pide lo mismo: ¿me abres este frasco?
 
-Y vuelven los animales salvajes. Ya pasó una vez. Alrededor de Chernóbil, cuando la gente se fue, los animales volvieron. En la zona vacía, los científicos contaron más de siete veces más lobos que en las reservas naturales de alrededor.
+La vecina. La panadera. La presidenta, en una cena oficial, delante de las cámaras. Tú lo intentas. Pones cara de esfuerzo. A veces se abre. A veces no.
 
-Ahora el mundo entero es esa zona.
+Cuando no se abre, alguien te lo quita de las manos, le da un golpecito con la cuchara y lo abre. Y todo el mundo aplaude. A ella.
 
-Un día ves un ciervo en el supermercado. Está en el pasillo de los cereales. Lo miras. Te mira. Sigue comiendo. Ninguno de los dos deja dinero en la caja.
+Lo que nadie ve en las revistas es lo que pasa cuando apagas la luz.
 
-Pasan los años. Aprendes cosas que nunca pensaste. Vas a la biblioteca, que ahora es tuya, y lees libros de todo. Cómo plantar tomates. Cómo arreglar un generador. Cómo curar una herida. Cómo hablar con un maniquí sin que te preocupe.
+Extrañas a tu papá. Su forma de silbar mientras cocinaba. Sus chistes malos. Los consejos que nunca le pediste y ahora darías cualquier cosa por escuchar.
 
-Construyes un huerto en la terraza. Los primeros tomates te salen horribles. Los segundos, un poco menos. Los terceros son los mejores tomates que has comido en tu vida.
+Extrañas a tu hermano, aunque se peleaban por el control remoto. Extrañas a tu mejor amigo, el que te llamaba a las dos de la mañana para hablar de tonterías.
 
-No tienes a quién dárselos. Le das uno a Carlos. No le gusta.
+Eres el único que queda de algo. Y nadie entiende exactamente qué se siente.
 
-Y entonces decides buscar. Porque quizás no eres el único. Quizás hay alguien más, en otra ciudad, también hablando con un maniquí.
+Bueno. Casi nadie.
 
-Pintas en las azoteas letras gigantes: estoy aquí. Dejas mensajes en botellas. Prendes fogatas en las colinas. Enciendes una radio vieja con un generador y repites tu nombre todas las noches.
+Tu mamá entra a tu cuarto con dos tazas de té. Se sienta en la cama. No dice nada. Ella también perdió a tu papá, piensas. A su hermano. A su padre. A su hijo mayor.
 
-Nadie contesta. Shhhhh.
+Todas perdieron a alguien. Todas.
 
-Viajas a otras ciudades. Cruzas puentes vacíos, pueblos vacíos, aeropuertos llenos de aviones que nunca van a despegar. En cada ciudad dejas un mensaje. Y sigues.
+Esa noche entiendes que tú no eres el que más perdió. Solo eres el que más se ve.
 
-Y en el camino, algo cambia dentro de ti.
+Así que haces algo útil. Empiezas un proyecto: recoges las historias de los hombres que desaparecieron. Vas casa por casa, ciudad por ciudad. Escuchas a las hijas, a las madres, a las amigas.
 
-Empiezas a extrañar cosas que odiabas. El tráfico. El vecino que ponía música a las tres de la mañana. La señora que se colaba en la fila del banco. El que masticaba con la boca abierta en el cine.
+Llenas cuadernos. Luego, archivos. Luego, una biblioteca entera. La biblioteca de los que no volvieron.
 
-Ahora darías cualquier cosa por escuchar a alguien masticar con la boca abierta.
+Un día te llega un rumor. Dicen que hay otro hombre. En un pueblo de las montañas, en el otro lado del mundo. Alguien lo vio de lejos, con barba y sombrero.
 
-Porque te das cuenta de que las personas no eran el ruido de fondo de tu vida. Eran tu vida.
+Viajas tres días. Cruzas dos países, un río y un rebaño de cabras.
 
-Lunes se hace viejo. Camina más despacio. Duerme más. Una mañana no se despierta. Lo entierras debajo de tus tomates. Es el peor día desde que todo empezó.
+Llegas al pueblo. Te señalan una colina. Ahí está, de espaldas, con barba y sombrero.
 
-Esa noche, por primera vez en mucho tiempo, no prendes la radio.
+Te acercas temblando. Le tocas el hombro. Se da vuelta.
 
-Pero a la noche siguiente, sí.
+Es un espantapájaros. Muy bien hecho, eso sí.
 
-Porque eso es lo que hacen los humanos. Aunque no quede nadie, siguen esperando que alguien conteste.
+Te sientas a su lado y te ríes. Te ríes tanto que lloras. Y por primera vez en mucho tiempo, no te sientes solo. Te sientes ridículo. Que es mucho mejor.
 
-Repites tu nombre. Esperas. Shhhhh.
+Pasan los años. El mundo sigue. Hay cosas que funcionan mejor que antes y cosas que funcionan peor. Las mujeres llevan los aviones, las obras, los gobiernos y los equipos de fútbol. Nadie sabe todavía cómo será el mundo dentro de cien años. Pero sigue.
 
-Y entonces, entre el ruido, se escucha algo. Una voz. Lejos. Cortada.
+Y un día, en las noticias, la misma presentadora del primer día sonríe y dice: ha nacido el primer niño desde que desaparecieron los hombres.
 
-¿Hola? ¿Hay alguien?
+Vas al hospital. La mamá te deja cargarlo. Es diminuto. Arrugado. Grita como si fuera el dueño del mundo.
 
-Te tiembla la mano. Te tiembla la voz. Tienes mil cosas que decir. Llevas años practicando este momento.
+Le prometes que le vas a contar todo. Quiénes eran los hombres que no volvieron. Cómo su abuelo silbaba en la cocina. Cómo el mundo aprendió rápido.
 
-Y lo primero que te sale es: ¿tú también dejas dinero en la caja?
+Y le prometes una cosa más: que le vas a enseñar a abrir frascos.
 
-Del otro lado, hay un silencio. Y luego, una risa.
+Entonces la enfermera te pasa el biberón. Tiene la tapa apretada. Lo intentas. Pones cara de esfuerzo.
 
-La primera risa que escuchas en años.
+No se abre.
+
+La mamá te lo quita de las manos, le da un golpecito con la cuchara, y lo abre.
+
+El bebé se ríe.
 
 ## Fuentes
 
-- Unos 8.200 millones de personas en 2024: ONU, World Population Prospects 2024. https://desapublications.un.org/publications/world-population-prospects-2024-summary-results
-- Sin operadores, muchas centrales térmicas se dispararían ("trip") en menos de un día y el apagón se extendería: estimaciones de ingenieros en análisis divulgativos; no hay un estudio riguroso, por eso el guion dice "muchas" y no da una hora exacta. https://www.straightdope.com/columns/read/2165/when-the-zombies-take-over-how-long-till-the-electricity-fails
-- Metro de Nueva York: bombea unos 13 millones de galones (~50 millones de litros) de agua al día en un día seco; sin bombas se llenaría en unos 36 horas a dos días (Alan Weisman, The World Without Us). https://www.scientificamerican.com/article/an-earth-without-people/ · https://www.npr.org/2007/09/07/14241572/imagining-a-world-without-humans
-- Contaminación lumínica: ~83 % de la población mundial bajo cielos contaminados de luz; la Vía Láctea no es visible para más de un tercio de la humanidad (Falchi et al., Science Advances, 2016). https://www.colorado.edu/asmagazine/2016/06/10/milky-way-now-hidden-one-third-humanity
-- Aislamiento social comparable a fumar "hasta 15 cigarrillos al día": Holt-Lunstad et al., PLoS Medicine 2010 (meta-análisis de 148 estudios); usado por el Cirujano General de EE. UU. en 2023. Es una comparación de efectos, no una equivalencia biológica exacta. https://globalnews.ca/news/3678277/loneliness-even-unhealthier-than-obesity-should-be-a-public-health-priority-researcher
-- Chernóbil: lobos más de 7 veces más abundantes que en cuatro reservas no contaminadas de la región (Deryabina et al., Current Biology, 2015). https://www.sciencedaily.com/releases/2015/10/151005132553.htm
-- Latas que duran años, comida fresca que se pudre en días: conocimiento general.
-- Lunes, Carlos, el coche deportivo, la Navidad, el ciervo, los tomates, la voz en la radio: ficción.
+- Hombres en el mundo: unos 4.170 millones frente a 4.130 millones de mujeres (≈50,3 %), datos derivados de ONU World Population Prospects 2024 vía Statistics Times (fuente secundaria). https://www.statisticstimes.com/demographics/world-sex-ratio.php
+- EE. UU., 2023: mujeres ≈3,1 % de los carpinteros, ≈2,9 % de los electricistas, ≈4,5 % de los peones de construcción (IWPR con datos de la BLS); mujeres ≈4,6 % de los pilotos de aerolínea (Women in Aviation Advisory Board). https://iwpr.org/wp-content/uploads/2024/03/Women-in-Construction-Quick-Figure-2024-update.pdf · https://dc.fortune.com/2024/02/14/us-jobs-gendered-women-highest-paying-professions/
+- Accidentes de tráfico: ~73 % (tres de cada cuatro) de las muertes son hombres, según materiales de la OMS. https://www.grsproadsafety.org/arc/about-three-quarters-73-of-all-road-traffic-deaths-occur-among-men/
+- Cárceles federales de EE. UU.: ~93 % de los presos son hombres (Federal Bureau of Prisons; cifras de varios años, 92,7–93,4 %). https://www.statista.com/chart/11573/gender-of-inmates-in-us-federal-prisons-and-general-population
+- Bancos de donantes: Cryos International (Dinamarca), el mayor por número de donantes, envía a más de 100 países. https://en.wikipedia.org/wiki/Cryos_International
+- Ratones con dos madres: Kaguya (Japón, 2004; 1 adulta de unos 400 embriones) y Academia China de Ciencias (2018; 29 ratones sanos de 210 embriones, Cell Stem Cell). En humanos no es posible hoy. https://www.sciencedaily.com/releases/2018/10/181011143115.htm · https://www.pbs.org/newshour/science/rewriting-reproduction-with-stem-cells-and-crispr-scientists-breed-mice-with-same-sex-parents
+- Todo lo demás (la familia, el frasco, el espantapájaros, la biblioteca, el primer niño): ficción.
