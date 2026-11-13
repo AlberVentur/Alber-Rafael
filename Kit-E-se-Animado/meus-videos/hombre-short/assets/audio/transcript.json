@@ -1,0 +1,529 @@
+{
+ "words": [
+  {
+   "text": "Te",
+   "start": 0.0,
+   "end": 0.16
+  },
+  {
+   "text": "despiertas.",
+   "start": 0.16,
+   "end": 0.88
+  },
+  {
+   "text": "Tu",
+   "start": 1.42,
+   "end": 1.56
+  },
+  {
+   "text": "papá",
+   "start": 1.56,
+   "end": 1.84
+  },
+  {
+   "text": "no",
+   "start": 1.84,
+   "end": 2.1
+  },
+  {
+   "text": "está.",
+   "start": 2.1,
+   "end": 2.36
+  },
+  {
+   "text": "Tu",
+   "start": 2.94,
+   "end": 3.04
+  },
+  {
+   "text": "hermano",
+   "start": 3.04,
+   "end": 3.36
+  },
+  {
+   "text": "tampoco.",
+   "start": 3.36,
+   "end": 3.64
+  },
+  {
+   "text": "Ningún",
+   "start": 4.24,
+   "end": 4.78
+  },
+  {
+   "text": "hombre",
+   "start": 4.78,
+   "end": 5.1
+  },
+  {
+   "text": "del",
+   "start": 5.1,
+   "end": 5.34
+  },
+  {
+   "text": "planeta.",
+   "start": 5.34,
+   "end": 5.78
+  },
+  {
+   "text": "Solo",
+   "start": 6.3,
+   "end": 6.64
+  },
+  {
+   "text": "tú.",
+   "start": 6.64,
+   "end": 6.96
+  },
+  {
+   "text": "Lo",
+   "start": 7.46,
+   "end": 7.76
+  },
+  {
+   "text": "bueno:",
+   "start": 7.76,
+   "end": 8.0
+  },
+  {
+   "text": "Todos",
+   "start": 8.54,
+   "end": 8.72
+  },
+  {
+   "text": "los",
+   "start": 8.72,
+   "end": 9.0
+  },
+  {
+   "text": "baños",
+   "start": 9.0,
+   "end": 9.34
+  },
+  {
+   "text": "de",
+   "start": 9.34,
+   "end": 9.56
+  },
+  {
+   "text": "hombres",
+   "start": 9.56,
+   "end": 9.76
+  },
+  {
+   "text": "del",
+   "start": 9.76,
+   "end": 10.0
+  },
+  {
+   "text": "mundo",
+   "start": 10.0,
+   "end": 10.3
+  },
+  {
+   "text": "son",
+   "start": 10.3,
+   "end": 10.68
+  },
+  {
+   "text": "tuyos.",
+   "start": 10.68,
+   "end": 11.24
+  },
+  {
+   "text": "¿Qué",
+   "start": 11.7,
+   "end": 11.86
+  },
+  {
+   "text": "podría",
+   "start": 11.86,
+   "end": 12.2
+  },
+  {
+   "text": "salir",
+   "start": 12.2,
+   "end": 12.54
+  },
+  {
+   "text": "mal?",
+   "start": 12.54,
+   "end": 12.74
+  },
+  {
+   "text": "Los",
+   "start": 13.5,
+   "end": 13.86
+  },
+  {
+   "text": "aviones",
+   "start": 13.86,
+   "end": 14.22
+  },
+  {
+   "text": "no",
+   "start": 14.22,
+   "end": 14.66
+  },
+  {
+   "text": "despegan.",
+   "start": 14.66,
+   "end": 15.18
+  },
+  {
+   "text": "En",
+   "start": 15.74,
+   "end": 15.9
+  },
+  {
+   "text": "Estados",
+   "start": 15.9,
+   "end": 16.14
+  },
+  {
+   "text": "Unidos,",
+   "start": 16.14,
+   "end": 16.58
+  },
+  {
+   "text": "menos",
+   "start": 16.96,
+   "end": 17.14
+  },
+  {
+   "text": "de",
+   "start": 17.14,
+   "end": 17.4
+  },
+  {
+   "text": "cinco",
+   "start": 17.4,
+   "end": 17.78
+  },
+  {
+   "text": "de",
+   "start": 17.78,
+   "end": 17.96
+  },
+  {
+   "text": "cada",
+   "start": 17.96,
+   "end": 18.12
+  },
+  {
+   "text": "cien",
+   "start": 18.12,
+   "end": 18.42
+  },
+  {
+   "text": "pilotos",
+   "start": 18.42,
+   "end": 18.98
+  },
+  {
+   "text": "eran",
+   "start": 18.98,
+   "end": 19.22
+  },
+  {
+   "text": "mujeres.",
+   "start": 19.22,
+   "end": 19.6
+  },
+  {
+   "text": "Así",
+   "start": 20.32,
+   "end": 20.5
+  },
+  {
+   "text": "que",
+   "start": 20.5,
+   "end": 20.74
+  },
+  {
+   "text": "te",
+   "start": 20.74,
+   "end": 20.88
+  },
+  {
+   "text": "crees",
+   "start": 20.88,
+   "end": 21.22
+  },
+  {
+   "text": "el",
+   "start": 21.22,
+   "end": 21.38
+  },
+  {
+   "text": "héroe.",
+   "start": 21.38,
+   "end": 21.68
+  },
+  {
+   "text": "El",
+   "start": 21.98,
+   "end": 22.12
+  },
+  {
+   "text": "futuro",
+   "start": 22.12,
+   "end": 22.58
+  },
+  {
+   "text": "de",
+   "start": 22.58,
+   "end": 22.82
+  },
+  {
+   "text": "la",
+   "start": 22.82,
+   "end": 22.94
+  },
+  {
+   "text": "humanidad.",
+   "start": 22.94,
+   "end": 23.48
+  },
+  {
+   "text": "Hasta",
+   "start": 23.74,
+   "end": 24.22
+  },
+  {
+   "text": "que",
+   "start": 24.22,
+   "end": 24.48
+  },
+  {
+   "text": "una",
+   "start": 24.48,
+   "end": 24.64
+  },
+  {
+   "text": "científica",
+   "start": 24.64,
+   "end": 25.42
+  },
+  {
+   "text": "te",
+   "start": 25.42,
+   "end": 25.54
+  },
+  {
+   "text": "explica",
+   "start": 25.54,
+   "end": 26.0
+  },
+  {
+   "text": "que",
+   "start": 26.0,
+   "end": 26.12
+  },
+  {
+   "text": "los",
+   "start": 26.12,
+   "end": 26.28
+  },
+  {
+   "text": "bancos",
+   "start": 26.28,
+   "end": 26.72
+  },
+  {
+   "text": "de",
+   "start": 26.72,
+   "end": 26.82
+  },
+  {
+   "text": "donantes",
+   "start": 26.82,
+   "end": 27.28
+  },
+  {
+   "text": "envían",
+   "start": 27.28,
+   "end": 27.78
+  },
+  {
+   "text": "muestras",
+   "start": 27.78,
+   "end": 28.3
+  },
+  {
+   "text": "a",
+   "start": 28.3,
+   "end": 28.48
+  },
+  {
+   "text": "más",
+   "start": 28.48,
+   "end": 28.72
+  },
+  {
+   "text": "de",
+   "start": 28.72,
+   "end": 28.92
+  },
+  {
+   "text": "cien",
+   "start": 28.92,
+   "end": 29.28
+  },
+  {
+   "text": "países.",
+   "start": 29.28,
+   "end": 29.78
+  },
+  {
+   "text": "No",
+   "start": 30.18,
+   "end": 30.56
+  },
+  {
+   "text": "eres",
+   "start": 30.56,
+   "end": 30.8
+  },
+  {
+   "text": "tan",
+   "start": 30.8,
+   "end": 31.06
+  },
+  {
+   "text": "necesario.",
+   "start": 31.06,
+   "end": 31.58
+  },
+  {
+   "text": "Ahora",
+   "start": 32.32,
+   "end": 32.72
+  },
+  {
+   "text": "todo",
+   "start": 32.72,
+   "end": 33.08
+  },
+  {
+   "text": "el",
+   "start": 33.08,
+   "end": 33.3
+  },
+  {
+   "text": "mundo",
+   "start": 33.3,
+   "end": 33.58
+  },
+  {
+   "text": "te",
+   "start": 33.58,
+   "end": 33.8
+  },
+  {
+   "text": "pide",
+   "start": 33.8,
+   "end": 34.08
+  },
+  {
+   "text": "lo",
+   "start": 34.08,
+   "end": 34.2
+  },
+  {
+   "text": "mismo.",
+   "start": 34.2,
+   "end": 34.44
+  },
+  {
+   "text": "¿Me",
+   "start": 35.06,
+   "end": 35.22
+  },
+  {
+   "text": "abres",
+   "start": 35.22,
+   "end": 35.44
+  },
+  {
+   "text": "este",
+   "start": 35.44,
+   "end": 35.66
+  },
+  {
+   "text": "frasco?",
+   "start": 35.66,
+   "end": 36.04
+  },
+  {
+   "text": "No",
+   "start": 36.56,
+   "end": 36.86
+  },
+  {
+   "text": "se",
+   "start": 36.86,
+   "end": 37.02
+  },
+  {
+   "text": "abre.",
+   "start": 37.02,
+   "end": 37.26
+  },
+  {
+   "text": "Ella",
+   "start": 37.8,
+   "end": 38.02
+  },
+  {
+   "text": "le",
+   "start": 38.02,
+   "end": 38.2
+  },
+  {
+   "text": "da",
+   "start": 38.2,
+   "end": 38.34
+  },
+  {
+   "text": "un",
+   "start": 38.34,
+   "end": 38.44
+  },
+  {
+   "text": "golpecito",
+   "start": 38.44,
+   "end": 38.94
+  },
+  {
+   "text": "con",
+   "start": 38.94,
+   "end": 39.1
+  },
+  {
+   "text": "la",
+   "start": 39.1,
+   "end": 39.24
+  },
+  {
+   "text": "cuchara.",
+   "start": 39.24,
+   "end": 39.62
+  },
+  {
+   "text": "Y",
+   "start": 40.04,
+   "end": 40.34
+  },
+  {
+   "text": "lo",
+   "start": 40.34,
+   "end": 40.5
+  },
+  {
+   "text": "abre.",
+   "start": 40.5,
+   "end": 40.7
+  }
+ ]
+}

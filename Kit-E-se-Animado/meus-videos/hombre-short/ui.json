@@ -1,0 +1,57 @@
+{
+  "duracao": 42.8,
+  "palavrasPorLegenda": 3,
+  "destaques": [
+    "tú.",
+    "baños",
+    "tuyos.",
+    "aviones",
+    "mujeres.",
+    "héroe.",
+    "futuro",
+    "países.",
+    "necesario.",
+    "frasco?",
+    "cuchara.",
+    "abre."
+  ],
+  "trocas": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9",
+    "10": "10",
+    "11": "11",
+    "12": "12",
+    "13": "13",
+    "14": "14",
+    "15": "15",
+    "16": "16",
+    "17": "17",
+    "18": "18",
+    "19": "19",
+    "20": "20"
+  },
+  "elementos": [
+    {
+      "tipo": "placa",
+      "inicio": 16.0,
+      "fim": 20.2,
+      "numero": "4,6 %",
+      "rotulo": "PILOTOS DE AEROLÍNEA MUJERES (EE. UU.)"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 27.6,
+      "fim": 30.1,
+      "numero": "+100 PAÍSES",
+      "rotulo": "RECIBEN MUESTRAS DE UN SOLO BANCO"
+    }
+  ]
+}
