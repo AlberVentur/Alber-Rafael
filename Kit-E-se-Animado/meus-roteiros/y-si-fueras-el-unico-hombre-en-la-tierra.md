@@ -1,4 +1,4 @@
-# Guion: ¿y si fueras el único humano en la Tierra? (YouTube horizontal, ~8 min)
+# Guion: ¿y si fueras el único hombre en la Tierra? (YouTube horizontal, ~8 min)
 
 ## Narración (para grabar o pegar en ElevenLabs)
 
@@ -16,7 +16,7 @@ Esa noche, unas ocho mil doscientos millones de personas desaparecieron.
 
 Todas. Menos tú.
 
-Eres el único humano en la Tierra.
+Eres el único hombre en la Tierra.
 
 Lo bueno: todo es tuyo. El supermercado es tuyo. La mansión de la colina es tuya. El coche deportivo que siempre mirabas, también. Las llaves están puestas.
 
