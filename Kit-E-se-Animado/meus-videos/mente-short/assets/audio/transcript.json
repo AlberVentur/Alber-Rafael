@@ -1,0 +1,499 @@
+{
+ "words": [
+  {
+   "text": "Te",
+   "start": 0.14,
+   "end": 0.14
+  },
+  {
+   "text": "despiertas",
+   "start": 0.14,
+   "end": 0.84
+  },
+  {
+   "text": "y",
+   "start": 0.84,
+   "end": 1.0
+  },
+  {
+   "text": "escuchas",
+   "start": 1.0,
+   "end": 1.52
+  },
+  {
+   "text": "una",
+   "start": 1.52,
+   "end": 1.68
+  },
+  {
+   "text": "voz.",
+   "start": 1.68,
+   "end": 2.02
+  },
+  {
+   "text": "No",
+   "start": 2.42,
+   "end": 2.72
+  },
+  {
+   "text": "es",
+   "start": 2.72,
+   "end": 2.84
+  },
+  {
+   "text": "la",
+   "start": 2.84,
+   "end": 2.98
+  },
+  {
+   "text": "tuya.",
+   "start": 2.98,
+   "end": 3.34
+  },
+  {
+   "text": "Es",
+   "start": 3.78,
+   "end": 3.94
+  },
+  {
+   "text": "la",
+   "start": 3.94,
+   "end": 4.08
+  },
+  {
+   "text": "de",
+   "start": 4.08,
+   "end": 4.2
+  },
+  {
+   "text": "tu",
+   "start": 4.2,
+   "end": 4.32
+  },
+  {
+   "text": "mamá,",
+   "start": 4.32,
+   "end": 4.8
+  },
+  {
+   "text": "pensando:",
+   "start": 4.92,
+   "end": 5.36
+  },
+  {
+   "text": "Otra",
+   "start": 5.94,
+   "end": 6.4
+  },
+  {
+   "text": "vez",
+   "start": 6.4,
+   "end": 6.64
+  },
+  {
+   "text": "llegó",
+   "start": 6.64,
+   "end": 6.88
+  },
+  {
+   "text": "tarde.",
+   "start": 6.88,
+   "end": 7.2
+  },
+  {
+   "text": "Puedes",
+   "start": 7.94,
+   "end": 8.48
+  },
+  {
+   "text": "leer",
+   "start": 8.48,
+   "end": 8.82
+  },
+  {
+   "text": "la",
+   "start": 8.82,
+   "end": 9.08
+  },
+  {
+   "text": "mente.",
+   "start": 9.08,
+   "end": 9.38
+  },
+  {
+   "text": "En",
+   "start": 9.98,
+   "end": 10.16
+  },
+  {
+   "text": "el",
+   "start": 10.16,
+   "end": 10.26
+  },
+  {
+   "text": "autobús,",
+   "start": 10.26,
+   "end": 10.72
+  },
+  {
+   "text": "cuarenta",
+   "start": 11.1,
+   "end": 11.54
+  },
+  {
+   "text": "cabezas",
+   "start": 11.54,
+   "end": 11.98
+  },
+  {
+   "text": "pensando",
+   "start": 11.98,
+   "end": 12.48
+  },
+  {
+   "text": "a",
+   "start": 12.48,
+   "end": 12.66
+  },
+  {
+   "text": "la",
+   "start": 12.66,
+   "end": 12.72
+  },
+  {
+   "text": "vez.",
+   "start": 12.72,
+   "end": 12.96
+  },
+  {
+   "text": "Tengo",
+   "start": 13.52,
+   "end": 13.78
+  },
+  {
+   "text": "hambre.",
+   "start": 13.78,
+   "end": 14.16
+  },
+  {
+   "text": "¿Apagué",
+   "start": 14.72,
+   "end": 15.02
+  },
+  {
+   "text": "la",
+   "start": 15.02,
+   "end": 15.12
+  },
+  {
+   "text": "estufa?",
+   "start": 15.12,
+   "end": 15.56
+  },
+  {
+   "text": "Qué",
+   "start": 15.96,
+   "end": 16.08
+  },
+  {
+   "text": "feo",
+   "start": 16.08,
+   "end": 16.52
+  },
+  {
+   "text": "ese",
+   "start": 16.52,
+   "end": 16.68
+  },
+  {
+   "text": "pantalón.",
+   "start": 16.68,
+   "end": 17.2
+  },
+  {
+   "text": "El",
+   "start": 17.82,
+   "end": 17.98
+  },
+  {
+   "text": "pantalón",
+   "start": 17.98,
+   "end": 18.5
+  },
+  {
+   "text": "es",
+   "start": 18.5,
+   "end": 18.78
+  },
+  {
+   "text": "el",
+   "start": 18.78,
+   "end": 18.94
+  },
+  {
+   "text": "tuyo.",
+   "start": 18.94,
+   "end": 19.28
+  },
+  {
+   "text": "Un",
+   "start": 19.86,
+   "end": 19.98
+  },
+  {
+   "text": "estudio",
+   "start": 19.98,
+   "end": 20.3
+  },
+  {
+   "text": "estimó",
+   "start": 20.3,
+   "end": 20.78
+  },
+  {
+   "text": "que",
+   "start": 20.78,
+   "end": 20.92
+  },
+  {
+   "text": "una",
+   "start": 20.92,
+   "end": 21.12
+  },
+  {
+   "text": "persona",
+   "start": 21.12,
+   "end": 21.52
+  },
+  {
+   "text": "tiene",
+   "start": 21.52,
+   "end": 21.86
+  },
+  {
+   "text": "más",
+   "start": 21.86,
+   "end": 22.12
+  },
+  {
+   "text": "de",
+   "start": 22.12,
+   "end": 22.32
+  },
+  {
+   "text": "seis",
+   "start": 22.32,
+   "end": 22.58
+  },
+  {
+   "text": "mil",
+   "start": 22.58,
+   "end": 22.92
+  },
+  {
+   "text": "pensamientos",
+   "start": 22.92,
+   "end": 23.7
+  },
+  {
+   "text": "distintos",
+   "start": 23.7,
+   "end": 24.18
+  },
+  {
+   "text": "al",
+   "start": 24.18,
+   "end": 24.5
+  },
+  {
+   "text": "día.",
+   "start": 24.5,
+   "end": 24.72
+  },
+  {
+   "text": "Multiplícalo",
+   "start": 25.32,
+   "end": 25.92
+  },
+  {
+   "text": "por",
+   "start": 25.92,
+   "end": 26.1
+  },
+  {
+   "text": "toda",
+   "start": 26.1,
+   "end": 26.28
+  },
+  {
+   "text": "la",
+   "start": 26.28,
+   "end": 26.46
+  },
+  {
+   "text": "ciudad.",
+   "start": 26.46,
+   "end": 26.7
+  },
+  {
+   "text": "Ahora",
+   "start": 27.32,
+   "end": 27.56
+  },
+  {
+   "text": "sabes",
+   "start": 27.56,
+   "end": 27.94
+  },
+  {
+   "text": "quién",
+   "start": 27.94,
+   "end": 28.24
+  },
+  {
+   "text": "te",
+   "start": 28.24,
+   "end": 28.48
+  },
+  {
+   "text": "cae",
+   "start": 28.48,
+   "end": 28.74
+  },
+  {
+   "text": "mal.",
+   "start": 28.74,
+   "end": 28.88
+  },
+  {
+   "text": "Y",
+   "start": 28.94,
+   "end": 29.58
+  },
+  {
+   "text": "quién",
+   "start": 29.58,
+   "end": 29.78
+  },
+  {
+   "text": "te",
+   "start": 29.78,
+   "end": 30.0
+  },
+  {
+   "text": "quiere",
+   "start": 30.0,
+   "end": 30.26
+  },
+  {
+   "text": "de",
+   "start": 30.26,
+   "end": 30.44
+  },
+  {
+   "text": "verdad.",
+   "start": 30.44,
+   "end": 30.74
+  },
+  {
+   "text": "Pero",
+   "start": 31.02,
+   "end": 31.42
+  },
+  {
+   "text": "no",
+   "start": 31.42,
+   "end": 31.7
+  },
+  {
+   "text": "puedes",
+   "start": 31.7,
+   "end": 32.12
+  },
+  {
+   "text": "apagarlo.",
+   "start": 32.12,
+   "end": 32.74
+  },
+  {
+   "text": "A",
+   "start": 33.16,
+   "end": 33.3
+  },
+  {
+   "text": "la",
+   "start": 33.3,
+   "end": 33.38
+  },
+  {
+   "text": "semana,",
+   "start": 33.38,
+   "end": 33.7
+  },
+  {
+   "text": "solo",
+   "start": 34.0,
+   "end": 34.2
+  },
+  {
+   "text": "quieres",
+   "start": 34.2,
+   "end": 34.56
+  },
+  {
+   "text": "una",
+   "start": 34.56,
+   "end": 35.02
+  },
+  {
+   "text": "cosa:",
+   "start": 35.02,
+   "end": 35.34
+  },
+  {
+   "text": "Silencio.",
+   "start": 36.1,
+   "end": 36.72
+  },
+  {
+   "text": "Y",
+   "start": 37.28,
+   "end": 37.32
+  },
+  {
+   "text": "eso",
+   "start": 37.32,
+   "end": 37.64
+  },
+  {
+   "text": "es",
+   "start": 37.64,
+   "end": 37.96
+  },
+  {
+   "text": "lo",
+   "start": 37.96,
+   "end": 38.16
+  },
+  {
+   "text": "único",
+   "start": 38.16,
+   "end": 38.52
+  },
+  {
+   "text": "que",
+   "start": 38.52,
+   "end": 38.78
+  },
+  {
+   "text": "nadie",
+   "start": 38.78,
+   "end": 39.1
+  },
+  {
+   "text": "piensa.",
+   "start": 39.1,
+   "end": 39.66
+  }
+ ]
+}

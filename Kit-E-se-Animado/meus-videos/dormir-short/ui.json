@@ -1,0 +1,68 @@
+{
+  "duracao": 42.1,
+  "palavrasPorLegenda": 3,
+  "destaques": [
+    "dormir.",
+    "genial.",
+    "alcohol.",
+    "palabras.",
+    "están.",
+    "Gardner",
+    "récord",
+    "seguidas.",
+    "no."
+  ],
+  "trocas": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9",
+    "10": "10",
+    "11": "11",
+    "12": "12",
+    "13": "13",
+    "14": "14",
+    "15": "15",
+    "16": "16",
+    "17": "17",
+    "18": "18",
+    "19": "19",
+    "20": "20"
+  },
+  "elementos": [
+    {
+      "tipo": "placa",
+      "inicio": 8.4,
+      "fim": 10.8,
+      "numero": "+8 HORAS",
+      "rotulo": "CADA DÍA"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 11.6,
+      "fim": 16.5,
+      "numero": "17 HORAS",
+      "rotulo": "DESPIERTO ≈ 0,05 % DE ALCOHOL EN SANGRE"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 22.7,
+      "fim": 30.0,
+      "numero": "264 HORAS",
+      "rotulo": "RANDY GARDNER · 1964 · RÉCORD"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 32.2,
+      "fim": 34.5,
+      "numero": "14 HORAS",
+      "rotulo": "DURMIÓ SEGUIDO"
+    }
+  ]
+}

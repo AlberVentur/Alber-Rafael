@@ -1,0 +1,53 @@
+{
+  "duracao": 44,
+  "palavrasPorLegenda": 3,
+  "destaques": [
+    "relojes",
+    "tarde.",
+    "GPS",
+    "metros.",
+    "río.",
+    "propia",
+    "trenes",
+    "hambre."
+  ],
+  "trocas": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9",
+    "10": "10",
+    "11": "11",
+    "12": "12",
+    "13": "13",
+    "14": "14",
+    "15": "15",
+    "16": "16",
+    "17": "17",
+    "18": "18",
+    "19": "19",
+    "20": "20"
+  },
+  "elementos": [
+    {
+      "tipo": "placa",
+      "inicio": 16.1,
+      "fim": 20.4,
+      "numero": "300 m",
+      "rotulo": "1 MILLONÉSIMA DE SEGUNDO DE ERROR EN EL GPS"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 23.3,
+      "fim": 28.6,
+      "numero": "1883",
+      "rotulo": "NACEN LOS HUSOS HORARIOS EN EE. UU."
+    }
+  ]
+}

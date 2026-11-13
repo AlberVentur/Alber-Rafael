@@ -1,0 +1,459 @@
+{
+ "words": [
+  {
+   "text": "Te",
+   "start": 0.12,
+   "end": 0.12
+  },
+  {
+   "text": "acuestas.",
+   "start": 0.12,
+   "end": 0.5
+  },
+  {
+   "text": "Cierras",
+   "start": 1.3,
+   "end": 1.84
+  },
+  {
+   "text": "los",
+   "start": 1.84,
+   "end": 2.0
+  },
+  {
+   "text": "ojos.",
+   "start": 2.0,
+   "end": 2.38
+  },
+  {
+   "text": "Y",
+   "start": 3.24,
+   "end": 3.3
+  },
+  {
+   "text": "nada.",
+   "start": 3.3,
+   "end": 3.6
+  },
+  {
+   "text": "Nunca",
+   "start": 4.18,
+   "end": 4.78
+  },
+  {
+   "text": "más",
+   "start": 4.78,
+   "end": 5.08
+  },
+  {
+   "text": "vuelves",
+   "start": 5.08,
+   "end": 5.54
+  },
+  {
+   "text": "a",
+   "start": 5.54,
+   "end": 5.68
+  },
+  {
+   "text": "dormir.",
+   "start": 5.68,
+   "end": 5.92
+  },
+  {
+   "text": "Al",
+   "start": 6.68,
+   "end": 6.8
+  },
+  {
+   "text": "principio,",
+   "start": 6.8,
+   "end": 7.14
+  },
+  {
+   "text": "genial.",
+   "start": 7.56,
+   "end": 7.88
+  },
+  {
+   "text": "Tienes",
+   "start": 8.4,
+   "end": 8.72
+  },
+  {
+   "text": "ocho",
+   "start": 8.72,
+   "end": 9.16
+  },
+  {
+   "text": "horas",
+   "start": 9.16,
+   "end": 9.36
+  },
+  {
+   "text": "extra",
+   "start": 9.36,
+   "end": 9.8
+  },
+  {
+   "text": "cada",
+   "start": 9.8,
+   "end": 10.12
+  },
+  {
+   "text": "día.",
+   "start": 10.12,
+   "end": 10.48
+  },
+  {
+   "text": "Pero",
+   "start": 10.98,
+   "end": 11.12
+  },
+  {
+   "text": "después",
+   "start": 11.12,
+   "end": 11.52
+  },
+  {
+   "text": "de",
+   "start": 11.52,
+   "end": 11.68
+  },
+  {
+   "text": "diecisiete",
+   "start": 11.68,
+   "end": 12.34
+  },
+  {
+   "text": "horas",
+   "start": 12.34,
+   "end": 12.6
+  },
+  {
+   "text": "despierto,",
+   "start": 12.6,
+   "end": 13.14
+  },
+  {
+   "text": "tu",
+   "start": 13.58,
+   "end": 13.64
+  },
+  {
+   "text": "cerebro",
+   "start": 13.64,
+   "end": 14.0
+  },
+  {
+   "text": "funciona",
+   "start": 14.0,
+   "end": 14.48
+  },
+  {
+   "text": "como",
+   "start": 14.48,
+   "end": 14.8
+  },
+  {
+   "text": "si",
+   "start": 14.8,
+   "end": 14.98
+  },
+  {
+   "text": "hubieras",
+   "start": 14.98,
+   "end": 15.44
+  },
+  {
+   "text": "bebido",
+   "start": 15.44,
+   "end": 15.78
+  },
+  {
+   "text": "alcohol.",
+   "start": 15.78,
+   "end": 16.12
+  },
+  {
+   "text": "Al",
+   "start": 16.74,
+   "end": 16.9
+  },
+  {
+   "text": "tercer",
+   "start": 16.9,
+   "end": 17.1
+  },
+  {
+   "text": "día",
+   "start": 17.1,
+   "end": 17.44
+  },
+  {
+   "text": "empiezas",
+   "start": 17.44,
+   "end": 18.02
+  },
+  {
+   "text": "a",
+   "start": 18.02,
+   "end": 18.16
+  },
+  {
+   "text": "olvidar",
+   "start": 18.16,
+   "end": 18.52
+  },
+  {
+   "text": "palabras.",
+   "start": 18.52,
+   "end": 18.8
+  },
+  {
+   "text": "Al",
+   "start": 19.52,
+   "end": 19.72
+  },
+  {
+   "text": "cuarto,",
+   "start": 19.72,
+   "end": 20.04
+  },
+  {
+   "text": "ves",
+   "start": 20.54,
+   "end": 20.68
+  },
+  {
+   "text": "cosas",
+   "start": 20.68,
+   "end": 21.02
+  },
+  {
+   "text": "que",
+   "start": 21.02,
+   "end": 21.34
+  },
+  {
+   "text": "no",
+   "start": 21.34,
+   "end": 21.56
+  },
+  {
+   "text": "están.",
+   "start": 21.56,
+   "end": 21.86
+  },
+  {
+   "text": "En",
+   "start": 22.66,
+   "end": 22.8
+  },
+  {
+   "text": "mil",
+   "start": 22.8,
+   "end": 22.94
+  },
+  {
+   "text": "novecientos",
+   "start": 22.94,
+   "end": 23.58
+  },
+  {
+   "text": "sesenta",
+   "start": 23.58,
+   "end": 23.9
+  },
+  {
+   "text": "y",
+   "start": 23.9,
+   "end": 24.0
+  },
+  {
+   "text": "cuatro,",
+   "start": 24.0,
+   "end": 24.24
+  },
+  {
+   "text": "un",
+   "start": 24.64,
+   "end": 24.74
+  },
+  {
+   "text": "estudiante",
+   "start": 24.74,
+   "end": 25.22
+  },
+  {
+   "text": "llamado",
+   "start": 25.22,
+   "end": 25.48
+  },
+  {
+   "text": "Randy",
+   "start": 25.48,
+   "end": 26.02
+  },
+  {
+   "text": "Gardner",
+   "start": 26.02,
+   "end": 26.46
+  },
+  {
+   "text": "aguantó",
+   "start": 26.46,
+   "end": 27.2
+  },
+  {
+   "text": "once",
+   "start": 27.2,
+   "end": 27.54
+  },
+  {
+   "text": "días",
+   "start": 27.54,
+   "end": 27.94
+  },
+  {
+   "text": "sin",
+   "start": 27.94,
+   "end": 28.2
+  },
+  {
+   "text": "dormir.",
+   "start": 28.2,
+   "end": 28.46
+  },
+  {
+   "text": "Es",
+   "start": 28.5,
+   "end": 29.18
+  },
+  {
+   "text": "el",
+   "start": 29.18,
+   "end": 29.36
+  },
+  {
+   "text": "récord",
+   "start": 29.36,
+   "end": 29.72
+  },
+  {
+   "text": "científico.",
+   "start": 29.72,
+   "end": 30.66
+  },
+  {
+   "text": "Y",
+   "start": 30.66,
+   "end": 30.94
+  },
+  {
+   "text": "después",
+   "start": 30.94,
+   "end": 31.22
+  },
+  {
+   "text": "de",
+   "start": 31.22,
+   "end": 31.44
+  },
+  {
+   "text": "eso…",
+   "start": 31.44,
+   "end": 32.22
+  },
+  {
+   "text": "durmió",
+   "start": 32.22,
+   "end": 32.74
+  },
+  {
+   "text": "catorce",
+   "start": 32.74,
+   "end": 33.4
+  },
+  {
+   "text": "horas",
+   "start": 33.4,
+   "end": 33.62
+  },
+  {
+   "text": "seguidas.",
+   "start": 33.62,
+   "end": 34.26
+  },
+  {
+   "text": "Así",
+   "start": 34.76,
+   "end": 35.04
+  },
+  {
+   "text": "que",
+   "start": 35.04,
+   "end": 35.26
+  },
+  {
+   "text": "esta",
+   "start": 35.26,
+   "end": 35.48
+  },
+  {
+   "text": "noche,",
+   "start": 35.48,
+   "end": 35.76
+  },
+  {
+   "text": "cuando",
+   "start": 36.1,
+   "end": 36.26
+  },
+  {
+   "text": "te",
+   "start": 36.26,
+   "end": 36.5
+  },
+  {
+   "text": "digan",
+   "start": 36.5,
+   "end": 36.94
+  },
+  {
+   "text": "cinco",
+   "start": 36.94,
+   "end": 37.38
+  },
+  {
+   "text": "minutos",
+   "start": 37.38,
+   "end": 37.78
+  },
+  {
+   "text": "más",
+   "start": 37.78,
+   "end": 38.12
+  },
+  {
+   "text": "de",
+   "start": 38.12,
+   "end": 38.28
+  },
+  {
+   "text": "celular…",
+   "start": 38.28,
+   "end": 39.38
+  },
+  {
+   "text": "mejor",
+   "start": 39.38,
+   "end": 39.7
+  },
+  {
+   "text": "no.",
+   "start": 39.7,
+   "end": 40.0
+  }
+ ]
+}
