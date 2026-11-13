@@ -37,4 +37,4 @@ export function signTex(text, bg, fg, w = 1024, h = 256, font = 'Fraunces', size
 
 export function lightPanel(w, h, col, k = 1.2) { return new THREE.Mesh(new THREE.PlaneGeometry(w, h), new THREE.MeshStandardMaterial({ color: '#000', emissive: col, emissiveIntensity: k })); }
 
-export function sunLight(col, k, pos, half = 10, far = 60) { const l = new THREE.DirectionalLight(col, k); l.position.set(...pos); l.castShadow = true; l.shadow.mapSize.set(2048, 2048); Object.assign(l.shadow.camera, { left: -half, right: half, top: half, bottom: -half, far }); l.shadow.bias = -.0006; l.shadow.radius = 4; return l; }
+export function sunLight(col, k, pos, half = 10, far = 60) { const l = new THREE.DirectionalLight(col, k); l.position.set(...pos); l.castShadow = true; l.shadow.mapSize.set(1024, 1024); Object.assign(l.shadow.camera, { left: -half, right: half, top: half, bottom: -half, far }); l.shadow.bias = -.0006; l.shadow.radius = 4; return l; }

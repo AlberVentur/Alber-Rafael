@@ -41,7 +41,7 @@ export class Stage {
     const r = this.r = new THREE.WebGLRenderer({ canvas, antialias: false, preserveDrawingBuffer: true, powerPreference: 'high-performance' });
     r.setPixelRatio(1); r.setSize(W, H, false); r.shadowMap.enabled = true; r.shadowMap.type = THREE.PCFSoftShadowMap; r.toneMapping = THREE.NoToneMapping; r.outputColorSpace = THREE.LinearSRGBColorSpace;
     const dt = new THREE.DepthTexture(W, H); dt.type = THREE.UnsignedIntType;
-    this.rt = new THREE.WebGLRenderTarget(W, H, { type: THREE.HalfFloatType, samples: 4, depthTexture: dt });
+    this.rt = new THREE.WebGLRenderTarget(W, H, { type: THREE.HalfFloatType, samples: 2, depthTexture: dt });
     this.composer = new EffectComposer(r, new THREE.WebGLRenderTarget(W, H, { type: THREE.HalfFloatType }));
     this.dof = new ShaderPass(DofShader, 'tDummy');
     this.dof.uniforms.tColor.value = this.rt.texture; this.dof.uniforms.tDepth.value = dt;
