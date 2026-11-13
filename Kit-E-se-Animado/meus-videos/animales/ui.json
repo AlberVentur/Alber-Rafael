@@ -1,0 +1,129 @@
+{
+  "duracao": 572.5,
+  "palavrasPorLegenda": 4,
+  "destaques": [
+    "perro.",
+    "hablar.",
+    "pelota",
+    "seis",
+    "gato.",
+    "Bigotes.",
+    "jefe.",
+    "pastel",
+    "Ramón.",
+    "mosquito.",
+    "abejas",
+    "delfines",
+    "elefantes",
+    "cachalotes,",
+    "alfabeto,",
+    "plástico",
+    "comida?",
+    "pollos.",
+    "abogados.",
+    "tofu",
+    "hormigas,",
+    "intentarlo.",
+    "contrato.",
+    "salchicha.",
+    "nombre.",
+    "paloma.",
+    "escucharlo.",
+    "pelota.",
+    "mano."
+  ],
+  "trocas": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9",
+    "10": "10",
+    "11": "11",
+    "12": "12",
+    "13": "13",
+    "14": "14",
+    "15": "15",
+    "16": "16",
+    "17": "17",
+    "18": "18",
+    "19": "19",
+    "20": "20",
+    "80000": "80.000",
+    "70000": "70.000"
+  },
+  "elementos": [
+    {
+      "tipo": "placa",
+      "inicio": 77.6,
+      "fim": 81.3,
+      "numero": "470.000.000",
+      "rotulo": "PERROS EN CASAS (ESTIMACIÓN)"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 81.4,
+      "fim": 84.6,
+      "numero": "370.000.000",
+      "rotulo": "GATOS EN CASAS (ESTIMACIÓN)"
+    },
+    {
+      "tipo": "etiqueta",
+      "inicio": 179.5,
+      "fim": 184.4,
+      "texto": "NOBEL · 1973"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 188.3,
+      "fim": 195.4,
+      "numero": "+20 AÑOS",
+      "rotulo": "UN DELFÍN RECUERDA A SU AMIGA"
+    },
+    {
+      "tipo": "etiqueta",
+      "inicio": 198.9,
+      "fim": 209.2,
+      "texto": "KENIA · 2024"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 215.2,
+      "fim": 223.7,
+      "numero": "156",
+      "rotulo": "COMBINACIONES DE CLICS DE CACHALOTE"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 249.0,
+      "fim": 255.0,
+      "numero": "80.000.000.000",
+      "rotulo": "ANIMALES DE GRANJA AL AÑO"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 257.0,
+      "fim": 260.3,
+      "numero": "70.000.000.000",
+      "rotulo": "POLLOS AL AÑO"
+    },
+    {
+      "tipo": "etiqueta",
+      "inicio": 307.1,
+      "fim": 312.0,
+      "texto": "NACIONES UNIDAS"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 463.7,
+      "fim": 469.7,
+      "numero": "1.022",
+      "rotulo": "NOMBRES DE JUGUETES (CHASER)"
+    }
+  ]
+}
