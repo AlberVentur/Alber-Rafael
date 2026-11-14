@@ -1,0 +1,113 @@
+{
+  "duracao": 612.8,
+  "palavrasPorLegenda": 4,
+  "destaques": [
+    "silencio.",
+    "crush.",
+    "Daniel?",
+    "oscuras.",
+    "agua.",
+    "latas.",
+    "piña",
+    "bomberos.",
+    "Láctea.",
+    "lápiz.",
+    "empate.",
+    "Roberto.",
+    "Chernóbil,",
+    "Lunes,",
+    "miles",
+    "nieve,",
+    "Svalbard.",
+    "tomates",
+    "cobarde.",
+    "hola.",
+    "mano.",
+    "voz.",
+    "tú.",
+    "verdad.",
+    "botón."
+  ],
+  "trocas": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9",
+    "10": "10",
+    "11": "11",
+    "12": "12",
+    "13": "13",
+    "14": "14",
+    "15": "15",
+    "16": "16",
+    "17": "17",
+    "18": "18",
+    "19": "19",
+    "20": "20",
+    "1986": "1986"
+  },
+  "elementos": [
+    {
+      "tipo": "placa",
+      "inicio": 33.2,
+      "fim": 38.0,
+      "numero": "8.000 MILLONES",
+      "rotulo": "DE PERSONAS VIVÍAN EN LA TIERRA"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 134.4,
+      "fim": 140.0,
+      "numero": "≈50 MILLONES DE LITROS",
+      "rotulo": "DE AGUA AL DÍA · BOMBAS DEL METRO DE NUEVA YORK"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 165.8,
+      "fim": 170.0,
+      "numero": "2 A 5 AÑOS",
+      "rotulo": "CONSERVAS DE VERDURA O CARNE (USDA)"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 170.1,
+      "fim": 173.3,
+      "numero": "≈1,5 AÑOS",
+      "rotulo": "CONSERVAS DE FRUTA O TOMATE (USDA)"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 237.9,
+      "fim": 242.7,
+      "numero": "1 DE CADA 3",
+      "rotulo": "PERSONAS NO PODÍA VER LA VÍA LÁCTEA"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 334.9,
+      "fim": 341.5,
+      "numero": "1986",
+      "rotulo": "CHERNÓBIL · HOY: LOBOS, ALCES Y JABALÍES"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 393.1,
+      "fim": 398.4,
+      "numero": "MILES",
+      "rotulo": "DE INDIVIDUOS PARA QUE UNA ESPECIE SOBREVIVA"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 462.7,
+      "fim": 468.0,
+      "numero": "+1 MILLÓN",
+      "rotulo": "DE MUESTRAS DE SEMILLAS · SVALBARD"
+    }
+  ]
+}
