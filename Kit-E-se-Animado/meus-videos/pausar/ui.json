@@ -1,0 +1,131 @@
+{
+  "duracao": 375.9,
+  "palavrasPorLegenda": 4,
+  "destaques": [
+    "tú.",
+    "nada.",
+    "negro.",
+    "oscuras.",
+    "ciego,",
+    "sordo,",
+    "inmóvil",
+    "burbuja",
+    "colibrí",
+    "pastelería.",
+    "resultado.",
+    "envejeciendo.",
+    "Einstein,",
+    "GPS,",
+    "Cronostasis.",
+    "héroe",
+    "correcto?",
+    "soledad.",
+    "compartirlo.",
+    "tiempo.",
+    "pausarías?"
+  ],
+  "trocas": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9",
+    "10": "10",
+    "11": "11",
+    "12": "12",
+    "13": "13",
+    "14": "14",
+    "15": "15",
+    "16": "16",
+    "17": "17",
+    "18": "18",
+    "19": "19",
+    "20": "20",
+    "80000": "80.000",
+    "70000": "70.000"
+  },
+  "elementos": [
+    {
+      "tipo": "placa",
+      "inicio": 37.8,
+      "fim": 43.3,
+      "numero": "300.000 km/s",
+      "rotulo": "VELOCIDAD DE LA LUZ"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 124.3,
+      "fim": 130.4,
+      "numero": "≈50",
+      "rotulo": "ALETEOS POR SEGUNDO DE UN COLIBRÍ"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 157.9,
+      "fim": 163.9,
+      "numero": "100.000",
+      "rotulo": "LATIDOS DEL CORAZÓN AL DÍA"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 172.2,
+      "fim": 177.4,
+      "numero": "+15 DÍAS",
+      "rotulo": "AL AÑO, CON 1 HORA DE PAUSA DIARIA"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 177.5,
+      "fim": 181.6,
+      "numero": "+5 MESES",
+      "rotulo": "MÁS VIEJO QUE TUS AMIGOS EN 10 AÑOS"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 202.9,
+      "fim": 207.6,
+      "numero": "+38 µs",
+      "rotulo": "CADA DÍA · RELOJES DE LOS SATÉLITES GPS"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 210.7,
+      "fim": 213.6,
+      "numero": "≈10 km",
+      "rotulo": "DE ERROR AL DÍA SI NO SE CORRIGIERA"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 217.4,
+      "fim": 222.4,
+      "numero": "MILÉSIMAS",
+      "rotulo": "DE SEGUNDO MÁS JOVEN · ESTUDIO DE GEMELOS DE LA NASA"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 235.9,
+      "fim": 241.4,
+      "numero": "CRONOSTASIS",
+      "rotulo": "LA ILUSIÓN DEL RELOJ DETENIDO"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 299.0,
+      "fim": 308.5,
+      "numero": "1962",
+      "rotulo": "MICHEL SIFFRE · CASI 2 MESES EN UNA CUEVA"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 313.1,
+      "fim": 316.3,
+      "numero": "−25 DÍAS",
+      "rotulo": "PERDIÓ LA CUENTA DEL TIEMPO"
+    }
+  ]
+}
