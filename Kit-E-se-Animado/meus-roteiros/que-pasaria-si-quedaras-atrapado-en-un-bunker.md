@@ -26,6 +26,10 @@ Lucía, desde abajo: "¿Y?". Tú, con la cabeza dentro del conducto: "Hay mucho 
 
 Lo bueno: por ese conducto entra aire. No os vais a ahogar. Lo malo: también entra el ruido de la tormenta. Y suena como si alguien estuviera arañando el techo.
 
+Cogéis el walkie-talkie para pedir más ayuda. Y justo cuando Lucía pulsa el botón, la pila hace pi, pi, piiii… y se apaga. Lo último que se oye es la voz del guía diciendo: "Y sobre todo, no os pongáis nerviosos".
+
+Demasiado tarde.
+
 Primera hora. Silencio. Mucho silencio. Lucía, sentada en una litera. Tú, en la otra. Los dos mirando la pared como si fuera muy interesante.
 
 Haces un inventario, para parecer útil. Seis latas de judías de mil novecientos ochenta y siete. Una radio que no funciona. Una linterna. Una baraja de cartas a la que le faltan los ases. Y un generador de emergencia que da luz para unas horas.
