@@ -1,6 +1,6 @@
 # Guion: ¿y si controlaras los sueños de tu crush? (YouTube horizontal, ~10 min)
 
-Unas 1.550 palabras. Con la voz de David Martin, los guiones anteriores de esta longitud salieron en unos 10 minutos.
+Unas 1.400 palabras: unos 9 minutos con la voz de David Martin.
 
 Gancho: la primera frase ya es la promesa del vídeo. La llamada a suscribirse va justo después del gancho (antes del minuto 1) y se repite al final, en una frase.
 
