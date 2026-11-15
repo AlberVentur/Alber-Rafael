@@ -1,0 +1,109 @@
+{
+  "duracao": 601.8,
+  "palavrasPorLegenda": 4,
+  "destaques": [
+    "privado.",
+    "Sara.",
+    "flamenco.",
+    "metros.",
+    "alas.",
+    "revés.",
+    "igualado.",
+    "fiebre.",
+    "Darwin",
+    "humano.",
+    "lagartija.",
+    "cerca.",
+    "exposición.",
+    "aplaude.",
+    "foco.",
+    "cuatro",
+    "bien.",
+    "noches.",
+    "pelea.",
+    "mandona.",
+    "siento.",
+    "ventana.",
+    "Pepino,",
+    "rosas.",
+    "tropiezo.",
+    "torpe.",
+    "esta.",
+    "sí."
+  ],
+  "trocas": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9",
+    "10": "10",
+    "11": "11",
+    "12": "12",
+    "13": "13",
+    "14": "14",
+    "15": "15",
+    "16": "16",
+    "17": "17",
+    "18": "18",
+    "19": "19",
+    "20": "20",
+    "1986": "1986"
+  },
+  "elementos": [
+    {
+      "tipo": "placa",
+      "inicio": 56.8,
+      "fim": 61.3,
+      "numero": "3 METROS",
+      "rotulo": "ENTRE TU VENTANA Y LA SUYA"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 127.3,
+      "fim": 132.3,
+      "numero": "1872",
+      "rotulo": "CHARLES DARWIN · SONROJARSE"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 190.5,
+      "fim": 195.5,
+      "numero": "AÑOS 50",
+      "rotulo": "ESTUDIO DE UNA RESIDENCIA (MIT)"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 212.6,
+      "fim": 217.6,
+      "numero": "1968",
+      "rotulo": "ROBERT ZAJONC · MERA EXPOSICIÓN"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 300.3,
+      "fim": 303.3,
+      "numero": "≈ 50 %",
+      "rotulo": "LO QUE CREÍAN (CORNELL, 2000)"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 303.5,
+      "fim": 308.5,
+      "numero": "≈ 1 DE CADA 4",
+      "rotulo": "LOS QUE DE VERDAD SE FIJARON"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 469.2,
+      "fim": 474.2,
+      "numero": "1966",
+      "rotulo": "ELLIOT ARONSON · EFECTO DEL TROPIEZO"
+    }
+  ]
+}
