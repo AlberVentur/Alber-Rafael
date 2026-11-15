@@ -1,6 +1,6 @@
 # Guion: ¿Qué pasaría si quedaras atrapado en un búnker con la chica que te gusta? (YouTube horizontal, ~12 min)
 
-Unas 1.900 palabras: unos 12 minutos con la voz de David Martin.
+Unos 9.800 caracteres (unas 1.750 palabras): unos 11 minutos con la voz de David Martin.
 
 Gancho: la primera frase ya te mete dentro del búnker. La llamada a suscribirse va justo después del gancho (antes del minuto 1) y se repite al final, en una frase.
 
@@ -20,7 +20,7 @@ Una noche entera. Tú. Ella. Y un búnker.
 
 Antes de seguir: si te gustan estas historias de "¿y si…?", suscríbete al canal y activa la campanita. Así no te pierdes la próxima. Y ahora sí. Vamos a ver cómo sobrevives a esta noche.
 
-Primero, lo obvio: intentar salir. Empujas la puerta. Nada. Lucía la empuja contigo. Nada. Probáis con la palanca roja, arriba y abajo, cuarenta veces. Nada. Encuentras un conducto de ventilación en el techo, y por un momento te sientes el protagonista de una peli de acción. Te subes a una litera, metes la cabeza… y descubres que por ahí, como mucho, cabe un gato. Un gato delgado.
+Primero, lo obvio: intentar salir. Empujas la puerta. Nada. Lucía la empuja contigo. Nada. Probáis con la palanca roja, arriba y abajo, cuarenta veces. Nada. Encuentras un conducto de ventilación en el techo. Te subes a una litera, metes la cabeza… y descubres que por ahí, como mucho, cabe un gato. Un gato delgado.
 
 Lucía, desde abajo: "¿Y?". Tú, con la cabeza dentro del conducto: "Hay mucho polvo". Y te sale un estornudo que retumba por todo el búnker.
 
@@ -56,7 +56,7 @@ Ella se ríe. "¿Lo del estómago era mentira?". Era mentira.
 
 Y entonces, en un cajón, encontráis algo. Un cuaderno viejo, de los soldados que vigilaban el búnker hace cuarenta años. Y en la última página, alguien escribió una lista de preguntas. "Para pasar las noches largas".
 
-Esto también tiene ciencia detrás. En mil novecientos noventa y siete, el mismo Arthur Aron del puente hizo otro experimento. Juntó a parejas de desconocidos y les dio treinta y seis preguntas para hacerse en unos cuarenta y cinco minutos. Empezaban fáciles, como "¿con quién te gustaría cenar, si pudieras elegir a cualquier persona del mundo?". Y cada vez eran más personales. Al final, muchas de esas parejas de desconocidos se sentían tan cercanas como amigos de toda la vida.
+Esto también tiene ciencia detrás. En mil novecientos noventa y siete, el mismo Arthur Aron del puente hizo otro experimento. Juntó a parejas de desconocidos y les dio treinta y seis preguntas para hacerse en unos cuarenta y cinco minutos. Empezaban fáciles. Y cada vez eran más personales. Al final, muchas de esas parejas de desconocidos se sentían tan cercanas como amigos de toda la vida.
 
 Lucía abre el cuaderno. "Pregunta uno: ¿cuál sería tu día perfecto?".
 
@@ -85,8 +85,6 @@ Tú no bailas. Nunca. Pero estás en un búnker, a doce metros bajo tierra, y na
 Hasta que la radio se vuelve a callar. Esta vez, para siempre.
 
 Las tres de la mañana. Ya habéis perdido la cuenta de las horas.
-
-Y aquí llega algo que pasa en todos los encierros de verdad. Porque la ciencia lleva años estudiando qué le pasa a la gente cuando la encierras junta.
 
 En el experimento Marte quinientos, seis hombres vivieron quinientos veinte días encerrados en una nave de mentira, en Moscú, para simular un viaje a Marte. Y uno de los problemas más serios no fue la comida ni el aire. Fue la convivencia. El cansancio. Las pequeñas manías del otro que, después de muchos días, se hacen enormes.
 
@@ -129,10 +127,6 @@ Así que haces algo valiente. Le preguntas a Lucía si quiere quedar el sábado.
 Y ella dice que sí.
 
 Y el sábado, en la biblioteca, en la mesa del fondo, con la luz encendida y nada que dé miedo, le enseñas tu cuaderno de dibujos. El de verdad. Y ella se ríe igual que en el búnker. Y te coge la mano igual que en el búnker.
-
-Unas semanas después, volvéis al museo. Juntos. Y en una vitrina, al lado de las latas de judías, hay algo nuevo: el cuaderno de los soldados, abierto por la última página. Con tu dibujo de Lucía tocando la palanca roja. Ella convenció al guía para ponerlo ahí.
-
-Debajo, un cartel dice: "Sobrevivieron una noche aquí. Y no se comieron las judías".
 
 Porque eso es lo curioso. El miedo puede encender algo. Pero no lo puede mantener encendido. Lo que se queda cuando se abre la puerta es lo que os habéis contado.
 
