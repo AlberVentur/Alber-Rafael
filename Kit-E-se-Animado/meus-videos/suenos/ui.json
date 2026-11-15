@@ -1,0 +1,100 @@
+{
+  "duracao": 532.4,
+  "palavrasPorLegenda": 4,
+  "destaques": [
+    "Sara",
+    "tú.",
+    "desván",
+    "botón",
+    "director.",
+    "suscríbete",
+    "campanita,",
+    "Sara.",
+    "lúcidos.",
+    "lila.",
+    "azúcar.",
+    "pato.",
+    "pato,",
+    "\"cuac\".",
+    "olfato",
+    "rosa.",
+    "farolillos",
+    "superado.",
+    "pato.",
+    "Dormio.",
+    "árboles.",
+    "peluche.",
+    "pijama.",
+    "gris,",
+    "sola.",
+    "amigo,",
+    "permiso,",
+    "cuidado.",
+    "verdad,",
+    "basura.",
+    "verdad",
+    "yo",
+    "rojo?"
+  ],
+  "trocas": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9",
+    "10": "10",
+    "11": "11",
+    "12": "12",
+    "13": "13",
+    "14": "14",
+    "15": "15",
+    "16": "16",
+    "17": "17",
+    "18": "18",
+    "19": "19",
+    "20": "20",
+    "1986": "1986"
+  },
+  "elementos": [
+    {
+      "tipo": "placa",
+      "inicio": 92.4,
+      "fim": 97.4,
+      "numero": "≈ 2 HORAS",
+      "rotulo": "LO QUE SOÑAMOS CADA NOCHE"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 99.7,
+      "fim": 104.7,
+      "numero": "1981",
+      "rotulo": "STEPHEN LABERGE · SUEÑOS LÚCIDOS"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 119.8,
+      "fim": 124.8,
+      "numero": "2021",
+      "rotulo": "PREGUNTAS DENTRO DE UN SUEÑO"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 205.4,
+      "fim": 210.4,
+      "numero": "2009",
+      "rotulo": "OLORES DURANTE LOS SUEÑOS"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 274.5,
+      "fim": 279.0,
+      "numero": "MIT",
+      "rotulo": "DORMIO · INCUBACIÓN DE SUEÑOS"
+    }
+  ]
+}
