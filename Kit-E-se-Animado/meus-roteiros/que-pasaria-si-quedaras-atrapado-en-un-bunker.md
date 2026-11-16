@@ -24,11 +24,9 @@ Primero, lo obvio: intentar salir. Empujas la puerta. Nada. Lucía la empuja con
 
 Lucía, desde abajo: "¿Y?". Tú, con la cabeza dentro del conducto: "Hay mucho polvo". Y te sale un estornudo que retumba por todo el búnker.
 
-Lo bueno: por ese conducto entra aire. No os vais a ahogar. Lo malo: también entra el ruido de la tormenta. Y suena como si alguien estuviera arañando el techo.
-
 Primera hora. Silencio. Mucho silencio. Lucía, sentada en una litera. Tú, en la otra. Los dos mirando la pared como si fuera muy interesante.
 
-Haces un inventario, para parecer útil. Seis latas de judías de mil novecientos ochenta y siete. Una radio que no funciona. Una linterna. Una baraja de cartas a la que le faltan los ases. Y un generador de emergencia que da luz para unas horas.
+Haces inventario. Seis latas de judías de mil novecientos ochenta y siete. Una radio que no funciona. Una linterna. Una baraja de cartas a la que le faltan los ases. Y un generador de emergencia que da luz para unas horas.
 
 Lucía lee la fecha de las latas y dice: "Bueno, si nos morimos, por lo menos no será de hambre. Será de judías". Y se ríe. Y tú te ríes. Y el búnker ya no parece tan frío.
 
@@ -62,7 +60,7 @@ Lucía abre el cuaderno. "Pregunta uno: ¿cuál sería tu día perfecto?".
 
 Tú contestas: "Hoy no, desde luego".
 
-Ella dice que el suyo sería un día de lluvia, en casa, viendo una peli de miedo. Tú le dices que eso no tiene sentido para alguien que le tiene miedo a la oscuridad. Y ella dice que por eso las ve de día.
+Ella dice que el suyo sería un día de lluvia, en casa, viendo una peli de miedo.
 
 Pregunta siete. Pregunta doce. Pregunta veinte.
 
@@ -80,7 +78,7 @@ Luego Lucía coge la radio que no funciona. Le da un golpe. Otro golpe. Y al ter
 
 Lucía se levanta. "¿Bailas?".
 
-Tú no bailas. Nunca. Pero estás en un búnker, a doce metros bajo tierra, y nadie te ve. Así que bailas. Fatal. Ella también baila fatal. Os chocáis con una litera. Y la linterna, que estaba encima, rueda por el suelo y hace que vuestras sombras se muevan por las paredes de hormigón como dos gigantes.
+Tú no bailas. Nunca. Pero estás en un búnker, a doce metros bajo tierra, y nadie te ve. Así que bailas. Fatal. Ella también baila fatal. Os chocáis con una litera.
 
 Hasta que la radio se vuelve a callar. Esta vez, para siempre.
 
@@ -91,8 +89,6 @@ En el experimento Marte quinientos, seis hombres vivieron quinientos veinte día
 Y a vosotros, esa noche, también os llega. Tienes frío. Lucía tiene hambre. Ninguno quiere las judías de mil novecientos ochenta y siete. Y cuando le dices, medio en broma, que todo esto es culpa de la palanca roja, ella se enfada de verdad. "Ya lo sé, ¿vale? No hace falta que me lo recuerdes".
 
 Silencio. Del malo.
-
-Cada uno en su litera. Mirando la pared otra vez.
 
 Y entonces piensas en el puente. En que a lo mejor ella solo se ríe contigo porque tiene miedo. Porque no hay nadie más. Porque es un búnker. Y que mañana, cuando se abra la puerta, todo volverá a ser como antes.
 
