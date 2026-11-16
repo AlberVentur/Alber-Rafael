@@ -6,6 +6,8 @@ Unos 7.600 caracteres (unas 1.400 palabras): unos 8 minutos con la voz de David 
 
 Estás atrapado en un ascensor, entre el piso siete y el piso ocho. La luz parpadea. El botón de alarma no hace nada. Y a medio metro de ti está Nora. Tu vecina nueva. La chica que te gusta desde el primer día que la viste en el portal.
 
+Antes de empezar: si te gustan estas historias de "¿y si…?", suscríbete al canal y activa la campanita. Así no te pierdes la próxima. Y ahora sí. Vamos a ver cómo sobrevives a esta Nochevieja.
+
 ¿Cómo has llegado hasta aquí? Rebobinemos.
 
 Treinta y uno de diciembre. Las once de la noche. Tu madre te manda a casa de la abuela, en el piso doce, con una bandeja de turrones. Llamas al ascensor. Se abre la puerta. Y dentro está Nora, con una bolsa de uvas para las campanadas. Te dice: "¿Al doce? Yo también". Tú dices "sí" con una voz que no es la tuya.
@@ -13,8 +15,6 @@ Treinta y uno de diciembre. Las once de la noche. Tu madre te manda a casa de la
 Piso cinco. Piso seis. Piso siete. Y, de repente, un golpe seco. Clanc. El ascensor se para. La luz parpadea. Y se queda en una lucecita amarilla de emergencia.
 
 Silencio. Nora te mira. Tú miras los botones.
-
-Antes de seguir: si te gustan estas historias de "¿y si…?", suscríbete al canal y activa la campanita. Así no te pierdes la próxima. Y ahora sí. Vamos a ver cómo sobrevives a esta Nochevieja.
 
 Primero, lo obvio: pulsas todos los botones. Todos. El siete, el ocho, el doce, el de abrir puertas. Nada. Pulsas el botón de cerrar puertas, por si acaso. Y Nora te dice: "Ese botón no sirve para nada, ¿sabes?". Y tiene razón. En muchos ascensores, el botón de cerrar puertas no hace nada. Está ahí para que la gente sienta que tiene el control.
 
