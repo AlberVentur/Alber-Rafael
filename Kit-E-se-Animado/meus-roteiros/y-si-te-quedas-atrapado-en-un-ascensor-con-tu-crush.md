@@ -98,7 +98,7 @@ Tu abuela mira la bandeja vacía. "¿Y los turrones?". Nora, muy seria: "Se los 
 
 Al día siguiente, el ascensor ya funciona. Pero tú tienes una duda. ¿Y si Nora solo se acercó a ti porque estaba asustada? ¿Porque estabais en un metro cuadrado? ¿Porque no había nadie más?
 
-Así que bajas al portal. Y esta vez no esperas veinte minutos para "coincidir". Llamas a su puerta. Y le preguntas si quiere ir a dar una vuelta.
+Así que subes al noveno. Y esta vez no esperas veinte minutos para "coincidir". Llamas a su puerta. Y le preguntas si quiere ir a dar una vuelta.
 
 Y ella dice que sí.
 
