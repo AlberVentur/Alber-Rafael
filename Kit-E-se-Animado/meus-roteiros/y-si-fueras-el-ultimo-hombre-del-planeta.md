@@ -1,153 +1,163 @@
 # Guion: ¿Y si fueras el último hombre del planeta? (YouTube horizontal, ~11 min)
 
-Versión: desaparecen todas las personas del planeta menos tú. Unos 9.980 caracteres (contador de la persona): unos 11 minutos con la voz de David Martin. La suscripción cae hacia el segundo 40.
+Versión: desaparecen todos los hombres del planeta menos tú. Las mujeres siguen aquí. Unos 9.980 caracteres (contador de la persona): unos 11 minutos con la voz de David Martin. La suscripción cae hacia el segundo 40.
 
 ## Narración (para grabar o pegar en ElevenLabs)
 
-Te despiertas. Silencio. No hay coches en la calle. Solo un pájaro, cantando como si fuera el dueño de la ciudad.
+Te despiertas. Bajas a la cocina. Tu padre no está. Tu hermano tampoco. Hay dos tazas de café en la mesa, todavía calientes.
 
-Miras el móvil. Cero mensajes. Llamas a tu madre. Nadie contesta. Sales a la calle en pijama. Hay un autobús parado en mitad del cruce, con el motor encendido y las puertas abiertas. Vacío.
+Tu madre está delante de la tele, con la boca abierta. En las noticias, una presentadora repite lo mismo una y otra vez: todos los hombres del planeta han desaparecido esta noche. Todos. Más de cuatro mil millones.
 
-Y poco a poco lo entiendes. No falta tu familia. Falta todo el mundo. Más de ocho mil millones de personas, desaparecidas en una noche.
+Tu madre se gira despacio. Te mira. Y grita.
 
-Menos tú.
+Porque tú sigues aquí.
 
 Eres el último hombre del planeta.
 
-Y antes de que empiece tu nueva vida: si te gustan estas historias de "¿y si…?", suscríbete al canal y activa la campanita. Y ahora sí. Vamos a ver cuánto aguantas solo.
+Y antes de que el mundo entero venga a buscarte: si te gustan estas historias de "¿y si…?", suscríbete al canal y activa la campanita. Y ahora sí. Vamos a ver cómo sobrevives siendo el único.
+
+Lo primero que piensas es una tontería: se acabó la cola en el baño de hombres. Para siempre. Todos los baños de hombres del mundo son tuyos.
+
+Lo segundo que piensas ya no es tan divertido. ¿Por qué tú?
+
+Nadie lo sabe. Ni los médicos, ni los científicos, ni los gobiernos. Tú tampoco. Anoche cenaste macarrones, viste una serie y te dormiste con el móvil en la cara. Nada especial. Pero aquí estás.
 
 Día uno.
 
-Al principio, es increíble. Entras en el supermercado y nadie te cobra. Te llevas todas las patatas fritas que quieras. Entras en la tienda de videojuegos, coges la consola más cara y te la llevas a casa.
+El mundo se queda quieto. Hay oficinas a medias, cocinas a medias, aviones que no despegan. Porque había trabajos que hacían casi solo hombres.
 
-Te sientas en el centro de un estadio de fútbol vacío y gritas tu nombre. El eco te devuelve tu propia voz. Es la única voz que vas a oír en mucho tiempo.
+En Estados Unidos, por ejemplo, solo unos tres de cada cien carpinteros y electricistas eran mujeres. En las obras de construcción, casi lo mismo. Y en las cabinas de los aviones de pasajeros, menos de cinco pilotos de cada cien eran mujeres.
 
-Pero el mundo, sin nadie que lo cuide, empieza a apagarse.
+Así que los aviones se quedan en tierra. Las obras se quedan con la grúa en el aire. Y los camiones que llevan la comida a los supermercados se quedan parados en la carretera.
 
-Las centrales eléctricas funcionan porque hay personas vigilándolas. Sin nadie que añada combustible, que revise las máquinas o que equilibre la red, se van parando una detrás de otra. En uno o dos días, la mayoría de las luces del planeta se apagan.
+Tú, como eres el único hombre, sientes que tienes que hacer algo. Te ofreces a arreglar la luz del barrio. Abres el cuadro eléctrico. Lo miras. Lo cierras.
 
-Esa noche miras por la ventana. La ciudad está completamente a oscuras. Y por primera vez en tu vida ves el cielo de verdad: miles de estrellas que la luz de las farolas siempre te había escondido.
+Una vecina que estudió ingeniería te aparta con cuidado y lo arregla en diez minutos.
 
-Es precioso. Y da muchísimo miedo.
+Y eso pasa en todas partes. Porque esto ya había ocurrido antes, a lo grande.
 
-Sin electricidad, internet desaparece. Tu móvil se convierte en una linterna con fotos dentro. Y cuando se acaba la batería, ni eso.
+Durante la Segunda Guerra Mundial, millones de hombres se fueron al frente. Y millones de mujeres ocuparon su lugar. Construyeron aviones, barcos y tanques en las fábricas. En Estados Unidos, más de mil mujeres pilotas llevaron aviones militares de una punta a otra del país. Las llamaban las WASP. Nadie había creído que podían hacerlo. Lo hicieron.
 
-Hora treinta y seis.
+Así que, a la semana, hay colas de mujeres en las escuelas de pilotos, de electricistas y de camioneras. Al mes, los supermercados vuelven a tener pan. Al año, la grúa de la obra de enfrente vuelve a moverse.
 
-En una ciudad como Nueva York, el metro está bajo tierra, y cada día se cuela agua de lluvia y de los ríos subterráneos. Cientos de bombas la sacan sin parar. Sin electricidad, las bombas se detienen. Según los ingenieros del metro entrevistados por el periodista Alan Weisman, en unas treinta y seis horas los túneles empezarían a inundarse.
+Las primeras semanas no son fáciles. Hay apagones, retrasos y colas larguísimas. Pero cada día algo vuelve a funcionar, y aparece alguien nuevo que sabe cómo hacerlo.
 
-La ciudad que se movía bajo tus pies se llena de agua en silencio.
+El mundo no se rompió. Solo tuvo que aprender rápido.
 
-Semana uno.
+Y algunas cosas, de repente, mejoran.
 
-Vuelves al supermercado. Y huele fatal. Sin neveras, la carne, el pescado, la leche y la fruta se pudren en pocos días. Te tapas la nariz y vas directo al pasillo de las latas.
+Según la Organización Mundial de la Salud, casi tres de cada cuatro personas que morían en accidentes de tráfico eran hombres. Ahora las carreteras son mucho más tranquilas.
 
-Ahí está tu futuro: lentejas en lata, atún en lata, melocotón en almíbar. La comida en lata puede durar años. Y en el estante de al lado hay un tesoro todavía mejor: la miel. Se han encontrado tarros de miel en tumbas egipcias de miles de años. Tu desayuno de los próximos meses está asegurado.
+En las cárceles federales de Estados Unidos, unos noventa y tres de cada cien presos eran hombres. De la noche a la mañana, las cárceles se quedan casi vacías. Las guardias no saben qué hacer. Una te mira con desconfianza. Por si acaso.
 
-Aprendes a hacer fuego. Después de cuarenta intentos, consigues hervir agua y cocinar unas lentejas. Son las mejores lentejas de tu vida.
+Pero tu vida cambia de otra forma: eres famoso. El más famoso del planeta.
 
-Mes uno.
+Tu cara está en todos los telediarios. En las revistas. En las cajas de cereales. Hay un documental sobre ti, y ni siquiera te preguntaron.
 
-Coges un coche deportivo del concesionario. Conduces por la autopista a toda velocidad, sin semáforos, sin multas, sin atascos.
+Recibes un millón de cartas al día. La mitad son de científicas que quieren estudiarte. La otra mitad, de abuelas que quieren presentarte a sus nietas. Tu madre las contesta todas. Con la misma carta.
 
-Pero no puedes hacerlo para siempre. La gasolina también caduca. En unos meses empieza a estropearse dentro de los depósitos y los coches dejan de arrancar bien. Así que buscas una bicicleta.
+Los gobiernos te ponen guardaespaldas. Viajas en coche blindado. Hasta para ir a comprar el pan te acompañan cuatro agentes con gafas de sol.
 
-Y entonces te das cuenta de algo raro. No sabes qué día es.
+Y los científicos te explican por qué eres tan importante. Casi todas las personas tienen dos cromosomas sexuales en cada célula. Las mujeres suelen tener dos cromosomas X. Los hombres, un cromosoma X y un cromosoma Y. Y ese cromosoma Y, que pasa de padres a hijos desde hace miles de generaciones, ahora solo camina por la Tierra dentro de ti.
 
-Tu móvil está muerto. No hay relojes funcionando. Ni calendarios que alguien vaya pasando. Duermes cuando tienes sueño y comes cuando tienes hambre. Los días se mezclan.
+Te sacan sangre. Te hacen preguntas. Te miden la cabeza. Y en todas partes te dicen lo mismo: eres el futuro de la humanidad.
 
-Esto le pasó de verdad a un científico francés llamado Michel Siffre. En mil novecientos sesenta y dos se metió en una cueva helada de los Alpes, sin reloj y sin luz natural, para estudiar qué le pasaba al cuerpo. Cuando lo sacaron, él estaba convencido de que había pasado un mes. En realidad habían pasado casi dos. Se había perdido veinticinco días enteros sin darse cuenta.
+Tú te lo crees. Te compras un traje. Practicas cara de héroe delante del espejo.
 
-Así que coges un rotulador y empiezas a hacer rayitas en la pared. Una por cada amanecer. Es lo único que te recuerda que el tiempo sigue avanzando.
+Hasta que una científica te explica algo con mucha paciencia.
 
-Mes tres.
+Ya existen bancos de donantes que envían muestras congeladas a más de cien países. Hay miles de muestras guardadas. La humanidad puede seguir teniendo bebés, niñas y niños, sin pedirte permiso.
 
-El silencio empieza a pesar.
+Y la ciencia va todavía más lejos. En dos mil cuatro, en Japón, nació un ratón con dos madres y ningún padre. En dos mil dieciocho, en China, nacieron decenas de ratones sanos con dos madres. En personas todavía no se puede, y no se sabe si se podrá. Pero ya no eres tan necesario como creías.
 
-Hablas solo. Al principio en voz baja. Luego en voz alta. Le cuentas tu día a la nevera.
+Te quitas el traje. Vuelves a ponerte la camiseta de siempre.
 
-Y un día, en una tienda de ropa, encuentras un maniquí. Le pones una gorra. Le pones unas gafas de sol. Le llamas Paco. Te lo llevas a casa y lo sientas en el sofá, delante de la tele apagada.
+Y empieza el chiste que te va a perseguir toda la vida.
 
-Parece una locura, pero tiene explicación. En dos mil ocho, un grupo de psicólogos de la Universidad de Chicago descubrió que las personas que se sienten solas tienden a ver rasgos humanos en las cosas. En los aparatos. En las mascotas. Tu cerebro necesita tanto a otras personas que, si no las encuentra, se las inventa.
+Todo el mundo, en todas partes, te pide lo mismo: ¿me abres este bote?
 
-Paco no habla. Pero escucha muy bien.
+La vecina. La panadera. La presidenta, en una cena oficial, delante de las cámaras. Tú lo intentas. Pones cara de esfuerzo. A veces se abre. A veces no.
 
-Y no eres el primero al que le pasa algo así.
+Cuando no se abre, alguien te lo quita de las manos, le da un golpecito con la cuchara y lo abre. Y todo el mundo aplaude. A ella.
 
-En mil setecientos cuatro, un marinero escocés llamado Alexander Selkirk se peleó con su capitán y acabó abandonado en una isla del océano Pacífico, frente a Chile. Estuvo allí solo más de cuatro años. Para sobrevivir, cazaba cabras, comía frutas y raíces y, para mantenerse cuerdo, leía, rezaba y cantaba. Domesticó gatos salvajes para que las ratas no le mordieran los pies mientras dormía. Su historia inspiró una de las novelas más famosas de la historia: Robinson Crusoe.
+En la biblioteca del barrio encuentras un libro de historia y descubres que hubo un día en que pasó justo lo contrario.
 
-Selkirk tuvo suerte: al final llegó un barco y lo rescató.
+El veinticuatro de octubre de mil novecientos setenta y cinco, en Islandia, nueve de cada diez mujeres dejaron de trabajar durante un día entero. No fueron a la oficina, no cocinaron, no cuidaron de los niños. El país se paralizó. Los bancos y las fábricas cerraron. Muchos padres tuvieron que llevarse a sus hijos al trabajo, y las salchichas se agotaron en las tiendas, porque era lo más fácil de preparar.
 
-Tú miras al horizonte cada mañana. Pero no va a venir ningún barco.
+Cinco años después, Islandia eligió a la primera mujer presidenta del mundo votada directamente por su pueblo: Vigdís Finnbogadóttir.
 
-Y la soledad no es solo triste. Es peligrosa. En dos mil diez, unos investigadores revisaron ciento cuarenta y ocho estudios con más de trescientas mil personas. Su conclusión: las personas con relaciones sociales fuertes tenían un cincuenta por ciento más de probabilidades de seguir vivas al final de los estudios. Estar conectado con otros es casi tan importante para tu salud como comer bien o hacer ejercicio.
+Cierras el libro. Y piensas que el mundo siempre ha necesitado a todos. Solo que no siempre se ha dado cuenta.
 
-Y tú no estás conectado con nadie.
+Mes seis.
 
-Hasta que oyes un ladrido.
+El fútbol vuelve. Las ligas de mujeres llenan los estadios. Tu equipo de toda la vida ahora tiene una delantera que marca tres goles por partido, y por fin ganáis algo. Tú gritas en la grada. Eres el único con voz grave. Todo el estadio se gira a mirarte.
 
-Es un perro. Flaco, sucio, con una oreja doblada. Te mira desde lejos, sin fiarse. Hasta que una mañana entra en casa, se tumba a tus pies y se queda dormido.
+Lo que nadie ve en las revistas es lo que pasa cuando apagas la luz.
 
-Le llamas Lunes. Porque fue el lunes en que dejaste de estar solo. O eso dicen tus rayitas en la pared.
+Echas de menos a tu padre. Su forma de silbar mientras cocinaba. Sus chistes malos. Los consejos que nunca le pediste y que ahora darías cualquier cosa por escuchar.
 
-Lunes te sigue a todas partes. Te avisa cuando hay peligro. Y por la noche duerme pegado a tu espalda. Paco, desde el sofá, os mira con sus gafas de sol. Un poco celoso.
+Echas de menos a tu hermano, aunque os peleabais por el mando de la tele. Echas de menos a tu mejor amigo, el que te llamaba a las dos de la mañana para hablar de tonterías.
 
-Año uno.
+Eres el único que queda de algo. Y nadie entiende exactamente qué se siente.
 
-La ciudad ya no parece una ciudad. Por las grietas del asfalto salen hierbas. Las enredaderas suben por las farolas. En el centro comercial, un árbol pequeño crece entre las baldosas, justo donde estaba la fuente.
+Bueno. Casi nadie.
 
-Ves cosas que nunca habías visto. Una familia de jabalíes paseando por la avenida principal. Ciervos comiendo hierba en el campo de fútbol donde gritabas tu nombre.
+Tu madre entra en tu cuarto con dos tazas de té. Se sienta en la cama. No dice nada. Ella también perdió a tu padre, piensas. A su hermano. A su padre. A su hijo mayor.
 
-Esto también ha pasado de verdad. En mil novecientos ochenta y seis, después del accidente nuclear de Chernóbil, miles de personas tuvieron que abandonar sus casas para siempre. Casi treinta años después, unos científicos contaron los animales de la zona. Había alces, ciervos y jabalíes, tantos como en las reservas naturales cercanas. Y había más de siete veces más lobos.
+Todas perdieron a alguien. Todas.
 
-Cuando los humanos se van, la naturaleza no espera. Vuelve.
+Esa noche entiendes que tú no eres el que más ha perdido. Solo eres el que más se ve.
 
-Una noche, sentado en la azotea con Lunes, haces cuentas. Sin nadie que las cuide, las casas se llenarán de humedad. Los tejados se hundirán. Dentro de muchos años, los bosques se tragarán las calles. Y solo quedarán las piedras más duras y los objetos más pequeños, como monedas, botones o trozos de cerámica, para que alguien, algún día, sepa que estuvimos aquí.
+Así que haces algo útil. Empiezas un proyecto: recoges las historias de los hombres que desaparecieron. Vas casa por casa, ciudad por ciudad. Escuchas a las hijas, a las madres, a las amigas.
 
-Pero hay una cosa nuestra que no se va a romper. Muy lejos, más allá de todos los planetas, viaja la sonda Voyager. La lanzaron en mil novecientos setenta y siete. Lleva un disco dorado con saludos en decenas de idiomas, música de todo el mundo y fotos de la Tierra. Aunque tú desaparezcas, ese disco seguirá viajando por el espacio durante millones de años.
+Llenas cuadernos. Luego, archivos. Luego, una biblioteca entera. La biblioteca de los que no volvieron.
 
-Esa idea te reconforta. No eres el último mensaje de la humanidad. Solo el último que está leyendo.
+Y mientras escuchas, aprendes algo curioso. En casi todos los países, las mujeres ya vivían más años que los hombres. Unos cinco años más, de media en el mundo. Muchas de las mujeres que te cuentan sus historias ya sabían lo que era seguir adelante sin ellos. Y te enseñan cómo se hace.
 
-Así que decides hacer algo útil con tu tiempo.
+Un día te llega un rumor. Dicen que hay otro hombre. En un pueblo de las montañas, al otro lado del mundo. Alguien lo vio de lejos, con barba y sombrero.
 
-Vas a la biblioteca y lees todo lo que no leíste en el colegio. Aprendes a cultivar tomates en la azotea. Montas unas placas solares en el tejado y consigues encender una bombilla. Una sola. La primera luz eléctrica de la ciudad en un año entero. Lunes le ladra, muy emocionado.
+Viajas tres días. Cruzas dos países, un río y un rebaño de cabras.
 
-Y empiezas a escribir. Un diario. Escribes cómo era el mundo antes. El olor del pan por la mañana. Las bromas de tu mejor amigo. La voz de tu madre llamándote para cenar. Escribes todo, para no olvidarlo.
+Llegas al pueblo. Te señalan una colina. Ahí está, de espaldas, con barba y sombrero.
 
-En la biblioteca descubres que ya hubo alguien que imaginó tu historia. En mil ochocientos veintiséis, Mary Shelley, la autora de Frankenstein, publicó una novela llamada El último hombre. Hace doscientos años, alguien ya se preguntaba lo mismo que tú vives cada día.
+Te acercas temblando. Le tocas el hombro. Se da la vuelta.
 
-Y encuentras otra historia. Un cuento del autor estadounidense Fredric Brown, de mil novecientos cuarenta y ocho, que empieza con solo dos frases:
+Es un espantapájaros. Muy bien hecho, eso sí.
 
-"El último hombre de la Tierra estaba sentado solo en una habitación. Llamaron a la puerta".
+Te sientas a su lado y te ríes. Te ríes tanto que lloras. Y por primera vez en mucho tiempo, no te sientes solo. Te sientes ridículo. Que es mucho mejor.
 
-Te ríes. Cierras el libro. Qué cuento tan tonto.
+Pasan los años. El mundo sigue. Hay cosas que funcionan mejor que antes y cosas que funcionan peor. Las mujeres llevan los aviones, las obras, los gobiernos y los equipos de fútbol. Nadie sabe todavía cómo será el mundo dentro de cien años. Pero sigue.
 
-Esa noche, con tu bombilla encendida y Lunes dormido a tus pies, enciendes una vieja radio que encontraste en el sótano. La conectas a las placas solares. Y como cada noche, hablas por el micrófono: "Aquí el último hombre del planeta. ¿Hay alguien ahí?".
+Y un día, en las noticias, la misma presentadora del primer día sonríe y dice: ha nacido el primer niño desde que desaparecieron los hombres.
 
-Solo se oye ruido. Como siempre.
+Vas al hospital. La madre te deja cogerlo en brazos. Es diminuto. Arrugado. Grita como si fuera el dueño del mundo.
 
-Apagas la radio. Le das las buenas noches a Paco. Te sientas en el sofá.
+Le prometes que le vas a contar todo. Quiénes eran los hombres que no volvieron. Cómo su abuelo silbaba en la cocina. Cómo el mundo aprendió rápido.
 
-Y entonces Lunes levanta la cabeza. Gruñe. Mira hacia la entrada.
+Y le prometes una cosa más: que le vas a enseñar a abrir botes.
 
-Toc. Toc. Toc.
+Entonces la enfermera te pasa el biberón. Tiene la tapa apretada. Lo intentas. Pones cara de esfuerzo.
 
-Alguien está llamando a la puerta.
+No se abre.
 
-¿Quién crees que es? Cuéntamelo en los comentarios. Y si te ha gustado esta historia, suscríbete al canal para ver más vídeos de "¿y si…?". Porque en este canal, nunca estás solo.
+La madre te lo quita de las manos, le da un golpecito con la cuchara, y lo abre.
+
+El bebé se ríe.
+
+Y tú, por primera vez desde aquella mañana, también.
+
+Y ahora te pregunto a ti: si fueras el último hombre del planeta, ¿qué sería lo primero que harías? Cuéntamelo en los comentarios. Y si te ha gustado esta historia, suscríbete al canal para ver más vídeos de "¿y si…?".
 
 ## Fuentes
 
-- El metro de Nueva York se inundaría en unas 36 horas sin bombas: Alan Weisman, *El mundo sin nosotros* (*The World Without Us*), 2007, con entrevistas a ingenieros de la MTA. https://en.wikipedia.org/wiki/The_World_Without_Us
-- Apagón de la red eléctrica en uno o dos días sin operadores: Weisman (2007) y el documental *Life After People* (History Channel, 2008). https://en.wikipedia.org/wiki/Life_After_People
-- Miel comestible encontrada en tumbas egipcias: Smithsonian Magazine, "The Science Behind Honey's Eternal Shelf Life", 2013. https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/
-- Michel Siffre, 1962: unos dos meses en la cueva glaciar de Scarasson (Alpes) sin reloj; al salir creía que era el 20 de agosto y era el 14 de septiembre (perdió unos 25 días). https://en.wikipedia.org/wiki/Michel_Siffre
-- Soledad y antropomorfismo: Epley, Akalis, Waytz y Cacioppo, "Creating social connection through inferential reproduction", *Psychological Science*, 2008 (Universidad de Chicago).
-- Alexander Selkirk, solo en la isla Más a Tierra (hoy isla Robinson Crusoe, Chile) de 1704 a 1709; gatos contra las ratas y cabras. https://en.wikipedia.org/wiki/Alexander_Selkirk
-- Relaciones sociales y supervivencia (+50 %): Holt-Lunstad, Smith y Layton, "Social Relationships and Mortality Risk: A Meta-analytic Review", *PLOS Medicine*, 2010 (148 estudios, 308.849 personas). https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316
-- Fauna en la zona de Chernóbil (alces, ciervos y jabalíes como en reservas; más de 7 veces más lobos): Deryabina et al., *Current Biology*, 2015. https://www.cell.com/current-biology/fulltext/S0960-9822(15)00988-4
-- Sonda Voyager y el disco de oro (1977). https://en.wikipedia.org/wiki/Voyager_Golden_Record
-- Mary Shelley, *El último hombre* (*The Last Man*), 1826. https://en.wikipedia.org/wiki/The_Last_Man
-- Fredric Brown, cuento "Knock" (1948), que empieza con las dos frases del último hombre y la llamada a la puerta. https://en.wikipedia.org/wiki/Knock_(short_story)
-- La gasolina se degrada en unos meses sin estabilizante (dato aproximado). https://en.wikipedia.org/wiki/Gasoline#Stability
-- Todo lo demás (Paco, Lunes, la bombilla, la radio, la llamada a la puerta): ficción.
+- Hombres en el mundo: unos 4.170 millones frente a 4.130 millones de mujeres (≈50,3 %), datos derivados de ONU World Population Prospects 2024 vía Statistics Times (fuente secundaria). https://www.statisticstimes.com/demographics/world-sex-ratio.php
+- EE. UU., 2023: mujeres ≈3,1 % de los carpinteros, ≈2,9 % de los electricistas, ≈4,5 % de los peones de construcción (IWPR con datos de la BLS); mujeres ≈4,6 % de los pilotos de aerolínea (Women in Aviation Advisory Board). https://iwpr.org/wp-content/uploads/2024/03/Women-in-Construction-Quick-Figure-2024-update.pdf
+- Mujeres en las fábricas en la Segunda Guerra Mundial ("Rosie the Riveter") y las WASP (Women Airforce Service Pilots, 1.074 pilotas graduadas). https://en.wikipedia.org/wiki/Women_Airforce_Service_Pilots · https://en.wikipedia.org/wiki/Rosie_the_Riveter
+- Accidentes de tráfico: ~73 % (tres de cada cuatro) de las muertes son hombres, según materiales de la OMS. https://www.grsproadsafety.org/arc/about-three-quarters-73-of-all-road-traffic-deaths-occur-among-men/
+- Cárceles federales de EE. UU.: ~93 % de los presos son hombres (Federal Bureau of Prisons). https://www.statista.com/chart/11573/gender-of-inmates-in-us-federal-prisons-and-general-population
+- Cromosomas sexuales XX / XY y herencia del cromosoma Y de padre a hijo. https://medlineplus.gov/genetics/chromosome/y/
+- Bancos de donantes: Cryos International (Dinamarca) envía a más de 100 países. https://en.wikipedia.org/wiki/Cryos_International
+- Ratones con dos madres: Kaguya (Japón, 2004) y Academia China de Ciencias (2018, Cell Stem Cell). En humanos no es posible hoy. https://www.sciencedaily.com/releases/2018/10/181011143115.htm
+- Esperanza de vida: las mujeres viven unos 5 años más que los hombres de media mundial (OMS, World Health Statistics). https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-life-expectancy-and-healthy-life-expectancy
+- Huelga de mujeres de Islandia, 24 de octubre de 1975 (unas 9 de cada 10 mujeres; las salchichas se agotaron) y elección de Vigdís Finnbogadóttir en 1980. https://www.bbc.com/news/world-europe-67185416 · https://en.wikipedia.org/wiki/1975_Icelandic_women%27s_strike
+- Todo lo demás (la familia, el bote, el espantapájaros, la biblioteca, el primer niño): ficción.
