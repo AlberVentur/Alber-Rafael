@@ -116,7 +116,7 @@ Y empiezas a escribir. Un diario. Escribes cómo era el mundo antes. El olor del
 
 En la biblioteca descubres que ya hubo alguien que imaginó tu historia. En mil ochocientos veintiséis, Mary Shelley, la autora de Frankenstein, publicó una novela llamada El último hombre. Hace doscientos años, alguien ya se preguntaba lo mismo que tú vives cada día.
 
-Y encuentras otra historia. Un cuento de solo dos frases, escrito por el autor estadounidense Fredric Brown en mil novecientos cuarenta y ocho. Dice así:
+Y encuentras otra historia. Un cuento del autor estadounidense Fredric Brown, de mil novecientos cuarenta y ocho, que empieza con solo dos frases:
 
 "El último hombre de la Tierra estaba sentado solo en una habitación. Llamaron a la puerta".
 
