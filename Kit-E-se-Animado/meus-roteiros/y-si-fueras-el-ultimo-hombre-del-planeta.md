@@ -144,7 +144,7 @@ La madre te lo quita de las manos, le da un golpecito con la cuchara, y lo abre.
 
 El bebé se ríe.
 
-Y tú, por primera vez desde aquella mañana, también.
+Y tú también. Porque, al final, el mundo siguió adelante. Y tú con él.
 
 Y ahora te pregunto a ti: si fueras el último hombre del planeta, ¿qué sería lo primero que harías? Cuéntamelo en los comentarios. Y si te ha gustado esta historia, suscríbete al canal para ver más vídeos de "¿y si…?".
 
