@@ -1,0 +1,75 @@
+{
+ "duracao": 658.8,
+ "palavrasPorLegenda": 4,
+ "destaques": [
+  "último",
+  "hombre",
+  "planeta",
+  "suscríbete",
+  "campanita",
+  "wasp",
+  "hicieron",
+  "islandia",
+  "cromosoma",
+  "bote",
+  "espantapájaros",
+  "biberón",
+  "famoso",
+  "salchichas",
+  "vigdís",
+  "finnbogadóttir",
+  "ratón",
+  "ratones",
+  "humanidad",
+  "botes",
+  "ríe",
+  "único"
+ ],
+ "trocas": {
+  "1": "1",
+  "10": "10",
+  "100": "100",
+  "1975": "1975",
+  "2": "2",
+  "2004": "2004",
+  "2018": "2018",
+  "24": "24",
+  "3": "3",
+  "4": "4",
+  "4.000": "4.000",
+  "5": "5",
+  "6": "6",
+  "93": "93",
+  "1000": "1.000"
+ },
+ "elementos": [
+  {
+   "tipo": "placa",
+   "inicio": 149.6,
+   "fim": 157.6,
+   "numero": "1943",
+   "rotulo": "LAS WASP · MÁS DE 1.000 PILOTAS"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 314.2,
+   "fim": 321.6,
+   "numero": "2004",
+   "rotulo": "JAPÓN · UN RATÓN CON DOS MADRES"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 374.8,
+   "fim": 383.2,
+   "numero": "1975",
+   "rotulo": "ISLANDIA · EL DÍA LIBRE DE LAS MUJERES"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 400.6,
+   "fim": 409.2,
+   "numero": "1980",
+   "rotulo": "VIGDÍS FINNBOGADÓTTIR · PRESIDENTA"
+  }
+ ]
+}
