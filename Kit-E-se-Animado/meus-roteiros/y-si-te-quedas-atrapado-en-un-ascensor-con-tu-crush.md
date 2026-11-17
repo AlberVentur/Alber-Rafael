@@ -44,13 +44,13 @@ Nora, desde el suelo: "Oye… ¿y si se rompen los cables?".
 
 Y aquí, por suerte, sabes algo. En mil ochocientos cincuenta y cuatro, en Nueva York, un inventor llamado Elisha Otis se subió a una plataforma, delante de un montón de gente, y mandó cortar la cuerda que la sostenía. La plataforma no cayó. Se quedó frenada al momento. Había inventado el freno de seguridad de los ascensores. Desde entonces, los ascensores llevan varios cables, y cada uno solo podría aguantar el peso. Y si todo fallara, el freno se activa.
 
+Nora te mira. "¿Y tú cómo sabes eso?". Y tú no le dices la verdad: que lo viste en un vídeo a las tres de la mañana.
+
 Y hay una historia todavía más increíble. En mil novecientos cuarenta y cinco, en un día de niebla, un avión militar se estrelló contra el Empire State, en Nueva York. Una ascensorista llamada Betty Lou Oliver estaba en un ascensor, a la altura del piso setenta y nueve. Los cables se rompieron. Y el ascensor cayó setenta y cinco pisos. Betty sobrevivió. Todavía hoy tiene el récord de la caída en ascensor más larga de la historia.
 
 Nora te mira con los ojos muy abiertos. "Eso no me ayuda nada". Vale. Quizás esa historia te la tenías que haber guardado.
 
-Nora te mira. "¿Y tú cómo sabes eso?". Y tú no le dices la verdad: que lo viste en un vídeo a las tres de la mañana.
-
-Media hora. El tuyo, sin cobertura. El móvil de Nora, al cinco por ciento. Lo usa para mandarle un mensaje a su madre. Pero, con los nervios, lo manda al grupo de la clase: "Atrapada en el ascensor con el chico del tercero. No digáis nada". Se da cuenta tarde. El móvil se apaga. Ella se tapa la cara con las manos. Y tú, por dentro, solo has oído una cosa: "el chico del tercero". Sabe en qué piso vives.
+Media hora. Tu móvil, sin cobertura. El móvil de Nora, al cinco por ciento. Lo usa para mandarle un mensaje a su madre. Pero, con los nervios, lo manda al grupo de la clase: "Atrapada en el ascensor con el chico del tercero. No digáis nada". Se da cuenta tarde. El móvil se apaga. Ella se tapa la cara con las manos. Y tú, por dentro, solo has oído una cosa: "el chico del tercero". Sabe en qué piso vives.
 
 Silencio. Mucho silencio. Abrís la bandeja de turrones de la abuela. Primero uno. Luego otro. Luego media bandeja. "Le diremos a tu abuela que el ascensor se los comió", dice Nora.
 
@@ -58,7 +58,7 @@ Una hora. Hace calor. Nora pregunta si se puede acabar el aire. Y no: los ascens
 
 Y si no, que se lo digan a Nicholas White. En mil novecientos noventa y nueve, en un rascacielos de Nueva York, este hombre bajó a fumar un cigarro un viernes por la noche. Se subió al ascensor. Y se quedó atrapado. Cuarenta y una horas. Todo el fin de semana. Sin agua, sin comida, sin que nadie supiera que estaba ahí. Las cámaras lo grababan todo, pero nadie miraba las pantallas. Y sobrevivió.
 
-Nicholas White salió de ese ascensor y, años después, contó que lo peor no fue el hambre. Fue no saber cuánto tiempo iba a pasar ahí dentro. Porque cuando no sabes cuánto falta, cada minuto se hace eterno.
+Porque en un ascensor parado, lo más difícil no es el hambre ni el aire. Es no saber cuánto falta. Y cuando no sabes cuánto falta, cada minuto se hace eterno.
 
 Nora te escucha y dice: "Vale. Nosotros tenemos turrones. Estamos bien".
 
@@ -82,9 +82,9 @@ Y entonces empezáis a hablar. De verdad. Te enteras de que Nora se ha mudado tr
 
 Y tú le cuentas que llevas dos meses intentando hablar con ella. Que una vez la esperaste en el portal veinte minutos para "coincidir". Y que al final, cuando bajó, dijiste "hola" y te fuiste corriendo.
 
-"¿Y qué pensabas decirme todas esas mañanas?", te pregunta. Y tú, la verdad: "No sé. Algo del frío". Nora levanta una ceja. "Qué romántico". Y los dos os reís. Por primera vez, sin mirar los números.
-
 Nora se tapa la cara. "¡Me acuerdo! Pensé que te caía mal".
+
+"¿Y qué pensabas decirme todas esas mañanas?", te pregunta. Y tú, la verdad: "No sé. Algo del frío". Nora levanta una ceja. "Qué romántico". Y los dos os reís. Por primera vez, sin mirar los números.
 
 Y entonces, desde arriba, por el hueco del ascensor, se oye una voz que conoces muy bien. Es tu abuela, asomada en el piso doce: "¡Nene! ¿Estás ahí? ¿Estás bien? ¡Que te guardo la sopa!". Tú quieres desaparecer. Nora se ríe tanto que le dan hipo.
 
@@ -128,7 +128,7 @@ Y ella dice que sí.
 
 Y cuando salís al rellano, el ascensor está ahí, abierto, esperando. Nora lo mira. Te mira a ti. Y dice: "¿Bajamos andando?".
 
-Doce pisos de escaleras. Y no se te hacen largos.
+Nueve pisos de escaleras. Y no se te hacen largos.
 
 El lunes, en el instituto, todo el mundo sabe lo del ascensor. Gracias al mensaje del grupo. A ti te llaman "el chico del tercero". A Nora, "la de las uvas". Pero ese lunes pasa algo más. A la hora del recreo, Nora no come sola. Come contigo. Y con tus amigos, que no paran de preguntarle por Paco. Y por primera vez desde que se mudó, Nora no es "la nueva". Es Nora.
 
