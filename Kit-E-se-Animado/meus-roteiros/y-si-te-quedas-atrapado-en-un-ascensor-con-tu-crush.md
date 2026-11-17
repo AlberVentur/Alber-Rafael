@@ -6,11 +6,13 @@ Unos 12.500 caracteres (unas 2.300 palabras): unos 15 minutos con la voz de Davi
 
 Estás atrapado en un ascensor, entre el piso siete y el piso ocho. La luz parpadea. El botón de alarma no hace nada. Y a medio metro de ti está Nora. Tu vecina nueva. La chica que te gusta desde el primer día que la viste en el portal.
 
-Antes de empezar: si te gustan estas historias de "¿y si…?", suscríbete al canal y activa la campanita. Así no te pierdes la próxima. Y ahora sí. Vamos a ver cómo sobrevives a esta Nochevieja.
-
 ¿Cómo has llegado hasta aquí? Rebobinemos.
 
-Treinta y uno de diciembre. Las once de la noche. Vives en el tercero. Tu madre te manda a casa de la abuela, en el piso doce, con una bandeja de turrones. Llamas al ascensor. Se abre la puerta. Y dentro está Nora, con una bolsa de uvas para las campanadas. Esta noche su familia cena en casa de su tía, también en el doce. Te dice: "¿Al doce? Yo también". Tú dices "sí" con una voz que no es la tuya.
+Treinta y uno de diciembre. Las once de la noche. Vives en el tercero. Tu madre te manda a casa de la abuela, en el piso doce, con una bandeja de turrones. Llamas al ascensor. Se abre la puerta. Y dentro está Nora, con una bolsa de uvas para las campanadas.
+
+Y antes de que se cierre esa puerta: si te gustan estas historias de "¿y si…?", suscríbete al canal y activa la campanita. Así no te pierdes la próxima. Y ahora sí. Vamos a ver cómo sobrevives a esta Nochevieja.
+
+Nora te sonríe. Esta noche su familia cena en casa de su tía, también en el doce. Te dice: "¿Al doce? Yo también". Tú dices "sí" con una voz que no es la tuya.
 
 Nora se mudó al edificio hace dos meses. Al noveno. Y desde entonces, el ascensor se ha convertido en el sitio más difícil del mundo. Cada mañana coincidís. Cada mañana, los dos mirando los números. Cada mañana, tú pensando qué decir. Y cada mañana, justo cuando por fin se te ocurre algo, ya habéis llegado al bajo. Treinta y dos segundos. Lo has cronometrado.
 
