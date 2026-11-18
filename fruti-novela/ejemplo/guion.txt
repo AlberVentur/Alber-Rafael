@@ -1,0 +1,21 @@
+# ===== FRUTI NOVELA: guion de ejemplo =====
+# Cambia las imágenes por tus frutas generadas con IA (ver README.md)
+TITULO: La Fresa Traicionada
+MUSICA: musica/drama.mp3
+VOLUMEN_MUSICA: 0.18
+
+# @Nombre = imagen | voz | tono | velocidad
+@Narrador = personajes/fondo.png | es-MX-JorgeNeural | -8Hz | -5%
+@Fresa    = personajes/fresa.png   | es-MX-DaliaNeural | +12Hz | +0%
+@Platano  = personajes/platano.png | es-MX-JorgeNeural | -4Hz | +0%
+@Uva      = personajes/uva.png     | es-ES-ElviraNeural | +20Hz | +8%
+
+Narrador: En la frutería de doña Pera, nada era lo que parecía...
+Fresa: Plátano, mi amor, ¿dónde estabas anoche?
+Platano: En... en el frutero, trabajando, mi vida.
+Uva: ¡Mentira! ¡Estaba conmigo en el licuado!
+PAUSA 1
+!Fresa: ¡¿CÓMO PUDISTE HACERME ESTO, PLÁTANO?!
+Platano: Fresa, yo... ¡te lo puedo explicar!
+!Fresa: ¡Se acabó! ¡Me voy con el Kiwi!
+Narrador: Continuará... Dale like para la segunda parte.

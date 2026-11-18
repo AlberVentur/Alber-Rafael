@@ -1,0 +1,3 @@
+*.mp4
+!ejemplo/escenas/*.mp4
+__pycache__/
