@@ -1,0 +1,86 @@
+{
+ "duracao": 666.0,
+ "palavrasPorLegenda": 4,
+ "destaques": [
+  "crush",
+  "24",
+  "dopamina",
+  "serotonina",
+  "pupilas",
+  "adrenalina",
+  "mariposas",
+  "36",
+  "preguntas",
+  "oxitocina",
+  "medianoche",
+  "suscríbete",
+  "campanita",
+  "montaña",
+  "rusa",
+  "puente",
+  "corazones",
+  "enamorado",
+  "enamorarse",
+  "hechizo",
+  "tú",
+  "perrito",
+  "caliente"
+ ],
+ "trocas": {
+  "8": "8",
+  "10": "10",
+  "12": "12",
+  "13": "13",
+  "15": "15",
+  "18": "18",
+  "20": "20",
+  "21": "21",
+  "23": "23",
+  "24": "24",
+  "36": "36",
+  "40": "40",
+  "60": "60",
+  "140": "140",
+  "1997": "1997",
+  "1999": "1999",
+  "1974": "1974",
+  "3": "3"
+ },
+ "elementos": [
+  {
+   "tipo": "placa",
+   "inicio": 87.0,
+   "fim": 96.6,
+   "numero": "2005",
+   "rotulo": "HELEN FISHER · EL AMOR EN EL ESCÁNER"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 109.3,
+   "fim": 116.6,
+   "numero": "1999",
+   "rotulo": "ITALIA · LA SEROTONINA DE LOS ENAMORADOS"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 180.3,
+   "fim": 188.0,
+   "numero": "1960",
+   "rotulo": "ECKHARD HESS · LAS PUPILAS"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 247.5,
+   "fim": 256.0,
+   "numero": "1997",
+   "rotulo": "ARTHUR ARON · LAS 36 PREGUNTAS"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 370.0,
+   "fim": 380.5,
+   "numero": "1974",
+   "rotulo": "CANADÁ · EL PUENTE QUE DABA MIEDO"
+  }
+ ]
+}
