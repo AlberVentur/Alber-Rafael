@@ -1,0 +1,67 @@
+{
+ "duracao": 522.5,
+ "palavrasPorLegenda": 4,
+ "destaques": [
+  "crush",
+  "mente",
+  "pensamientos",
+  "6.200",
+  "efecto",
+  "foco",
+  "ilusión",
+  "transparencia",
+  "brecha",
+  "simpatía",
+  "escáner",
+  "suscríbete",
+  "campanita",
+  "preguntando",
+  "escuchando",
+  "trampa",
+  "medianoche",
+  "silencio",
+  "tú",
+  "genio",
+  "tramposo",
+  "pizza"
+ ],
+ "trocas": {
+  "10": "10",
+  "12": "12",
+  "2000": "2000",
+  "2018": "2018",
+  "2020": "2020",
+  "2023": "2023",
+  "6.200": "6.200"
+ },
+ "elementos": [
+  {
+   "tipo": "placa",
+   "inicio": 62.0,
+   "fim": 68.5,
+   "numero": "2020",
+   "rotulo": "UNIVERSIDAD DE QUEEN'S · LOS PENSAMIENTOS"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 149.0,
+   "fim": 154.6,
+   "numero": "2000",
+   "rotulo": "THOMAS GILOVICH · EL EFECTO FOCO"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 235.2,
+   "fim": 241.4,
+   "numero": "2018",
+   "rotulo": "YALE Y CORNELL · ¿LE CAES BIEN?"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 322.6,
+   "fim": 328.4,
+   "numero": "2023",
+   "rotulo": "UNIVERSIDAD DE TEXAS · LEER LA MENTE"
+  }
+ ]
+}
