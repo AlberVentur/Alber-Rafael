@@ -1,0 +1,81 @@
+{
+ "duracao": 606.0,
+ "palavrasPorLegenda": 4,
+ "destaques": [
+  "crush",
+  "invitación",
+  "único",
+  "regalo",
+  "gato",
+  "gatos",
+  "raro",
+  "mejor",
+  "primero",
+  "veinte",
+  "nadie",
+  "vergonzoso",
+  "foco",
+  "quedas",
+  "Paco",
+  "deseo",
+  "abuela",
+  "Japón",
+  "cerca",
+  "morir",
+  "humanos",
+  "valiente",
+  "sincero",
+  "ti",
+  "helado",
+  "nada",
+  "quedarte",
+  "agrado",
+  "vuestra",
+  "atreva",
+  "suscríbete",
+  "campanita"
+ ],
+ "trocas": {
+  "2000": "2000",
+  "1997": "1997",
+  "1966": "1966",
+  "2018": "2018"
+ },
+ "elementos": [
+  {
+   "tipo": "placa",
+   "inicio": 163.6,
+   "fim": 169.8,
+   "numero": "2000",
+   "rotulo": "THOMAS GILOVICH · EL EFECTO FOCO"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 326.6,
+   "fim": 332.8,
+   "numero": "1997",
+   "rotulo": "ARTHUR ARON · LAS PREGUNTAS"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 378.6,
+   "fim": 384.8,
+   "numero": "1966",
+   "rotulo": "ELLIOT ARONSON · EL TROPIEZO"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 404.2,
+   "fim": 410.4,
+   "numero": "2018",
+   "rotulo": "UNIV. DE MANNHEIM · MOSTRARSE VULNERABLE"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 503.0,
+   "fim": 509.2,
+   "numero": "2018",
+   "rotulo": "ERICA BOOTHBY · LA BRECHA DEL AGRADO"
+  }
+ ]
+}
