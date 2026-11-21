@@ -1,4 +1,4 @@
-# Guion: ¿Y si tu crush te invitara a su cumpleaños… y fueras el único? 🎂💘 (YouTube horizontal, ~8 min)
+# Guion: ¿Y si tu crush te invitara a su cumpleaños… y fueras el único? 🎂💘 (YouTube horizontal, ~10 min)
 
 ## Narración (para grabar o pegar en ElevenLabs)
 
@@ -17,6 +17,10 @@ Llevas una hora delante del armario. Te pruebas cinco camisetas. Ninguna te conv
 Cuatro de la tarde.
 
 Le escribes a tu mejor amigo: "¿Vas al cumple?" Él contesta: "¿Qué cumple?" Qué raro. Preguntas en el grupo de clase. Nadie dice nada. Bueno, piensas. Seguro que lo ha organizado por privado.
+
+Cinco y media.
+
+Vas andando hacia su casa con el regalo debajo del brazo. Y vas ensayando. "Feliz cumpleaños." No, demasiado serio. "¡Felicidades!" Demasiado alegre. "Hola, feliz cumple." Mejor. Lo repites tantas veces en voz alta que una señora que pasea a su perro se te queda mirando.
 
 Seis en punto.
 
@@ -58,9 +62,13 @@ Hay veinte sillas. Así que llenáis las veinte. Un globo en cada una. Con caras
 
 Luego abre tu regalo. Los auriculares de gato. Se queda mirándolos. "¿Te acordabas de lo de los gatos?" Te pones rojo. Ella también.
 
+Entonces suena su móvil. Ella da un salto. ¿Será alguien que por fin viene? Lo mira. Es un mensaje de su abuela: "¡Felicidades, cariño! ¿Qué tal la fiesta?" Ella te mira. Tú la miras. Y contesta: "Muy bien, abuela. Ha venido muchísima gente." Y le manda una foto: tú, rodeado de veinte globos con caras.
+
 Ocho y media.
 
 Os sentáis en el suelo, comiendo tarta con los dedos. Y empezáis a hablar. Pero de verdad. De qué queréis ser de mayores. De lo que os da miedo. De la vez que ella se cayó en la función de fin de curso y todo el colegio se rio.
+
+Ella te pregunta cuál es tu recuerdo más bonito. Tú le preguntas adónde viajaría si pudiera ir a cualquier sitio. Ella dice que a Japón, a ver los cerezos en flor. Tú dices que tú también. Aunque nunca lo habías pensado hasta ese momento.
 
 Y pasa algo extraño: cuanto más habláis, más cerca os sentís.
 
@@ -115,6 +123,18 @@ Y justo en ese momento, vibra el móvil. Es ella.
 Y una foto: el globo con cara, con su gorro de fiesta, sentado en su cama.
 
 Contestas: "Dile a Paco que sí. Pero esta vez sin sillas vacías."
+
+Lunes. Ocho de la mañana.
+
+Llegas al instituto con miedo. ¿Y si alguien sabe lo de la fiesta? ¿Y si se ríen de ella? Pero no pasa nada. Nadie dice nada. Tu mejor amigo solo te pregunta si has hecho los deberes de mates. Gilovich tenía razón: nadie estaba pensando en vosotros.
+
+Bueno, casi nadie.
+
+En el recreo, ella se sienta a tu lado en el banco. Lleva puestos los auriculares de gato. Y en la mochila, colgado de la cremallera, un llavero nuevo. Un globo pequeñito. Con una cara pintada.
+
+Tu amigo os mira. Luego te mira a ti. Y dice: "Vale. Tú me tienes que contar algo."
+
+Y sonríes. Porque esa historia, de momento, es solo vuestra.
 
 Al final, la peor fiesta del mundo fue la mejor tarde de tu vida. Porque a veces, la persona que te gusta tiene tanto miedo como tú. Y solo hace falta que uno de los dos se atreva.
 
