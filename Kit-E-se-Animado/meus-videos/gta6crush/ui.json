@@ -1,0 +1,81 @@
+{
+ "duracao": 517.7,
+ "palavrasPorLegenda": 4,
+ "destaques": [
+  "crush",
+  "GTA",
+  "mañana",
+  "pacto",
+  "traidor",
+  "récord",
+  "retrasos",
+  "ilusión",
+  "antes",
+  "spoilers",
+  "spoiler",
+  "suscríbete",
+  "campanita",
+  "hoy",
+  "revés",
+  "friki",
+  "emocionante",
+  "juntos",
+  "esconderte",
+  "leyenda",
+  "atreverte",
+  "cómo",
+  "helado",
+  "conducir"
+ ],
+ "trocas": {
+  "2000": "2000",
+  "2010": "2010",
+  "2011": "2011",
+  "2012": "2012",
+  "2023": "2023",
+  "2025": "2025",
+  "2026": "2026",
+  "90": "90",
+  "24": "24",
+  "1500": "1.500",
+  "350": "350",
+  "13": "13"
+ },
+ "elementos": [
+  {
+   "tipo": "placa",
+   "inicio": 71.4,
+   "fim": 77.6,
+   "numero": "2023",
+   "rotulo": "ROCKSTAR GAMES · EL PRIMER TRÁILER"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 123.6,
+   "fim": 130.0,
+   "numero": "2010",
+   "rotulo": "JEROEN NAWIJN · ESPERAR LAS VACACIONES"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 195.6,
+   "fim": 202.0,
+   "numero": "2011",
+   "rotulo": "UNIV. DE CALIFORNIA · LOS SPOILERS"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 342.7,
+   "fim": 349.0,
+   "numero": "2000",
+   "rotulo": "ARTHUR ARON · HACER COSAS NUEVAS JUNTOS"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 407.6,
+   "fim": 413.8,
+   "numero": "2012",
+   "rotulo": "UNIV. BRIGHAM YOUNG · JUGAR EN PAREJA"
+  }
+ ]
+}
