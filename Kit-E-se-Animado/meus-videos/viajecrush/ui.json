@@ -1,0 +1,44 @@
+{
+ "duracao": 638.0,
+ "palavrasPorLegenda": 4,
+ "destaques": [
+  "crush",
+  "pareja",
+  "tutora"
+ ],
+ "trocas": {
+  "1974": "1974",
+  "1992": "1992",
+  "2000": "2000"
+ },
+ "elementos": [
+  {
+   "tipo": "placa",
+   "inicio": 172.0,
+   "fim": 178.2,
+   "numero": "1974",
+   "rotulo": "MADY SEGAL · EL ORDEN ALFABÉTICO"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 263.2,
+   "fim": 269.4,
+   "numero": "1974",
+   "rotulo": "DUTTON Y ARON · EL PUENTE COLGANTE"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 351.6,
+   "fim": 357.8,
+   "numero": "2000",
+   "rotulo": "ARTHUR ARON · ALGO NUEVO JUNTOS"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 434.2,
+   "fim": 440.4,
+   "numero": "1992",
+   "rotulo": "MORELAND Y BEACH · LA MERA EXPOSICIÓN"
+  }
+ ]
+}
