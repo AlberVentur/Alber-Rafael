@@ -57,3 +57,22 @@ Tipos de escena: `zoom_nave`, `nave`, `pasillo`, `capsulas` (termina con la cáp
 
 > Consejo: los primeros 2 segundos deciden si la gente se queda. Empieza con una pregunta
 > o con el número grande ("Esta nave tiene **1.000** cápsulas").
+
+---
+
+## 🌌 Estación de las 1.000 ventanas — ALTA CALIDAD (con tu voz)
+
+Video con luces, brillos, niebla, planeta realista, efectos de sonido y subtítulos palabra por palabra
+sincronizados con tu audio narrado. Se dibuja con Chromium (Playwright), cuadro por cuadro.
+
+```bash
+npm install playwright && npx playwright install chromium   # una sola vez (además de ffmpeg y Python)
+python estacion_hq.py --audio mi_voz.mp3 --suscriptores 152 --cuenta @mi_canal
+python estacion_hq.py --prueba 1,8,16      # solo imágenes sueltas para revisar rápido
+```
+
+- El guion está en `estacion.json` → `lineas`. Graba **una pausa corta entre frases**:
+  el programa detecta las pausas y pone cada frase (y su escena) en su momento exacto.
+- `escena` marca dónde empieza cada ambiente: `estacion_zoom`, `estacion`, `pasillo`, `casco`, `tu`,
+  `motores`, `orbita`, `radar`, `votacion`.
+- Las escenas están en `hq/escenas.js` (dibujo) y la fuente Montserrat (licencia OFL) en `hq/fuentes/`.
