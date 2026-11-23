@@ -1,0 +1,18 @@
+{
+  "cuenta": "@tu_cuenta",
+  "capacidad": 1000,
+  "seguidores_actuales": 37,
+  "voz": "es-MX-JorgeNeural",
+  "narracion": true,
+  "tripulantes": ["Rafa", "Lucía", "Mateo", "Valen", "Sofi", "Dani", "Alber", "Caro"],
+  "escenas": [
+    {"tipo": "zoom_nave",  "texto": "Esta nave tiene *1.000* cápsulas"},
+    {"tipo": "nave",       "texto": "Y ahora mismo casi todas están *vacías*"},
+    {"tipo": "pasillo",    "texto": "¿Y quién va *adentro*?"},
+    {"tipo": "capsulas",   "texto": "Cada persona que *sigue* esta cuenta recibe una cápsula... *TÚ*"},
+    {"tipo": "nombres",    "texto": "*Comenta* tu nombre y lo escribo en tu cápsula"},
+    {"tipo": "meta",       "texto": "Con *100* tripulantes encendemos los *motores*", "meta": 100},
+    {"tipo": "despegue",   "texto": "Y con *1.000* ... *despegamos*"},
+    {"tipo": "cta",        "texto": "*Síguenos* y *comenta* para subir a bordo"}
+  ]
+}
