@@ -1,0 +1,22 @@
+{
+  "cuenta": "@tu_canal",
+  "capacidad": 1000,
+  "suscriptores": 37,
+  "audio": "audio/voz_estacion.mp3",
+  "lineas": [
+    {"texto": "Esta estación espacial tiene *mil* *ventanas.*", "escena": "estacion_zoom"},
+    {"texto": "Y ahora mismo...", "escena": "estacion"},
+    {"texto": "casi todas están *apagadas.*"},
+    {"texto": "Nadie sabe hacia dónde va.", "escena": "pasillo"},
+    {"texto": "Porque todavía no tiene *tripulación.*"},
+    {"texto": "Cada persona que se une a este canal *enciende* *una* *ventana.*", "escena": "casco"},
+    {"texto": "Esta de aquí...", "escena": "tu"},
+    {"texto": "podría ser *la* *tuya.*"},
+    {"texto": "Cuando seamos *cien,* encendemos los *motores.*", "escena": "motores"},
+    {"texto": "Con *mil,* la estación sale de *órbita.*", "escena": "orbita"},
+    {"texto": "Y el destino no lo decido yo.", "escena": "radar"},
+    {"texto": "Lo decide *la* *tripulación.*"},
+    {"texto": "¿A qué *planeta* vamos primero?", "escena": "votacion"},
+    {"texto": "*Escríbelo* *abajo.* El más votado será el próximo viaje."}
+  ]
+}
