@@ -1,0 +1,256 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:#05060f;font-family:Inter,"Noto Color Emoji",sans-serif}
+svg{position:absolute;inset:0}
+#subs{position:absolute;left:60px;right:60px;top:240px;text-align:center;font-weight:800;font-size:66px;line-height:1.18;color:#fff;
+  text-shadow:0 4px 0 rgba(0,0,0,.6),0 0 26px rgba(0,0,0,.8);z-index:50}
+#subs span{display:inline-block;margin:0 9px}
+.ov{position:absolute;display:none}
+.badge{font-weight:900;color:#fff;border:6px solid #fff;border-radius:22px;box-shadow:0 12px 0 rgba(0,0,0,.4);text-align:center}
+#alert{left:0;right:0;top:470px;text-align:center}
+#alert div{display:inline-block;background:#e23b3b;font-size:70px;padding:16px 50px}
+#cap100{left:0;right:0;top:470px;text-align:center}
+#cap100 div{display:inline-block;background:#0e1a3a;border-color:#4fd1ff;color:#fff;font-size:56px;padding:18px 44px}
+#cap100 b{color:#4fd1ff;font-size:86px;display:block;line-height:1}
+#list{left:150px;width:780px;top:560px;height:860px;background:rgba(10,16,40,.92);border:5px solid #4fd1ff;border-radius:36px;overflow:hidden;box-shadow:0 0 60px rgba(79,209,255,.35)}
+#list h3{position:relative;z-index:2;background:#0a1028;font-size:44px;color:#4fd1ff;text-align:center;padding:26px 0 18px;border-bottom:3px solid rgba(79,209,255,.4);letter-spacing:3px}
+#rows{position:absolute;left:0;right:0;top:110px}
+.r{display:flex;justify-content:space-between;align-items:center;font-size:44px;color:#cfe8ff;padding:16px 46px;font-weight:600;border-bottom:2px solid rgba(255,255,255,.07)}
+.r.me{background:#22b35a;color:#fff;font-weight:900;font-size:58px;border-radius:20px;margin:6px 20px;box-shadow:0 0 40px rgba(34,179,90,.8)}
+#ten{left:0;right:0;top:880px;text-align:center}
+#ten div{display:inline-block;font-size:110px;font-weight:900;color:#fff;text-shadow:0 0 40px #8b5cff,0 8px 0 rgba(0,0,0,.5)}
+#tu{left:0;right:0;text-align:center;top:0}
+#mission{left:0;right:0;top:470px;text-align:center}
+#mission div{display:inline-block;background:#fff;color:#1a1033;font-size:62px;font-weight:900;padding:14px 46px;border-radius:999px;box-shadow:0 10px 0 rgba(0,0,0,.35)}
+.opt{left:140px;width:800px;height:150px;border-radius:999px;display:flex;align-items:center;gap:30px;padding:0 50px;font-size:66px;font-weight:900;color:#fff;border:6px solid rgba(255,255,255,.9);box-shadow:0 12px 0 rgba(0,0,0,.35)}
+.opt .e{font-size:76px}
+#o1{top:700px;background:linear-gradient(90deg,#2f6bff,#38c6ff)}
+#o2{top:900px;background:linear-gradient(90deg,#ff7a1a,#ffb02e)}
+#o3{top:1100px;background:linear-gradient(90deg,#c4162a,#ff3b5c)}
+#comment{left:110px;width:860px;top:1330px;background:#fff;border-radius:34px;padding:26px 34px;display:none;align-items:center;gap:26px;box-shadow:0 18px 40px rgba(0,0,0,.5)}
+#comment .av{width:86px;height:86px;border-radius:50%;background:radial-gradient(circle at 35% 35%,#9fd8ff,#3a6bff);flex:none}
+#comment .meta{font-size:30px;color:#888;font-weight:600}
+#comment .txt{font-size:46px;color:#111;font-weight:700}
+#follow{left:120px;width:840px;top:600px;background:rgba(12,14,34,.94);border:4px solid rgba(255,255,255,.2);border-radius:44px;padding:50px;text-align:center;box-shadow:0 20px 60px rgba(0,0,0,.6)}
+#follow .pic{width:200px;height:200px;border-radius:50%;margin:0 auto 26px;background:radial-gradient(circle at 40% 35%,#ffb3e6,#8b5cff 55%,#2b1b6b);border:7px solid #ff3b8d;display:flex;align-items:center;justify-content:center;font-size:110px}
+#follow .nm{color:#fff;font-size:54px;font-weight:900}
+#follow .ds{color:#b9b3d6;font-size:36px;font-weight:600;margin:10px 0 34px}
+#follow .btn{display:inline-block;font-size:62px;font-weight:900;color:#fff;padding:22px 90px;border-radius:24px;background:#3a7bff}
+#part2{left:0;right:0;top:1300px;text-align:center}
+#part2 div{display:inline-block;background:#ffd84d;color:#1a1033;font-size:64px;padding:14px 50px;border-color:#fff}
+#phone{left:290px;width:500px;top:560px;height:960px;border-radius:70px;background:#0b0c18;border:12px solid #2a2c3e;box-shadow:0 30px 80px rgba(0,0,0,.7);overflow:hidden}
+#phone .scr{position:absolute;inset:0;background:radial-gradient(circle at 50% 30%,#4b2a8a,#120a2a 70%)}
+#phone .rk{position:absolute;left:50%;top:150px;transform:translateX(-50%);font-size:200px}
+#phone .avs{position:absolute;left:0;right:0;top:560px;display:flex;justify-content:center;gap:22px}
+#phone .avs div{width:82px;height:82px;border-radius:50%;border:5px solid #fff;display:flex;align-items:center;justify-content:center;font-size:44px}
+#phone .send{position:absolute;left:90px;right:90px;top:720px;height:90px;border-radius:24px;background:#3a7bff;color:#fff;font-weight:900;font-size:44px;display:flex;align-items:center;justify-content:center}
+#tag{left:0;right:0;top:1580px;text-align:center}
+#tag div{display:inline-block;background:#ff3b8d;font-size:60px;padding:14px 46px}
+#flash{position:absolute;inset:0;background:#fff;opacity:0;z-index:40;pointer-events:none}
+</style></head><body>
+<svg id="svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<defs>
+  <radialGradient id="earthG" cx=".35" cy=".35" r=".75"><stop offset="0" stop-color="#5fb4ff"/><stop offset=".7" stop-color="#1d4fa8"/><stop offset="1" stop-color="#0b1e4a"/></radialGradient>
+  <radialGradient id="redGlow"><stop offset=".55" stop-color="#ff2a2a" stop-opacity=".0"/><stop offset=".75" stop-color="#ff2a2a" stop-opacity=".55"/><stop offset="1" stop-color="#ff2a2a" stop-opacity="0"/></radialGradient>
+  <linearGradient id="hull" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8f99ad"/><stop offset=".35" stop-color="#f4f6fb"/><stop offset=".7" stop-color="#d3d9e6"/><stop offset="1" stop-color="#7d879b"/></linearGradient>
+  <linearGradient id="flameG" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff7c2"/><stop offset=".35" stop-color="#ffb22e"/><stop offset="1" stop-color="#ff4d1a" stop-opacity="0"/></linearGradient>
+  <linearGradient id="skyP" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a1252"/><stop offset=".5" stop-color="#8a3d8f"/><stop offset=".8" stop-color="#ff9a7a"/><stop offset="1" stop-color="#ffc59a"/></linearGradient>
+  <linearGradient id="groundP" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c76b6b"/><stop offset="1" stop-color="#3a1a3a"/></linearGradient>
+  <linearGradient id="crys" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9f7ff"/><stop offset=".5" stop-color="#7c5cff"/><stop offset="1" stop-color="#3a1a9a"/></linearGradient>
+  <linearGradient id="crys2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c9fff4"/><stop offset=".5" stop-color="#3fd0c9"/><stop offset="1" stop-color="#1a5a8a"/></linearGradient>
+  <radialGradient id="sunA"><stop offset="0" stop-color="#fff"/><stop offset=".3" stop-color="#ffe7a0"/><stop offset="1" stop-color="#ffb35a" stop-opacity="0"/></radialGradient>
+  <radialGradient id="sunB"><stop offset="0" stop-color="#fff"/><stop offset=".3" stop-color="#ffc0e0"/><stop offset="1" stop-color="#ff6aa8" stop-opacity="0"/></radialGradient>
+  <linearGradient id="podG" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e9edf5"/><stop offset=".5" stop-color="#aab3c5"/><stop offset="1" stop-color="#5d667a"/></linearGradient>
+  <linearGradient id="glassG" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#bfe9ff" stop-opacity=".55"/><stop offset=".5" stop-color="#7cc8ff" stop-opacity=".25"/><stop offset="1" stop-color="#bfe9ff" stop-opacity=".5"/></linearGradient>
+  <radialGradient id="vig" r=".75"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".8"/></radialGradient>
+  <linearGradient id="smoke" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".0"/><stop offset="1" stop-color="#e9e3f0" stop-opacity=".95"/></linearGradient>
+</defs>
+<rect width="1080" height="1920" fill="#05060f"/>
+<g id="stars"></g>
+<!-- SCENE A: earth -->
+<g id="sA"><g id="earth" transform="translate(540 1050)">
+  <circle r="420" fill="url(#redGlow)" id="eGlow" transform="scale(1.45)"/>
+  <circle r="340" fill="url(#earthG)"/>
+  <g fill="#3fae5a" opacity=".9"><path d="M-200 -150C-140 -230 -40 -210 -20 -140C0 -80 -90 -60 -120 -10C-150 40 -230 0 -240 -60Z"/><path d="M40 -40C120 -90 230 -40 250 40C270 120 190 200 120 170C60 140 90 60 20 30Z"/><path d="M-160 120C-110 100 -60 150 -80 210C-100 260 -170 230 -180 180Z"/></g>
+  <g fill="#fff" opacity=".55"><path d="M-300 -60C-200 -90 -100 -50 0 -80C100 -110 200 -70 300 -100" stroke="#fff" stroke-width="18" fill="none" stroke-linecap="round" opacity=".5"/></g>
+  <circle r="340" fill="#ff2a2a" id="eRed" opacity="0"/>
+</g></g>
+<!-- SCENE B: launch pad -->
+<g id="sB">
+  <rect width="1080" height="1920" fill="#0a0d24" opacity=".0"/>
+  <circle cx="860" cy="560" r="110" fill="url(#earthG)" opacity="0"/>
+  <g id="padSmoke"></g>
+  <g id="tower" stroke="#7a2a2a" stroke-width="10" fill="none"><path d="M160 1650V650M260 1650V650M160 650H260"/>
+    <path d="M160 700L260 800M260 800L160 900M160 900L260 1000M260 1000L160 1100M160 1100L260 1200M260 1200L160 1300M160 1300L260 1400M260 1400L160 1500"/>
+    <path d="M260 900H420M260 1200H420" stroke="#9a3a3a"/></g>
+  <rect x="0" y="1650" width="1080" height="270" fill="#141626"/>
+  <rect x="300" y="1620" width="480" height="40" fill="#2a2e44"/>
+</g>
+<!-- rocket (shared) -->
+<g id="rocket"><g id="rk">
+  <g id="flame"><path d="M-70 340Q-60 560 0 700Q60 560 70 340Z" fill="url(#flameG)"/><path d="M-36 340Q-30 470 0 560Q30 470 36 340Z" fill="#fff8d6"/></g>
+  <path d="M-110 230L-190 360L-190 400L-100 350Z" fill="#e8452e"/><path d="M110 230L190 360L190 400L100 350Z" fill="#e8452e"/>
+  <rect x="-80" y="320" width="160" height="40" rx="8" fill="#3a3f55"/>
+  <path d="M-110 -220C-110 -420 -40 -540 0 -580C40 -540 110 -420 110 -220V340H-110Z" fill="url(#hull)"/>
+  <rect x="-110" y="-120" width="220" height="26" fill="#ff7a1a"/><rect x="-110" y="200" width="220" height="26" fill="#ff7a1a"/>
+  <circle cx="0" cy="-260" r="52" fill="#2b3a6b" stroke="#c9d2e3" stroke-width="12"/><circle cx="-14" cy="-274" r="16" fill="#7fd0ff" opacity=".8"/>
+  <circle cx="0" cy="30" r="34" fill="#2b3a6b" stroke="#c9d2e3" stroke-width="10"/>
+  <path d="M-30 340L0 260L30 340Z" fill="#e8452e"/>
+</g></g>
+<!-- SCENE C: capsules -->
+<g id="sC">
+  <rect width="1080" height="1920" fill="#0d1022"/>
+  <g id="podsBg"></g>
+  <g id="pod" transform="translate(540 1060)">
+    <rect x="-470" y="-230" width="940" height="460" rx="200" fill="url(#podG)"/>
+    <rect x="-470" y="-230" width="940" height="460" rx="200" fill="none" stroke="#3b4256" stroke-width="10"/>
+    <rect x="-400" y="-160" width="720" height="320" rx="150" fill="#ffb648" id="podLight"/>
+    <g id="sleeper"><circle cx="-280" cy="-10" r="52" fill="#f1c27d"/><path d="M-320 -60C-300 -80 -250 -80 -232 -50L-300 -40Z" fill="#e8b04a"/>
+      <rect x="-230" y="-55" width="420" height="110" rx="50" fill="#3a5ab0"/><rect x="190" y="-40" width="110" height="80" rx="30" fill="#2a3a6a"/></g>
+    <g id="lid"><rect x="-400" y="-160" width="720" height="320" rx="150" fill="url(#glassG)" stroke="#e9f6ff" stroke-width="8"/>
+      <path d="M-300 -120L-200 -140" stroke="#fff" stroke-width="12" stroke-linecap="round" opacity=".6"/>
+      <text x="-40" y="40" font-family="Inter" font-weight="900" font-size="150" fill="#fff" fill-opacity=".9" text-anchor="middle" id="tuTxt">TÚ</text></g>
+    <rect x="345" y="-120" width="90" height="140" rx="14" fill="#2a2f45"/><circle cx="390" cy="70" r="22" id="podLed" fill="#ffd84d"/>
+    <rect x="360" y="-100" width="60" height="12" rx="6" fill="#4fd1ff"/><rect x="360" y="-76" width="60" height="12" rx="6" fill="#4fd1ff" opacity=".6"/><rect x="360" y="-52" width="60" height="12" rx="6" fill="#4fd1ff" opacity=".4"/>
+  </g>
+</g>
+<!-- SCENE D: planet -->
+<g id="sD">
+  <rect width="1080" height="1920" fill="url(#skyP)"/>
+  <circle id="sun1" cx="300" cy="760" r="260" fill="url(#sunA)"/><circle id="sun2" cx="800" cy="620" r="200" fill="url(#sunB)"/>
+  <circle cx="300" cy="760" r="70" fill="#fff6d0"/><circle cx="800" cy="620" r="50" fill="#ffe0f0"/>
+  <g id="mtnFar" fill="#6a3d8f" opacity=".8"><path d="M0 1300L120 1050L230 1200L380 980L520 1220L640 1060L780 1240L900 1000L1080 1220V1400H0Z"/></g>
+  <g id="crystals"></g>
+  <path d="M0 1400C200 1360 400 1440 600 1400C800 1360 950 1420 1080 1390V1920H0Z" fill="url(#groundP)"/>
+  <g id="rocks" fill="#4a2340"><path d="M60 1560C80 1470 200 1440 260 1500C300 1540 290 1600 250 1610H70Z"/><path d="M760 1600C780 1500 930 1470 1000 1540C1040 1580 1030 1630 990 1640H770Z"/></g>
+  <g id="creature" opacity="0"><path d="M0 0C-40 -10 -60 -120 -20 -170C10 -210 70 -200 90 -150C110 -100 90 -20 60 0Z" fill="#14081c"/>
+    <ellipse cx="10" cy="-140" rx="14" ry="9" fill="#7dffb0"/><ellipse cx="50" cy="-142" rx="14" ry="9" fill="#7dffb0"/></g>
+  <g id="rocks2" fill="#38182f"><path d="M600 1700C620 1600 760 1570 840 1640C880 1680 870 1740 830 1750H610Z"/></g>
+</g>
+<rect id="red" width="1080" height="1920" fill="#ff1a1a" opacity="0"/>
+<rect width="1080" height="1920" fill="url(#vig)"/>
+<rect id="dim" width="1080" height="1920" fill="#05060f" opacity="0"/>
+</svg>
+<div id="alert" class="ov"><div class="badge">⚠️ ALERTA</div></div>
+<div id="cap100" class="ov"><div class="badge">QUEDAN<b id="n100">100</b>CÁPSULAS</div></div>
+<div id="list" class="ov"><h3>LISTA DE TRIPULACIÓN</h3><div id="rows"></div></div>
+<div id="ten" class="ov"><div>10 AÑOS DESPUÉS</div></div>
+<div id="mission" class="ov"><div>🚀 ELIGE TU MISIÓN</div></div>
+<div id="o1" class="ov opt"><span class="e">💎</span>CUEVAS</div>
+<div id="o2" class="ov opt"><span class="e">🏠</span>REFUGIO</div>
+<div id="o3" class="ov opt"><span class="e">👁️</span>INVESTIGAR</div>
+<div id="comment" class="ov"><div class="av"></div><div style="flex:1"><div class="meta">Tú · ahora</div><div class="txt" id="ctxt"></div></div><div style="font-size:50px">🤍</div></div>
+<div id="follow" class="ov"><div class="pic">🪐</div><div class="nm">Nuevo Planeta</div><div class="ds">La tripulación decide la historia</div><div class="btn" id="fbtn">Seguir</div></div>
+<div id="part2" class="ov"><div class="badge">PARTE 2 👉 TÚ DECIDES</div></div>
+<div id="phone" class="ov"><div class="scr"></div><div class="rk">🚀</div>
+  <div class="avs"><div style="background:#ff6b6b">🧑</div><div style="background:#5b8cff">👩</div><div style="background:#3ccf7a">🧔</div><div style="background:#ffb02e">👧</div></div>
+  <div class="send">➤ Enviar</div></div>
+<div id="tag" class="ov"><div class="badge">🏷️ ETIQUETA A UN AMIGO</div></div>
+<div id="subs"></div>
+<div id="flash"></div>
+<script>
+const NS="http://www.w3.org/2000/svg",$=id=>document.getElementById(id);
+const clamp=(x,a=0,b=1)=>Math.max(a,Math.min(b,x)),P=(t,a,b)=>clamp((t-a)/(b-a)),lerp=(a,b,x)=>a+(b-a)*x;
+const eio=x=>x<.5?2*x*x:1-Math.pow(-2*x+2,2)/2;const eback=x=>{const c1=1.9,c3=c1+1;return 1+c3*Math.pow(x-1,3)+c1*Math.pow(x-1,2)};
+function el(tag,a,p){const e=document.createElementNS(NS,tag);for(const k in a)e.setAttribute(k,a[k]);if(p)p.appendChild(e);return e}
+function popv(t,a,b,d=.35){if(t<a||t>b+d)return 0;if(t<a+d)return eback(P(t,a,a+d));if(t>b)return 1-eio(P(t,b,b+d));return 1}
+function win(t,a,b,f=.4){return clamp(P(t,a-f,a))*(1-clamp(P(t,b,b+f)))}
+let seed=11;const rnd=()=>(seed=(seed*16807)%2147483647)/2147483647;
+// stars
+const stars=[];for(let i=0;i<170;i++){stars.push({x:rnd()*1080,y:rnd()*1920,r:.8+rnd()*2.6,ph:rnd()*6,e:el('circle',{fill:'#fff'},$('stars'))})}
+// background pods
+for(let r=0;r<11;r++)for(let c=0;c<3;c++){const g=el('g',{transform:`translate(${c*380-30} ${r*190-40})`},$('podsBg'));
+  el('rect',{x:0,y:0,width:340,height:150,rx:70,fill:'#3a4158'},g);el('rect',{x:30,y:28,width:240,height:94,rx:46,fill:'#1b2036'},g);
+  el('circle',{cx:300,cy:75,r:12,fill:(r*3+c)%5==0?'#ff4d4d':'#4fd1ff'},g)}
+// crystals
+[[90,1420,90,330,'url(#crys)'],[200,1430,60,220,'url(#crys2)'],[880,1420,110,400,'url(#crys)'],[990,1420,70,250,'url(#crys2)'],[480,1400,50,180,'url(#crys2)'],[620,1405,70,260,'url(#crys)']].forEach(([x,y,w,h,f])=>{
+  el('path',{d:`M${x-w/2} ${y}L${x-w/2+10} ${y-h*.7}L${x} ${y-h}L${x+w/2-6} ${y-h*.75}L${x+w/2} ${y}Z`,fill:f,stroke:'#fff','stroke-opacity':.5,'stroke-width':3},$('crystals'));
+  el('path',{d:`M${x} ${y-h}L${x+4} ${y}`,stroke:'#fff','stroke-opacity':.5,'stroke-width':4},$('crystals'))});
+// smoke puffs
+const puffs=[];for(let i=0;i<26;i++)puffs.push({x:(rnd()-.5),s:.5+rnd(),ph:rnd(),e:el('circle',{fill:'#e9e3f0'},$('padSmoke'))});
+// passenger list
+const names=["Valeria R.","Diego M.","Camila S.","Mateo L.","Lucía F.","Andrés P.","Sofía G.","Tomás H.","Isabella C.","Joaquín B.","Martina V.","Gabriel N.","Renata A."];
+let rowsH='';names.forEach((n,i)=>rowsH+=`<div class="r"><span>${String(i+1).padStart(2,'0')} · ${n}</span><span>✓</span></div>`);
+rowsH+=`<div class="r me"><span>100 · TÚ</span><span>✓</span></div>`;$('rows').innerHTML=rowsH;
+
+const SEG=[[0.0,1.75,"La Tierra ya no es segura."],[2.29,4.97,"Una nave sale esta noche hacia un planeta nuevo…"],[5.51,7.53,"y solo quedan cien cápsulas."],
+[8.03,9.18,"Si estás viendo esto,"],[9.53,11.03,"tu nombre está en la lista."],[11.60,12.94,"Te acuestas en tu cápsula."],[13.41,14.67,"El cristal se cierra."],
+[15.12,16.63,"Los motores se encienden."],[17.24,19.69,"Diez años después, la nave aterriza."],[20.18,22.16,"Afuera hay montañas de cristal,"],[22.54,23.39,"dos soles…"],
+[23.84,25.88,"y algo que se mueve entre las rocas."],[26.44,27.26,"Antes de bajar,"],[27.50,28.91,"tienes que elegir tu misión:"],[29.34,31.11,"explorar las cuevas de cristal,"],
+[31.43,33.02,"construir el primer refugio,"],[33.35,34.91,"o investigar lo que se mueve."],[35.46,38.76,"Escribe tu misión en los comentarios para unirte a la tripulación."],
+[39.17,39.64,"Sígueme,"],[39.88,44.26,"porque en la próxima parte los comentarios deciden qué pasa en el nuevo planeta."],[44.60,47.15,"Y etiqueta a un amigo para que viaje contigo."]];
+const CH=[];SEG.forEach(([a,b,txt])=>{const W=txt.split(' ');const w=W.map(x=>x.replace(/[^\wáéíóúñü]/gi,'').length+1.5);const tot=w.reduce((s,x)=>s+x,0);
+  let acc=a;const T=W.map((x,i)=>{const s=acc;acc+=(b-a)*w[i]/tot;return{w:x,s}});
+  let i=0;while(i<T.length){let n=T.length-i;let take=n<=5?n:(n===6?3:(n===7?4:5));CH.push(T.slice(i,i+take));i+=take}});
+CH.forEach((c,i)=>{c.start=c[0].s;c.end=CH[i+1]?Math.min(CH[i+1][0].s,c[c.length-1].s+1.4):99});
+let last=null;
+function subs(t){let cur=null;for(const c of CH)if(t>=c.start-.05&&t<c.end+.25)cur=c;const box=$('subs');
+  if(cur!==last){box.innerHTML=cur?cur.map(x=>`<span>${x.w}</span>`).join(' '):'';last=cur}if(!cur)return;
+  cur.forEach((x,i)=>{const s=box.children[i];const nx=cur[i+1]?cur[i+1].s:x.s+.5;const act=t>=x.s&&t<nx;s.style.opacity=t>=x.s?1:.38;s.style.color=act?'#ffd84d':'#fff';s.style.transform=`scale(${act?1.07:1})`});
+  const k=eback(P(t,cur.start-.05,cur.start+.2));box.style.transform=`translateY(${(1-k)*20}px)`;box.style.opacity=clamp(k*1.5)}
+function show(id,v,disp='block',tr=''){const e=$(id);e.style.display=v>0.001?disp:'none';if(v>0.001){e.style.opacity=clamp(v*1.4);e.style.transform=tr||`scale(${v})`}}
+function vis(id,o){$(id).setAttribute('opacity',o);$(id).style.display=o>0.001?'inline':'none'}
+
+window.render=function(t){
+  // scene weights
+  const A=win(t,0,2.3,.35),B=win(t,2.2,8.0,.35),L=win(t,7.9,11.4,.35),C=win(t,11.4,15.3,.3),LA=win(t,15.1,17.3,.3),TR=win(t,17.2,20.1,.4),D=win(t,20.0,48.8,.5);
+  // stars
+  const streak=TR;stars.forEach((s,i)=>{let y=s.y;if(t>17.2&&t<20.3)y=(s.y+(t-17.2)*1400*(.5+s.r/3))%1920;s.e.setAttribute('cx',s.x);s.e.setAttribute('cy',y);
+    s.e.setAttribute('r',s.r);s.e.setAttribute('opacity',(.35+.35*Math.sin(t*2+s.ph))*(1-D*.85));});
+  // A earth
+  vis('sA',A);const es=lerp(.75,1.0,eio(P(t,0,2.3)));$('earth').setAttribute('transform',`translate(540 1060) scale(${es}) rotate(${t*3})`);
+  $('eRed').setAttribute('opacity',.25+.2*Math.sin(t*8));$('eGlow').setAttribute('opacity',.7+.3*Math.sin(t*8));
+  show('alert',popv(t,0.1,2.0));
+  // B launch pad + rocket
+  vis('sB',Math.max(B,LA));
+  // rocket placement
+  let rk=0,rx=540,ry=1280,rs=1,rot=0,flame=0;
+  if(t<11.4){rk=B;ry=1280;rs=1;flame=0}
+  if(t>=15.1&&t<17.5){rk=LA;const k=P(t,15.4,17.3);ry=1280-eio(k)*1700+Math.sin(t*60)*4*(1-k);flame=1}
+  if(t>=17.2&&t<20.3){rk=TR;ry=lerp(1150,980,P(t,17.2,20));rs=.75;flame=1;rx=540+Math.sin(t*3)*10}
+  if(t>=19.4){ // landing on planet
+    const k=eio(P(t,19.4,21.0));if(t>=19.4){rk=Math.max(rk,D>0?1:0);rs=lerp(.75,.5,k);rx=lerp(540,560,k);ry=lerp(700,1250,k);flame=1-k}}
+  if(t>26.3)rk=(1-P(t,26.3,26.8))*1; // fade rocket when choices
+  vis('rocket',rk);$('rk').setAttribute('transform',`translate(${rx} ${ry}) scale(${rs}) rotate(${rot})`);
+  $('flame').setAttribute('opacity',flame);$('flame').setAttribute('transform',`scale(${1+.12*Math.sin(t*40)},${1+.2*Math.sin(t*33)})`);
+  puffs.forEach((p,i)=>{const on=t>=15.1&&t<17.6;const k=((t-15.1)*0.8+p.ph)%1;p.e.setAttribute('cx',540+p.x*900*k*p.s);p.e.setAttribute('cy',1640-60*k);p.e.setAttribute('r',on?60+180*k*p.s:0);p.e.setAttribute('opacity',on?(1-k)*.8:0)});
+  show('cap100',popv(t,5.5,7.8));if(t>5.5&&t<7.9)$('n100').textContent=Math.max(100,Math.round(lerp(140,100,eio(P(t,5.6,6.6)))));
+  // list
+  const lv=popv(t,7.9,11.2);show('list',lv);$('rows').style.transform=`translateY(${-lerp(0,620,eio(P(t,8.0,9.6)))}px)`;
+  const me=document.querySelector('.r.me');me.style.transform=`scale(${t>9.5?1+.06*Math.sin(t*8):1})`;me.style.opacity=t>9.4?1:.3;
+  // C capsule
+  vis('sC',C);const lidk=eio(P(t,13.3,14.2));$('lid').setAttribute('transform',`translate(0 ${lerp(-140,0,lidk)})`);$('lid').setAttribute('opacity',lidk);
+  $('tuTxt').setAttribute('opacity',P(t,14.0,14.4));$('podLight').setAttribute('fill',t>14.2?'#7fd0ff':'#ffb648');$('podLed').setAttribute('fill',t>14.2?'#4dff88':'#ffd84d');
+  const shake=(t>15.0&&t<15.4)?Math.sin(t*90)*10:0;$('pod').setAttribute('transform',`translate(${540+shake} ${1060}) scale(${lerp(1.05,1,P(t,11.4,13))})`);
+  // red alert flash during launch
+  $('red').setAttribute('opacity',t>15.0&&t<15.3?.25:0);
+  show('ten',popv(t,17.3,19.5));
+  // D planet
+  vis('sD',D);$('sun1').setAttribute('r',260+12*Math.sin(t*1.3));$('sun2').setAttribute('r',200+10*Math.sin(t*1.7+1));
+  $('crystals').setAttribute('opacity',.85+.15*Math.sin(t*3));
+  const cr=$('creature');const ck=P(t,23.8,26.0);cr.setAttribute('opacity',t>23.6&&t<38.8?clamp((t-23.6)*3):0);
+  cr.setAttribute('transform',`translate(${lerp(230,700,eio(ck))} ${1625+Math.sin(t*10)*6}) scale(${1})`);
+  // camera on planet (slow push)
+  // choices
+  const dm=clamp(P(t,26.4,27.0))*(1-P(t,47.3,48.0));$('dim').setAttribute('opacity',dm*.5);
+  show('mission',popv(t,27.4,38.9));
+  const hi=(a,b)=>t>=a&&t<b;
+  [['o1',29.3,31.4],['o2',31.4,33.3],['o3',33.3,35.2]].forEach(([id,a,b])=>{const v=popv(t,a,38.9);const act=hi(a,b);
+    show(id,v,'flex',`translateX(${(1-eio(clamp(v)))*-1100}px) scale(${act?1.06+.02*Math.sin(t*10):1})`);$(id).style.filter=act?'brightness(1.15) drop-shadow(0 0 30px rgba(255,255,255,.6))':'none'});
+  const cm=popv(t,35.4,38.9);show('comment',cm,'flex',`translateY(${(1-cm)*120}px)`);
+  const full='Yo elijo: CUEVAS 💎';const chars=[...full];const n=Math.floor(clamp((t-35.8)/1.6)*chars.length);$('ctxt').textContent=chars.slice(0,n).join('')+((t*2|0)%2?'|':' ');
+  // follow
+  const fv=popv(t,39.1,44.3);show('follow',fv);const pressed=t>39.6;$('fbtn').textContent=pressed?'Siguiendo ✓':'Seguir';$('fbtn').style.background=pressed?'#2a2c3e':'#3a7bff';
+  $('fbtn').style.transform=`scale(${t>39.5&&t<39.75?.9:1})`;
+  show('part2',popv(t,40.6,44.3));
+  // phone share
+  const pv=popv(t,44.5,48.8);show('phone',pv,'block',`translateY(${(1-pv)*300}px)`);show('tag',popv(t,45.0,48.8));
+  const av=document.querySelectorAll('#phone .avs div');av.forEach((a,i)=>{const sel=t>45.4+i*.35;a.style.boxShadow=sel?'0 0 0 6px #3ccf7a':'none'});
+  $('flash').style.opacity=Math.max(0,1-Math.abs(t-15.15)*6)*.5;
+  subs(t);
+};
+document.getElementById('svg').insertBefore(document.getElementById('rocket'),document.getElementById('red'));
+render(0);
+</script></body></html>
