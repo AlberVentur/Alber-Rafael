@@ -1,0 +1,45 @@
+{
+ "duracao": 578.0,
+ "palavrasPorLegenda": 4,
+ "destaques": [
+  "crush",
+  "Marcos",
+  "verdad"
+ ],
+ "trocas": {
+  "2003": "2003",
+  "1993": "1993",
+  "2015": "2015",
+  "2021": "2021"
+ },
+ "elementos": [
+  {
+   "tipo": "placa",
+   "inicio": 88.1,
+   "fim": 94.3,
+   "numero": "2003",
+   "rotulo": "NAOMI EISENBERGER · EL DOLOR DE QUEDAR FUERA"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 271.8,
+   "fim": 278.0,
+   "numero": "1993",
+   "rotulo": "ROY BAUMEISTER · EL AMOR NO CORRESPONDIDO"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 390.2,
+   "fim": 396.4,
+   "numero": "2015",
+   "rotulo": "HUNT, EASTWICK Y FINKEL · CONOCERSE CAMBIA TODO"
+  },
+  {
+   "tipo": "placa",
+   "inicio": 498.2,
+   "fim": 504.4,
+   "numero": "2021",
+   "rotulo": "DANU STINSON · DE AMIGOS A PAREJA"
+  }
+ ]
+}
