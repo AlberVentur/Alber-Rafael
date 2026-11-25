@@ -18,4 +18,4 @@
 10. Operation Ajax (how the CIA and MI6 overthrew Iran's prime minister) | 1953 Iran | coup + spies | yes
 
 ## Decisions
-- (none yet)
+- Viewer language: Spanish (all replies in Spanish)
