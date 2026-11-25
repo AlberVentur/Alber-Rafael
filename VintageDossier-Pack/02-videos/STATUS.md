@@ -1,5 +1,5 @@
 # Project STATUS
-- Current stage: **Stage 6 (Collect)**: voice confirmed final by viewer (in/vo.wav from upload_01.mov, 180.0 s). Images: 0/15 received. Waiting for zip; build only after "start"
+- Current stage: **Stage 6 (Collect)**: voice confirmed final by viewer (in/vo.wav from upload_01.mov, 180.0 s). Images: batch 1 received (14 files in in/). ALL look AI-generated (same 2576x1405 size, garbled captions), incl. real people (Koenigswald, Barnum/Hull, Wadlow, Magellan) and real artifacts -> conflicts with MASTER-PROMPT rule; asked viewer to replace or approve 'recreación IA' labelling. 04 is 512 px (too small). 15 bosque missing. 11a/11b Brady portraits: which is Barnum/Hull unclear. Waiting for zip; build only after "start"
 - Video slug: primeros-gigantes (viewer's own topic: "los primeros gigantes del mundo")
 - Files: 02-videos/primeros-gigantes/research.md, script.md, script_spoken.txt, script_spoken_500.md (6 parts ≤500 chars -> vo_01..vo_06.mp3), assets.md
 - Setup: SETUP OK (2026-11-25). 4 cores, no GPU, 16 GB RAM, ~0.133 s/frame at 1080p (about 40 min for a 10-min video)

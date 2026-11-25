@@ -3,3 +3,4 @@ node_modules/
 VintageDossier-Pack/01-assets/maps/*.geojson
 VintageDossier-Pack/02-videos/*/in/*.mov
 VintageDossier-Pack/02-videos/*/in/*.wav
+VintageDossier-Pack/02-videos/*/in/*.jpg
