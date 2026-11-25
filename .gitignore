@@ -1,3 +1,5 @@
 node_modules/
 *.mp4
 VintageDossier-Pack/01-assets/maps/*.geojson
+VintageDossier-Pack/02-videos/*/in/*.mov
+VintageDossier-Pack/02-videos/*/in/*.wav
