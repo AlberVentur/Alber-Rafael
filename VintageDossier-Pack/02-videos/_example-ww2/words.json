@@ -1,0 +1,162 @@
+[
+ {
+  "word": "September",
+  "start": 0.0,
+  "end": 0.52
+ },
+ {
+  "word": "first",
+  "start": 0.52,
+  "end": 1.23
+ },
+ {
+  "word": "nineteen",
+  "start": 1.23,
+  "end": 1.75
+ },
+ {
+  "word": "thirty",
+  "start": 1.75,
+  "end": 2.03
+ },
+ {
+  "word": "nine",
+  "start": 2.03,
+  "end": 2.53
+ },
+ {
+  "word": "Before",
+  "start": 3.11,
+  "end": 3.47
+ },
+ {
+  "word": "dawn",
+  "start": 3.47,
+  "end": 4.02
+ },
+ {
+  "word": "an",
+  "start": 4.14,
+  "end": 4.27
+ },
+ {
+  "word": "old",
+  "start": 4.27,
+  "end": 4.67
+ },
+ {
+  "word": "German",
+  "start": 4.67,
+  "end": 5.08
+ },
+ {
+  "word": "battleship",
+  "start": 5.08,
+  "end": 5.75
+ },
+ {
+  "word": "opens",
+  "start": 5.75,
+  "end": 6.13
+ },
+ {
+  "word": "fire",
+  "start": 6.13,
+  "end": 6.55
+ },
+ {
+  "word": "on",
+  "start": 6.55,
+  "end": 6.68
+ },
+ {
+  "word": "a",
+  "start": 6.68,
+  "end": 6.74
+ },
+ {
+  "word": "Polish",
+  "start": 6.74,
+  "end": 7.21
+ },
+ {
+  "word": "outpost",
+  "start": 7.21,
+  "end": 7.95
+ },
+ {
+  "word": "By",
+  "start": 8.45,
+  "end": 8.59
+ },
+ {
+  "word": "sunrise",
+  "start": 8.59,
+  "end": 9.35
+ },
+ {
+  "word": "Germany",
+  "start": 9.58,
+  "end": 10.06
+ },
+ {
+  "word": "pours",
+  "start": 10.06,
+  "end": 10.59
+ },
+ {
+  "word": "across",
+  "start": 10.59,
+  "end": 10.99
+ },
+ {
+  "word": "the",
+  "start": 10.99,
+  "end": 11.07
+ },
+ {
+  "word": "border",
+  "start": 11.07,
+  "end": 11.56
+ },
+ {
+  "word": "Two",
+  "start": 12.1,
+  "end": 12.29
+ },
+ {
+  "word": "days",
+  "start": 12.29,
+  "end": 12.54
+ },
+ {
+  "word": "later",
+  "start": 12.54,
+  "end": 12.96
+ },
+ {
+  "word": "Britain",
+  "start": 13.25,
+  "end": 13.63
+ },
+ {
+  "word": "and",
+  "start": 13.63,
+  "end": 13.81
+ },
+ {
+  "word": "France",
+  "start": 13.81,
+  "end": 14.35
+ },
+ {
+  "word": "declare",
+  "start": 14.35,
+  "end": 14.74
+ },
+ {
+  "word": "war",
+  "start": 14.74,
+  "end": 15.27
+ }
+]

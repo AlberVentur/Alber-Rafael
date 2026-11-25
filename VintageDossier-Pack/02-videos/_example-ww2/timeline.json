@@ -1,0 +1,356 @@
+{
+ "fps": 30,
+ "duration": 16.52,
+ "voice": "vo.wav",
+ "scenes": {
+  "date": [
+   0,
+   3.11
+  ],
+  "ship": [
+   3.11,
+   8.45
+  ],
+  "barrier": [
+   8.45,
+   9.58
+  ],
+  "map": [
+   9.58,
+   12.1
+  ],
+  "board": [
+   12.1,
+   16.52
+  ]
+ },
+ "ev": {
+  "A_day": {
+   "kind": "type",
+   "t": 0.15,
+   "text": "1 SEPTEMBER",
+   "cps": 14,
+   "ding": true
+  },
+  "A_year": {
+   "kind": "roll",
+   "t": 1.23,
+   "t2": 2.03,
+   "from": 1931,
+   "to": 1939
+  },
+  "B_time": {
+   "kind": "type",
+   "t": 3.47,
+   "text": "04:45 HRS",
+   "cps": 18
+  },
+  "B_name": {
+   "kind": "type",
+   "t": 4.27,
+   "text": "SMS SCHLESWIG-HOLSTEIN",
+   "cps": 24
+  },
+  "B_year": {
+   "kind": "type",
+   "t": 5.2,
+   "text": "LAUNCHED 1906",
+   "cps": 26,
+   "ding": true
+  },
+  "B_circle": {
+   "kind": "draw",
+   "t": 5.75,
+   "dur": 0.5
+  },
+  "B_fire": {
+   "kind": "hit",
+   "t": 6.13
+  },
+  "B_target": {
+   "kind": "type",
+   "t": 6.7,
+   "text": "TARGET: WESTERPLATTE",
+   "cps": 27
+  },
+  "C1_lab": {
+   "kind": "type",
+   "t": 8.59,
+   "text": "SUNRISE",
+   "cps": 18
+  },
+  "C2_ger": {
+   "kind": "type",
+   "t": 9.72,
+   "text": "GERMANY",
+   "cps": 18
+  },
+  "C2_arrows": {
+   "kind": "draw",
+   "t": 10.06,
+   "dur": 0.55,
+   "stagger": 0.14
+  },
+  "C2_pol": {
+   "kind": "type",
+   "t": 10.3,
+   "text": "POLAND",
+   "cps": 18
+  },
+  "C2_border": {
+   "kind": "draw",
+   "t": 10.59,
+   "dur": 0.6
+  },
+  "D_date": {
+   "kind": "type",
+   "t": 12.12,
+   "text": "1 SEPTEMBER 1939",
+   "cps": 34
+  },
+  "D_roll": {
+   "kind": "roll",
+   "t": 12.54,
+   "t2": 12.96,
+   "from": 1,
+   "to": 3
+  },
+  "D_brit": {
+   "kind": "drop",
+   "t": 13.25
+  },
+  "D_britL": {
+   "kind": "type",
+   "t": 13.35,
+   "text": "GREAT BRITAIN",
+   "cps": 30
+  },
+  "D_fra": {
+   "kind": "drop",
+   "t": 13.81
+  },
+  "D_fraL": {
+   "kind": "type",
+   "t": 13.9,
+   "text": "FRANCE",
+   "cps": 26
+  },
+  "D_str1": {
+   "kind": "draw",
+   "t": 14.35,
+   "dur": 0.4
+  },
+  "D_str2": {
+   "kind": "draw",
+   "t": 14.5,
+   "dur": 0.4
+  },
+  "D_stamp": {
+   "kind": "hit",
+   "t": 14.74
+  },
+  "D_pin": {
+   "kind": "drop",
+   "t": 12.6
+  },
+  "M_ship": {
+   "kind": "icon",
+   "t": 9.92
+  },
+  "M_planes": {
+   "kind": "icon",
+   "t": 10.12
+  },
+  "M_tanks": {
+   "kind": "icon",
+   "t": 10.45,
+   "stagger": 0.14
+  },
+  "M_burst1": {
+   "kind": "hit",
+   "t": 11.05
+  },
+  "M_burst2": {
+   "kind": "hit",
+   "t": 11.32
+  },
+  "M_france": {
+   "kind": "focus",
+   "t": 13.81
+  }
+ },
+ "sfx": [
+  {
+   "t": 0.0,
+   "name": "projector",
+   "gain": -27,
+   "loop": true
+  },
+  {
+   "t": 0.0,
+   "name": "flash",
+   "gain": -22,
+   "offset": 0.45
+  },
+  {
+   "t": 2.03,
+   "name": "stamp",
+   "gain": -14
+  },
+  {
+   "t": 2.62,
+   "name": "whip",
+   "gain": -17
+  },
+  {
+   "t": 3.05,
+   "name": "paper",
+   "gain": -14
+  },
+  {
+   "t": 5.75,
+   "name": "pen",
+   "gain": -15
+  },
+  {
+   "t": 5.98,
+   "name": "flash",
+   "gain": -20
+  },
+  {
+   "t": 6.13,
+   "name": "boom",
+   "gain": -8
+  },
+  {
+   "t": 7.45,
+   "name": "paper",
+   "gain": -17
+  },
+  {
+   "t": 8.35,
+   "name": "paper",
+   "gain": -14
+  },
+  {
+   "t": 9.02,
+   "name": "whip",
+   "gain": -14
+  },
+  {
+   "t": 9.3,
+   "name": "whip",
+   "gain": -19
+  },
+  {
+   "t": 10.06,
+   "name": "whip",
+   "gain": -21
+  },
+  {
+   "t": 10.2,
+   "name": "whip",
+   "gain": -22
+  },
+  {
+   "t": 10.34,
+   "name": "whip",
+   "gain": -22
+  },
+  {
+   "t": 10.59,
+   "name": "pen",
+   "gain": -15
+  },
+  {
+   "t": 12.06,
+   "name": "whip",
+   "gain": -17
+  },
+  {
+   "t": 12.6,
+   "name": "pin",
+   "gain": -14
+  },
+  {
+   "t": 13.22,
+   "name": "paper",
+   "gain": -16
+  },
+  {
+   "t": 13.4,
+   "name": "pin",
+   "gain": -15
+  },
+  {
+   "t": 13.78,
+   "name": "paper",
+   "gain": -16
+  },
+  {
+   "t": 13.96,
+   "name": "pin",
+   "gain": -15
+  },
+  {
+   "t": 14.35,
+   "name": "string",
+   "gain": -15
+  },
+  {
+   "t": 14.5,
+   "name": "string",
+   "gain": -16
+  },
+  {
+   "t": 14.74,
+   "name": "stamp",
+   "gain": -9
+  },
+  {
+   "t": 14.74,
+   "name": "boom",
+   "gain": -20
+  },
+  {
+   "t": 9.98,
+   "name": "burst",
+   "gain": -18
+  },
+  {
+   "t": 10.12,
+   "name": "plane",
+   "gain": -17
+  },
+  {
+   "t": 10.45,
+   "name": "tank",
+   "gain": -19
+  },
+  {
+   "t": 11.05,
+   "name": "burst",
+   "gain": -15
+  },
+  {
+   "t": 11.32,
+   "name": "burst",
+   "gain": -17
+  },
+  {
+   "t": 9.72,
+   "name": "beep",
+   "gain": -24
+  },
+  {
+   "t": 10.3,
+   "name": "beep",
+   "gain": -24
+  },
+  {
+   "t": 13.81,
+   "name": "beep",
+   "gain": -25
+  }
+ ]
+}
