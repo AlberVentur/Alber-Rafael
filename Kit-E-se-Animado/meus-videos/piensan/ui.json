@@ -1,0 +1,22 @@
+{
+ "duracao": 535.2,
+ "palavrasPorLegenda": 4,
+ "destaques": [
+  "piensa",
+  "piensan",
+  "crush",
+  "Dani"
+ ],
+ "trocas": {
+  "2000": "2000",
+  "1998": "1998",
+  "2018": "2018",
+  "2021": "2021"
+ },
+ "elementos": [
+  { "tipo": "placa", "inicio": 96.4, "fim": 102.6, "numero": "2000", "rotulo": "THOMAS GILOVICH · EL EFECTO FOCO" },
+  { "tipo": "placa", "inicio": 173.0, "fim": 179.2, "numero": "1998", "rotulo": "GILOVICH, SAVITSKY Y MEDVEC · LA ILUSIÓN DE TRANSPARENCIA" },
+  { "tipo": "placa", "inicio": 263.8, "fim": 270.0, "numero": "2018", "rotulo": "ERICA BOOTHBY · LA BRECHA DE AGRADO" },
+  { "tipo": "placa", "inicio": 388.4, "fim": 394.6, "numero": "2021", "rotulo": "XUAN ZHAO Y NICHOLAS EPLEY · EL PODER DE UN CUMPLIDO" }
+ ]
+}
