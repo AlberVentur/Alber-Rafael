@@ -1,0 +1,19 @@
+LOS PRIMEROS GIGANTES DEL MUNDO — créditos y fuentes
+
+Imágenes: recreaciones generadas con IA aportadas por el autor del canal (marcadas "RECREACIÓN" en el video),
+excepto las de ambiente (botica y granja), que también son IA. No son fotografías de archivo.
+
+Fuentes de la investigación:
+- Discover Magazine: https://www.discovermagazine.com/gigantopithecus-was-the-largest-ape-to-exist-why-did-it-disappear-47980
+- CBS News: https://www.cbsnews.com/news/gigantopithecus-blacki-extinction-mystery-solved-largest-primate-ever/
+- Sci.News: https://www.sci.news/paleontology/gigantopithecus-blacki-extinction-12599.html
+- Notre Dame Magazine: https://magazine.nd.edu/news/16220
+- Wikipedia, Patagons: https://en.wikipedia.org/wiki/Patagons
+- Princeton University Library: https://static-prod.lib.princeton.edu/visual_materials/maps/websites/pacific/magellan-strait/patgonian-giants.html
+- History.com: https://www.history.com/articles/the-cardiff-giant-fools-the-nation-145-years-ago
+- Smithsonian Magazine: https://www.smithsonianmag.com/smart-news/cardiff-giant-was-just-big-hoax-180965274/
+- Guinness World Records: https://www.guinnessworldrecords.com/world-records/tallest-man-ever
+- Wikipedia, Robert Wadlow: https://en.wikipedia.org/wiki/Robert_Wadlow
+
+Fronteras históricas de los mapas: historical-basemaps de A. Ourednik (https://github.com/aourednik/historical-basemaps).
+Efectos de sonido: sintetizados. Sin música (añádela tú en tu editor con voiceover-trimmed.mp3).

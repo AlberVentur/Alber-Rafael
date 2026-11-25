@@ -4,3 +4,10 @@ VintageDossier-Pack/01-assets/maps/*.geojson
 VintageDossier-Pack/02-videos/*/in/*.mov
 VintageDossier-Pack/02-videos/*/in/*.wav
 VintageDossier-Pack/02-videos/*/in/*.jpg
+VintageDossier-Pack/00-setup/engine/public/primeros-gigantes/*.jpg
+VintageDossier-Pack/00-setup/engine/public/primeros-gigantes/*.wav
+VintageDossier-Pack/99-exports/.chunks_*/
+VintageDossier-Pack/99-exports/*.mp3
+VintageDossier-Pack/02-videos/*/vo/*.wav
+VintageDossier-Pack/02-videos/*/vo/*.mp3
+VintageDossier-Pack/02-videos/*/qa/

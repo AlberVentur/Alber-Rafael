@@ -1,0 +1,1519 @@
+{
+ "fps": 30,
+ "duration": 161.559,
+ "ev": {
+  "A_month": {
+   "kind": "type",
+   "t": 0.05,
+   "text": "OCTUBRE",
+   "cps": 14,
+   "ding": true
+  },
+  "A_year": {
+   "kind": "roll",
+   "t": 0.48,
+   "t2": 1.53,
+   "from": 1860,
+   "to": 1869
+  },
+  "A_farm": {
+   "kind": "drop",
+   "t": 1.804,
+   "dur": 0.5
+  },
+  "A_farmL1": {
+   "kind": "type",
+   "t": 3.654,
+   "text": "NUEVA YORK",
+   "cps": 20,
+   "ding": false
+  },
+  "A_farmL2": {
+   "kind": "type",
+   "t": 4.565,
+   "text": "OCT. 1869",
+   "cps": 20,
+   "ding": false
+  },
+  "A_hit": {
+   "kind": "hit",
+   "t": 6.155,
+   "dur": 0.5
+  },
+  "A_foot": {
+   "kind": "drop",
+   "t": 7.11,
+   "dur": 0.5
+  },
+  "A_footL": {
+   "kind": "type",
+   "t": 7.85,
+   "text": "¿PIEDRA?",
+   "cps": 18,
+   "ding": false
+  },
+  "A_circle": {
+   "kind": "draw",
+   "t": 8.569,
+   "dur": 0.55
+  },
+  "A_q": {
+   "kind": "type",
+   "t": 10.201,
+   "text": "¿POR QUÉ CREYERON EN GIGANTES?",
+   "cps": 24,
+   "ding": false
+  },
+  "A_back": {
+   "kind": "glide",
+   "t": 12.531,
+   "dur": 0.5
+  },
+  "A_burn": {
+   "kind": "flash",
+   "t": 13.531,
+   "dur": 0.5
+  },
+  "B_city": {
+   "kind": "type",
+   "t": 15.157,
+   "text": "HONG KONG",
+   "cps": 16,
+   "ding": false
+  },
+  "B_year": {
+   "kind": "roll",
+   "t": 13.651,
+   "t2": 14.731,
+   "from": 1926,
+   "to": 1935
+  },
+  "B_koe": {
+   "kind": "drop",
+   "t": 15.827,
+   "dur": 0.5
+  },
+  "B_koeL1": {
+   "kind": "type",
+   "t": 16.667,
+   "text": "RALPH VON KOENIGSWALD",
+   "cps": 26,
+   "ding": false
+  },
+  "B_koeL2": {
+   "kind": "type",
+   "t": 17.537,
+   "text": "PALEONTÓLOGO",
+   "cps": 22,
+   "ding": false
+  },
+  "B_bot": {
+   "kind": "drop",
+   "t": 18.327,
+   "dur": 0.5
+  },
+  "B_botL": {
+   "kind": "type",
+   "t": 20.345,
+   "text": "HUESOS DE DRAGÓN",
+   "cps": 20,
+   "ding": false
+  },
+  "B_jaw": {
+   "kind": "drop",
+   "t": 21.88,
+   "dur": 0.5
+  },
+  "B_jawC": {
+   "kind": "draw",
+   "t": 23.13,
+   "dur": 0.55
+  },
+  "B_jawL": {
+   "kind": "type",
+   "t": 24.762,
+   "text": "MAYOR QUE UN GORILA",
+   "cps": 22,
+   "ding": false
+  },
+  "B_name": {
+   "kind": "type",
+   "t": 27.649,
+   "text": "GIGANTOPITHECUS BLACKI",
+   "cps": 22,
+   "ding": true
+  },
+  "B_ruler": {
+   "kind": "drop",
+   "t": 30.251,
+   "dur": 0.5
+  },
+  "B_bar": {
+   "kind": "draw",
+   "t": 31.191,
+   "dur": 0.45
+  },
+  "B_kg": {
+   "kind": "label",
+   "t": 32.401,
+   "t2": 33.281,
+   "from": 0,
+   "to": 300
+  },
+  "B_fly": {
+   "kind": "glide",
+   "t": 33.588,
+   "dur": 0.5
+  },
+  "B_south": {
+   "kind": "focus",
+   "t": 34.468,
+   "dur": 0.5
+  },
+  "B_hk": {
+   "kind": "pin",
+   "t": 34.828,
+   "dur": 0.5
+  },
+  "B_mya": {
+   "kind": "type",
+   "t": 35.438,
+   "text": "2.000.000 AÑOS",
+   "cps": 18,
+   "ding": false
+  },
+  "B_dry": {
+   "kind": "focus",
+   "t": 37.468,
+   "dur": 0.5
+  },
+  "B_ext": {
+   "kind": "stamp",
+   "t": 41.419,
+   "dur": 0.5
+  },
+  "B_real": {
+   "kind": "type",
+   "t": 42.735,
+   "text": "GIGANTE REAL Nº 1: UN SIMIO",
+   "cps": 22,
+   "ding": false
+  },
+  "B_burn": {
+   "kind": "flash",
+   "t": 44.688,
+   "dur": 0.5
+  },
+  "C_scroll": {
+   "kind": "drop",
+   "t": 44.978,
+   "dur": 0.5
+  },
+  "C_gen": {
+   "kind": "type",
+   "t": 47.841,
+   "text": "GÉNESIS 6:4",
+   "cps": 18,
+   "ding": false
+  },
+  "C_nef": {
+   "kind": "type",
+   "t": 49.111,
+   "text": "NEFILIM",
+   "cps": 16,
+   "ding": false
+  },
+  "C_gol": {
+   "kind": "drop",
+   "t": 50.225,
+   "dur": 0.5
+  },
+  "C_golL1": {
+   "kind": "type",
+   "t": 51.285,
+   "text": "GOLIAT",
+   "cps": 14,
+   "ding": false
+  },
+  "C_golL2": {
+   "kind": "type",
+   "t": 51.865,
+   "text": "GAT, FILISTEA",
+   "cps": 20,
+   "ding": false
+  },
+  "C_ruler": {
+   "kind": "glide",
+   "t": 52.313,
+   "dur": 0.5
+  },
+  "C_bar29": {
+   "kind": "draw",
+   "t": 55.633,
+   "dur": 0.5
+  },
+  "C_heb": {
+   "kind": "type",
+   "t": 55.793,
+   "text": "TEXTO HEBREO: 2,9 M",
+   "cps": 22,
+   "ding": false
+  },
+  "C_strike": {
+   "kind": "draw",
+   "t": 58.157,
+   "dur": 0.3
+  },
+  "C_bar20": {
+   "kind": "draw",
+   "t": 58.437,
+   "dur": 0.5
+  },
+  "C_dss": {
+   "kind": "type",
+   "t": 57.057,
+   "text": "ROLLO DEL MAR MUERTO: 2 M",
+   "cps": 24,
+   "ding": false
+  },
+  "C_year": {
+   "kind": "roll",
+   "t": 59.189,
+   "t2": 60.019,
+   "from": 1511,
+   "to": 1520
+  },
+  "C_mag": {
+   "kind": "drop",
+   "t": 60.646,
+   "dur": 0.5
+  },
+  "C_magL": {
+   "kind": "type",
+   "t": 61.056,
+   "text": "F. DE MAGALLANES",
+   "cps": 22,
+   "ding": false
+  },
+  "C_fly": {
+   "kind": "glide",
+   "t": 61.386,
+   "dur": 0.5
+  },
+  "C_route": {
+   "kind": "draw",
+   "t": 61.846,
+   "dur": 1.0
+  },
+  "C_sj": {
+   "kind": "pin",
+   "t": 62.566,
+   "dur": 0.5
+  },
+  "C_sjL": {
+   "kind": "type",
+   "t": 62.716,
+   "text": "SAN JULIÁN",
+   "cps": 16,
+   "ding": false
+  },
+  "C_arg": {
+   "kind": "type",
+   "t": 64.226,
+   "text": "ARGENTINA (HOY)",
+   "cps": 18,
+   "ding": false
+  },
+  "C_eng": {
+   "kind": "drop",
+   "t": 64.998,
+   "dur": 0.5
+  },
+  "C_pig": {
+   "kind": "type",
+   "t": 65.668,
+   "text": "A. PIGAFETTA, CRONISTA",
+   "cps": 24,
+   "ding": false
+  },
+  "C_engC": {
+   "kind": "draw",
+   "t": 68.448,
+   "dur": 0.5
+  },
+  "C_waist": {
+   "kind": "type",
+   "t": 69.568,
+   "text": "¿EL DOBLE DE ALTO?",
+   "cps": 18,
+   "ding": false
+  },
+  "C_patL": {
+   "kind": "type",
+   "t": 72.006,
+   "text": "PATAGONES",
+   "cps": 14,
+   "ding": false
+  },
+  "C_pat": {
+   "kind": "type",
+   "t": 74.331,
+   "text": "PATAGONIA",
+   "cps": 12,
+   "ding": true
+  },
+  "C_back": {
+   "kind": "glide",
+   "t": 76.019,
+   "dur": 0.5
+  },
+  "C_t0": {
+   "kind": "type",
+   "t": 76.699,
+   "text": "1520",
+   "cps": 10,
+   "ding": false
+  },
+  "C_str": {
+   "kind": "string",
+   "t": 76.879,
+   "dur": 1.6
+  },
+  "C_t1": {
+   "kind": "roll",
+   "t": 81.116,
+   "t2": 82.346,
+   "from": 1764,
+   "to": 1773
+  },
+  "C_ruler3": {
+   "kind": "glide",
+   "t": 82.661,
+   "dur": 0.5
+  },
+  "C_bar198": {
+   "kind": "draw",
+   "t": 85.748,
+   "dur": 0.5
+  },
+  "C_198": {
+   "kind": "type",
+   "t": 85.998,
+   "text": "1,98 M",
+   "cps": 12,
+   "ding": false
+  },
+  "C_alt": {
+   "kind": "type",
+   "t": 87.387,
+   "text": "ALTOS: SÍ",
+   "cps": 14,
+   "ding": false
+  },
+  "C_gig": {
+   "kind": "type",
+   "t": 88.091,
+   "text": "GIGANTES",
+   "cps": 16,
+   "ding": false
+  },
+  "C_gigS": {
+   "kind": "draw",
+   "t": 88.911,
+   "dur": 0.3
+  },
+  "C_teh": {
+   "kind": "drop",
+   "t": 90.114,
+   "dur": 0.5
+  },
+  "C_tehL": {
+   "kind": "type",
+   "t": 90.464,
+   "text": "TEHUELCHES",
+   "cps": 16,
+   "ding": false
+  },
+  "C_burn": {
+   "kind": "flash",
+   "t": 91.262,
+   "dur": 0.5
+  },
+  "D_back": {
+   "kind": "type",
+   "t": 91.382,
+   "text": "VOLVEMOS A",
+   "cps": 16,
+   "ding": false
+  },
+  "D_year": {
+   "kind": "roll",
+   "t": 91.965,
+   "t2": 93.335,
+   "from": 1860,
+   "to": 1869
+  },
+  "D_card": {
+   "kind": "drop",
+   "t": 93.962,
+   "dur": 0.5
+  },
+  "D_len": {
+   "kind": "draw",
+   "t": 96.075,
+   "dur": 0.6
+  },
+  "D_3m": {
+   "kind": "type",
+   "t": 96.345,
+   "text": "3 M",
+   "cps": 10,
+   "ding": false
+  },
+  "D_cdf": {
+   "kind": "type",
+   "t": 98.173,
+   "text": "CARDIFF, NUEVA YORK",
+   "cps": 22,
+   "ding": false
+  },
+  "D_fly": {
+   "kind": "glide",
+   "t": 99.155,
+   "dur": 0.5
+  },
+  "D_pin": {
+   "kind": "pin",
+   "t": 99.473,
+   "dur": 0.5
+  },
+  "D_arrows": {
+   "kind": "draw",
+   "t": 99.975,
+   "dur": 0.6
+  },
+  "D_bib": {
+   "kind": "type",
+   "t": 103.246,
+   "text": "¿GIGANTE BÍBLICO?",
+   "cps": 18,
+   "ding": false
+  },
+  "D_bar": {
+   "kind": "drop",
+   "t": 105.103,
+   "dur": 0.5
+  },
+  "D_barL1": {
+   "kind": "type",
+   "t": 105.669,
+   "text": "P. T. BARNUM",
+   "cps": 16,
+   "ding": false
+  },
+  "D_barL2": {
+   "kind": "type",
+   "t": 106.158,
+   "text": "EMPRESARIO",
+   "cps": 16,
+   "ding": false
+  },
+  "D_50k": {
+   "kind": "label",
+   "t": 106.6,
+   "t2": 107.193,
+   "from": 0,
+   "to": 50000
+  },
+  "D_no": {
+   "kind": "stamp",
+   "t": 109.636,
+   "dur": 0.5
+  },
+  "D_copy": {
+   "kind": "drop",
+   "t": 110.488,
+   "dur": 0.5
+  },
+  "D_copyL": {
+   "kind": "type",
+   "t": 111.201,
+   "text": "COPIA DE BARNUM",
+   "cps": 20,
+   "ding": false
+  },
+  "D_wide": {
+   "kind": "glide",
+   "t": 111.432,
+   "dur": 0.5
+  },
+  "D_origL": {
+   "kind": "type",
+   "t": 112.64,
+   "text": "EL ORIGINAL",
+   "cps": 16,
+   "ding": false
+  },
+  "D_str": {
+   "kind": "string",
+   "t": 115.026,
+   "dur": 0.6
+  },
+  "D_fraud": {
+   "kind": "type",
+   "t": 115.902,
+   "text": "¿FRAUDE?",
+   "cps": 14,
+   "ding": false
+  },
+  "D_hull": {
+   "kind": "drop",
+   "t": 116.514,
+   "dur": 0.5
+  },
+  "D_hullL1": {
+   "kind": "type",
+   "t": 116.747,
+   "text": "10 DIC. 1869",
+   "cps": 16,
+   "ding": false
+  },
+  "D_hullL2": {
+   "kind": "type",
+   "t": 117.848,
+   "text": "GEORGE HULL",
+   "cps": 16,
+   "ding": false
+  },
+  "D_conf": {
+   "kind": "stamp",
+   "t": 118.731,
+   "dur": 0.5
+  },
+  "D_yeso": {
+   "kind": "type",
+   "t": 120.864,
+   "text": "YESO",
+   "cps": 10,
+   "ding": false
+  },
+  "D_bur": {
+   "kind": "type",
+   "t": 121.473,
+   "text": "ENTERRADO EN 1868",
+   "cps": 22,
+   "ding": false
+  },
+  "D_farm": {
+   "kind": "drop",
+   "t": 122.833,
+   "dur": 0.5
+  },
+  "D_str2": {
+   "kind": "string",
+   "t": 123.542,
+   "dur": 0.5
+  },
+  "D_20k": {
+   "kind": "label",
+   "t": 124.828,
+   "t2": 125.605,
+   "from": 0,
+   "to": 20000
+  },
+  "D_burn": {
+   "kind": "flash",
+   "t": 126.261,
+   "dur": 0.5
+  },
+  "E_real": {
+   "kind": "type",
+   "t": 126.537,
+   "text": "GIGANTE REAL Nº 2",
+   "cps": 20,
+   "ding": false
+  },
+  "E_wad": {
+   "kind": "drop",
+   "t": 127.41,
+   "dur": 0.5
+  },
+  "E_wadL1": {
+   "kind": "type",
+   "t": 127.78,
+   "text": "ROBERT WADLOW",
+   "cps": 18,
+   "ding": false
+  },
+  "E_wadL2": {
+   "kind": "type",
+   "t": 128.953,
+   "text": "ALTON, ILLINOIS",
+   "cps": 20,
+   "ding": false
+  },
+  "E_wadL3": {
+   "kind": "type",
+   "t": 131.035,
+   "text": "N. 1918",
+   "cps": 12,
+   "ding": false
+  },
+  "E_hip": {
+   "kind": "type",
+   "t": 132.971,
+   "text": "GIGANTISMO HIPOFISARIO",
+   "cps": 24,
+   "ding": false
+  },
+  "E_ruler": {
+   "kind": "glide",
+   "t": 134.782,
+   "dur": 0.5
+  },
+  "E_date": {
+   "kind": "type",
+   "t": 135.254,
+   "text": "27 JUNIO 1940",
+   "cps": 18,
+   "ding": false
+  },
+  "E_bar": {
+   "kind": "draw",
+   "t": 138.067,
+   "dur": 1.6
+  },
+  "E_272": {
+   "kind": "type",
+   "t": 139.662,
+   "text": "2,72 M",
+   "cps": 12,
+   "ding": false
+  },
+  "E_rec": {
+   "kind": "type",
+   "t": 140.875,
+   "text": "NADIE LO HA SUPERADO",
+   "cps": 22,
+   "ding": false
+  },
+  "E_died": {
+   "kind": "type",
+   "t": 142.714,
+   "text": "† 15 JULIO 1940",
+   "cps": 20,
+   "ding": false
+  },
+  "E_age": {
+   "kind": "type",
+   "t": 145.128,
+   "text": "22 AÑOS",
+   "cps": 12,
+   "ding": false
+  },
+  "E_board": {
+   "kind": "glide",
+   "t": 146.336,
+   "dur": 0.5
+  },
+  "E_b1": {
+   "kind": "drop",
+   "t": 148.712,
+   "dur": 0.5
+  },
+  "E_s1": {
+   "kind": "stamp",
+   "t": 149.212,
+   "dur": 0.5
+  },
+  "E_b2": {
+   "kind": "drop",
+   "t": 150.585,
+   "dur": 0.5
+  },
+  "E_s2": {
+   "kind": "stamp",
+   "t": 151.135,
+   "dur": 0.5
+  },
+  "E_b3": {
+   "kind": "drop",
+   "t": 151.573,
+   "dur": 0.5
+  },
+  "E_s3": {
+   "kind": "stamp",
+   "t": 152.424,
+   "dur": 0.5
+  },
+  "E_b4": {
+   "kind": "drop",
+   "t": 153.002,
+   "dur": 0.5
+  },
+  "E_s4": {
+   "kind": "stamp",
+   "t": 153.903,
+   "dur": 0.5
+  },
+  "E_st1": {
+   "kind": "string",
+   "t": 149.062,
+   "dur": 0.45
+  },
+  "E_st2": {
+   "kind": "string",
+   "t": 150.935,
+   "dur": 0.45
+  },
+  "E_st3": {
+   "kind": "string",
+   "t": 151.923,
+   "dur": 0.45
+  },
+  "E_st4": {
+   "kind": "string",
+   "t": 153.352,
+   "dur": 0.45
+  },
+  "E_push": {
+   "kind": "glide",
+   "t": 154.893,
+   "dur": 0.5
+  },
+  "E_s5": {
+   "kind": "stamp",
+   "t": 156.09,
+   "dur": 0.5
+  },
+  "E_kind": {
+   "kind": "type",
+   "t": 158.001,
+   "text": "UN JOVEN AMABLE",
+   "cps": 16,
+   "ding": false
+  },
+  "A_foot_rec": {
+   "kind": "label",
+   "t": 7.56,
+   "text": "RECREACIÓN",
+   "cps": 26,
+   "ding": false,
+   "quiet": true
+  },
+  "B_koe_rec": {
+   "kind": "label",
+   "t": 16.277,
+   "text": "RECREACIÓN",
+   "cps": 26,
+   "ding": false,
+   "quiet": true
+  },
+  "B_jaw_rec": {
+   "kind": "label",
+   "t": 22.33,
+   "text": "RECREACIÓN",
+   "cps": 26,
+   "ding": false,
+   "quiet": true
+  },
+  "C_scroll_rec": {
+   "kind": "label",
+   "t": 45.428,
+   "text": "RECREACIÓN",
+   "cps": 26,
+   "ding": false,
+   "quiet": true
+  },
+  "C_gol_rec": {
+   "kind": "label",
+   "t": 50.675,
+   "text": "RECREACIÓN",
+   "cps": 26,
+   "ding": false,
+   "quiet": true
+  },
+  "C_mag_rec": {
+   "kind": "label",
+   "t": 61.096,
+   "text": "RECREACIÓN",
+   "cps": 26,
+   "ding": false,
+   "quiet": true
+  },
+  "C_eng_rec": {
+   "kind": "label",
+   "t": 65.448,
+   "text": "RECREACIÓN",
+   "cps": 26,
+   "ding": false,
+   "quiet": true
+  },
+  "C_teh_rec": {
+   "kind": "label",
+   "t": 90.564,
+   "text": "RECREACIÓN",
+   "cps": 26,
+   "ding": false,
+   "quiet": true
+  },
+  "D_card_rec": {
+   "kind": "label",
+   "t": 94.412,
+   "text": "RECREACIÓN",
+   "cps": 26,
+   "ding": false,
+   "quiet": true
+  },
+  "D_bar_rec": {
+   "kind": "label",
+   "t": 105.553,
+   "text": "RECREACIÓN",
+   "cps": 26,
+   "ding": false,
+   "quiet": true
+  },
+  "D_copy_rec": {
+   "kind": "label",
+   "t": 110.938,
+   "text": "RECREACIÓN",
+   "cps": 26,
+   "ding": false,
+   "quiet": true
+  },
+  "D_hull_rec": {
+   "kind": "label",
+   "t": 116.964,
+   "text": "RECREACIÓN",
+   "cps": 26,
+   "ding": false,
+   "quiet": true
+  },
+  "E_wad_rec": {
+   "kind": "label",
+   "t": 127.86,
+   "text": "RECREACIÓN",
+   "cps": 26,
+   "ding": false,
+   "quiet": true
+  }
+ },
+ "sfx": [
+  {
+   "t": 0,
+   "name": "projector",
+   "gain": -27,
+   "loop": true
+  },
+  {
+   "t": 1.764,
+   "name": "paper",
+   "gain": -15
+  },
+  {
+   "t": 6.155,
+   "name": "boom",
+   "gain": -14
+  },
+  {
+   "t": 7.07,
+   "name": "paper",
+   "gain": -15
+  },
+  {
+   "t": 8.569,
+   "name": "pen",
+   "gain": -16
+  },
+  {
+   "t": 12.481,
+   "name": "whip",
+   "gain": -17
+  },
+  {
+   "t": 13.431000000000001,
+   "name": "flash",
+   "gain": -16
+  },
+  {
+   "t": 13.531,
+   "name": "whip",
+   "gain": -15
+  },
+  {
+   "t": 15.787,
+   "name": "paper",
+   "gain": -15
+  },
+  {
+   "t": 18.287000000000003,
+   "name": "paper",
+   "gain": -15
+  },
+  {
+   "t": 21.84,
+   "name": "paper",
+   "gain": -15
+  },
+  {
+   "t": 23.13,
+   "name": "pen",
+   "gain": -16
+  },
+  {
+   "t": 30.211000000000002,
+   "name": "paper",
+   "gain": -15
+  },
+  {
+   "t": 31.191,
+   "name": "pen",
+   "gain": -16
+  },
+  {
+   "t": 32.401,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 32.531,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 32.651,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 32.76,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 32.859,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 32.948,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 33.026,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 33.094,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 33.151,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 33.198,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 33.234,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 33.26,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 33.276,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 33.281,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 33.281,
+   "name": "beep",
+   "gain": -24
+  },
+  {
+   "t": 33.538000000000004,
+   "name": "whip",
+   "gain": -17
+  },
+  {
+   "t": 34.468,
+   "name": "beep",
+   "gain": -24
+  },
+  {
+   "t": 34.828,
+   "name": "pin",
+   "gain": -16
+  },
+  {
+   "t": 34.828,
+   "name": "beep",
+   "gain": -24
+  },
+  {
+   "t": 37.468,
+   "name": "beep",
+   "gain": -24
+  },
+  {
+   "t": 41.419,
+   "name": "stamp",
+   "gain": -11
+  },
+  {
+   "t": 44.588,
+   "name": "flash",
+   "gain": -16
+  },
+  {
+   "t": 44.688,
+   "name": "whip",
+   "gain": -15
+  },
+  {
+   "t": 44.938,
+   "name": "paper",
+   "gain": -15
+  },
+  {
+   "t": 50.185,
+   "name": "paper",
+   "gain": -15
+  },
+  {
+   "t": 52.263000000000005,
+   "name": "whip",
+   "gain": -17
+  },
+  {
+   "t": 55.633,
+   "name": "pen",
+   "gain": -16
+  },
+  {
+   "t": 58.157,
+   "name": "pen",
+   "gain": -16
+  },
+  {
+   "t": 58.437,
+   "name": "pen",
+   "gain": -16
+  },
+  {
+   "t": 60.606,
+   "name": "paper",
+   "gain": -15
+  },
+  {
+   "t": 61.336000000000006,
+   "name": "whip",
+   "gain": -17
+  },
+  {
+   "t": 61.846,
+   "name": "pen",
+   "gain": -16
+  },
+  {
+   "t": 62.566,
+   "name": "pin",
+   "gain": -16
+  },
+  {
+   "t": 62.566,
+   "name": "beep",
+   "gain": -24
+  },
+  {
+   "t": 64.958,
+   "name": "paper",
+   "gain": -15
+  },
+  {
+   "t": 68.448,
+   "name": "pen",
+   "gain": -16
+  },
+  {
+   "t": 75.96900000000001,
+   "name": "whip",
+   "gain": -17
+  },
+  {
+   "t": 76.879,
+   "name": "string",
+   "gain": -15
+  },
+  {
+   "t": 82.611,
+   "name": "whip",
+   "gain": -17
+  },
+  {
+   "t": 85.748,
+   "name": "pen",
+   "gain": -16
+  },
+  {
+   "t": 88.911,
+   "name": "pen",
+   "gain": -16
+  },
+  {
+   "t": 90.074,
+   "name": "paper",
+   "gain": -15
+  },
+  {
+   "t": 91.162,
+   "name": "flash",
+   "gain": -16
+  },
+  {
+   "t": 91.262,
+   "name": "whip",
+   "gain": -15
+  },
+  {
+   "t": 93.922,
+   "name": "paper",
+   "gain": -15
+  },
+  {
+   "t": 96.075,
+   "name": "pen",
+   "gain": -16
+  },
+  {
+   "t": 99.105,
+   "name": "whip",
+   "gain": -17
+  },
+  {
+   "t": 99.473,
+   "name": "pin",
+   "gain": -16
+  },
+  {
+   "t": 99.473,
+   "name": "beep",
+   "gain": -24
+  },
+  {
+   "t": 99.975,
+   "name": "pen",
+   "gain": -16
+  },
+  {
+   "t": 105.06299999999999,
+   "name": "paper",
+   "gain": -15
+  },
+  {
+   "t": 106.6,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 106.688,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 106.768,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 106.842,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 106.909,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 106.968,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 107.021,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 107.067,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 107.105,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 107.137,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 107.161,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 107.179,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 107.189,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 107.193,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 107.193,
+   "name": "beep",
+   "gain": -24
+  },
+  {
+   "t": 109.636,
+   "name": "stamp",
+   "gain": -11
+  },
+  {
+   "t": 110.448,
+   "name": "paper",
+   "gain": -15
+  },
+  {
+   "t": 111.382,
+   "name": "whip",
+   "gain": -17
+  },
+  {
+   "t": 115.026,
+   "name": "string",
+   "gain": -15
+  },
+  {
+   "t": 116.47399999999999,
+   "name": "paper",
+   "gain": -15
+  },
+  {
+   "t": 118.731,
+   "name": "stamp",
+   "gain": -11
+  },
+  {
+   "t": 122.79299999999999,
+   "name": "paper",
+   "gain": -15
+  },
+  {
+   "t": 123.542,
+   "name": "string",
+   "gain": -15
+  },
+  {
+   "t": 124.828,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 124.943,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 125.049,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 125.145,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 125.233,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 125.311,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 125.38,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 125.439,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 125.49,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 125.531,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 125.564,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 125.587,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 125.6,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 125.605,
+   "name": "tick",
+   "gain": -20
+  },
+  {
+   "t": 125.605,
+   "name": "beep",
+   "gain": -24
+  },
+  {
+   "t": 126.161,
+   "name": "flash",
+   "gain": -16
+  },
+  {
+   "t": 126.261,
+   "name": "whip",
+   "gain": -15
+  },
+  {
+   "t": 127.36999999999999,
+   "name": "paper",
+   "gain": -15
+  },
+  {
+   "t": 134.732,
+   "name": "whip",
+   "gain": -17
+  },
+  {
+   "t": 138.067,
+   "name": "pen",
+   "gain": -16
+  },
+  {
+   "t": 146.286,
+   "name": "whip",
+   "gain": -17
+  },
+  {
+   "t": 148.672,
+   "name": "paper",
+   "gain": -15
+  },
+  {
+   "t": 149.062,
+   "name": "string",
+   "gain": -15
+  },
+  {
+   "t": 149.212,
+   "name": "stamp",
+   "gain": -11
+  },
+  {
+   "t": 150.54500000000002,
+   "name": "paper",
+   "gain": -15
+  },
+  {
+   "t": 150.935,
+   "name": "string",
+   "gain": -15
+  },
+  {
+   "t": 151.135,
+   "name": "stamp",
+   "gain": -11
+  },
+  {
+   "t": 151.53300000000002,
+   "name": "paper",
+   "gain": -15
+  },
+  {
+   "t": 151.923,
+   "name": "string",
+   "gain": -15
+  },
+  {
+   "t": 152.424,
+   "name": "stamp",
+   "gain": -11
+  },
+  {
+   "t": 152.96200000000002,
+   "name": "paper",
+   "gain": -15
+  },
+  {
+   "t": 153.352,
+   "name": "string",
+   "gain": -15
+  },
+  {
+   "t": 153.903,
+   "name": "stamp",
+   "gain": -11
+  },
+  {
+   "t": 154.843,
+   "name": "whip",
+   "gain": -17
+  },
+  {
+   "t": 156.09,
+   "name": "stamp",
+   "gain": -11
+  }
+ ]
+}

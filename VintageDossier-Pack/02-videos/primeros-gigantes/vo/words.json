@@ -1,0 +1,3102 @@
+[
+ {
+  "word": "Octubre",
+  "start": 0.0,
+  "end": 0.38,
+  "sent": 0
+ },
+ {
+  "word": "de",
+  "start": 0.38,
+  "end": 0.48,
+  "sent": 0
+ },
+ {
+  "word": "mil",
+  "start": 0.48,
+  "end": 0.66,
+  "sent": 0
+ },
+ {
+  "word": "ochocientos",
+  "start": 0.66,
+  "end": 1.15,
+  "sent": 0
+ },
+ {
+  "word": "sesenta",
+  "start": 1.15,
+  "end": 1.47,
+  "sent": 0
+ },
+ {
+  "word": "y",
+  "start": 1.47,
+  "end": 1.53,
+  "sent": 0
+ },
+ {
+  "word": "nueve",
+  "start": 1.53,
+  "end": 1.9,
+  "sent": 0
+ },
+ {
+  "word": "Dos",
+  "start": 1.904,
+  "end": 2.144,
+  "sent": 1
+ },
+ {
+  "word": "hombres",
+  "start": 2.144,
+  "end": 2.424,
+  "sent": 1
+ },
+ {
+  "word": "cavan",
+  "start": 2.424,
+  "end": 2.664,
+  "sent": 1
+ },
+ {
+  "word": "un",
+  "start": 2.664,
+  "end": 2.804,
+  "sent": 1
+ },
+ {
+  "word": "pozo",
+  "start": 2.804,
+  "end": 3.044,
+  "sent": 1
+ },
+ {
+  "word": "en",
+  "start": 3.044,
+  "end": 3.114,
+  "sent": 1
+ },
+ {
+  "word": "una",
+  "start": 3.114,
+  "end": 3.274,
+  "sent": 1
+ },
+ {
+  "word": "granja",
+  "start": 3.274,
+  "end": 3.584,
+  "sent": 1
+ },
+ {
+  "word": "de",
+  "start": 3.584,
+  "end": 3.654,
+  "sent": 1
+ },
+ {
+  "word": "Nueva",
+  "start": 3.654,
+  "end": 3.884,
+  "sent": 1
+ },
+ {
+  "word": "York",
+  "start": 3.884,
+  "end": 4.324,
+  "sent": 1
+ },
+ {
+  "word": "A",
+  "start": 4.445,
+  "end": 4.535,
+  "sent": 2
+ },
+ {
+  "word": "un",
+  "start": 4.535,
+  "end": 4.665,
+  "sent": 2
+ },
+ {
+  "word": "metro",
+  "start": 4.665,
+  "end": 4.935,
+  "sent": 2
+ },
+ {
+  "word": "de",
+  "start": 4.935,
+  "end": 5.005,
+  "sent": 2
+ },
+ {
+  "word": "profundidad",
+  "start": 5.005,
+  "end": 5.615,
+  "sent": 2
+ },
+ {
+  "word": "la",
+  "start": 5.615,
+  "end": 5.805,
+  "sent": 2
+ },
+ {
+  "word": "pala",
+  "start": 5.805,
+  "end": 6.035,
+  "sent": 2
+ },
+ {
+  "word": "golpea",
+  "start": 6.035,
+  "end": 6.485,
+  "sent": 2
+ },
+ {
+  "word": "algo",
+  "start": 6.485,
+  "end": 6.805,
+  "sent": 2
+ },
+ {
+  "word": "duro",
+  "start": 6.805,
+  "end": 7.155,
+  "sent": 2
+ },
+ {
+  "word": "Es",
+  "start": 7.16,
+  "end": 7.41,
+  "sent": 3
+ },
+ {
+  "word": "un",
+  "start": 7.41,
+  "end": 7.55,
+  "sent": 3
+ },
+ {
+  "word": "pie",
+  "start": 7.55,
+  "end": 7.73,
+  "sent": 3
+ },
+ {
+  "word": "de",
+  "start": 7.73,
+  "end": 7.85,
+  "sent": 3
+ },
+ {
+  "word": "piedra",
+  "start": 7.85,
+  "end": 8.28,
+  "sent": 3
+ },
+ {
+  "word": "Un",
+  "start": 8.279,
+  "end": 8.569,
+  "sent": 4
+ },
+ {
+  "word": "pie",
+  "start": 8.569,
+  "end": 8.889,
+  "sent": 4
+ },
+ {
+  "word": "enorme",
+  "start": 8.889,
+  "end": 9.409,
+  "sent": 4
+ },
+ {
+  "word": "Pero",
+  "start": 9.411,
+  "end": 9.661,
+  "sent": 5
+ },
+ {
+  "word": "para",
+  "start": 9.661,
+  "end": 9.811,
+  "sent": 5
+ },
+ {
+  "word": "entender",
+  "start": 9.811,
+  "end": 10.201,
+  "sent": 5
+ },
+ {
+  "word": "por",
+  "start": 10.201,
+  "end": 10.341,
+  "sent": 5
+ },
+ {
+  "word": "qué",
+  "start": 10.341,
+  "end": 10.491,
+  "sent": 5
+ },
+ {
+  "word": "tanta",
+  "start": 10.491,
+  "end": 10.751,
+  "sent": 5
+ },
+ {
+  "word": "gente",
+  "start": 10.751,
+  "end": 11.021,
+  "sent": 5
+ },
+ {
+  "word": "creyó",
+  "start": 11.021,
+  "end": 11.281,
+  "sent": 5
+ },
+ {
+  "word": "en",
+  "start": 11.281,
+  "end": 11.371,
+  "sent": 5
+ },
+ {
+  "word": "gigantes",
+  "start": 11.371,
+  "end": 11.861,
+  "sent": 5
+ },
+ {
+  "word": "tenemos",
+  "start": 12.101,
+  "end": 12.431,
+  "sent": 5
+ },
+ {
+  "word": "que",
+  "start": 12.431,
+  "end": 12.531,
+  "sent": 5
+ },
+ {
+  "word": "retroceder",
+  "start": 12.531,
+  "end": 13.041,
+  "sent": 5
+ },
+ {
+  "word": "mucho",
+  "start": 13.041,
+  "end": 13.301,
+  "sent": 5
+ },
+ {
+  "word": "más",
+  "start": 13.301,
+  "end": 13.651,
+  "sent": 5
+ },
+ {
+  "word": "Mil",
+  "start": 13.651,
+  "end": 13.921,
+  "sent": 6
+ },
+ {
+  "word": "novecientos",
+  "start": 13.921,
+  "end": 14.391,
+  "sent": 6
+ },
+ {
+  "word": "treinta",
+  "start": 14.391,
+  "end": 14.661,
+  "sent": 6
+ },
+ {
+  "word": "y",
+  "start": 14.661,
+  "end": 14.731,
+  "sent": 6
+ },
+ {
+  "word": "cinco",
+  "start": 14.731,
+  "end": 15.161,
+  "sent": 6
+ },
+ {
+  "word": "Hong",
+  "start": 15.157,
+  "end": 15.417,
+  "sent": 7
+ },
+ {
+  "word": "Kong",
+  "start": 15.417,
+  "end": 15.777,
+  "sent": 7
+ },
+ {
+  "word": "El",
+  "start": 15.777,
+  "end": 15.987,
+  "sent": 8
+ },
+ {
+  "word": "paleontólogo",
+  "start": 15.987,
+  "end": 16.667,
+  "sent": 8
+ },
+ {
+  "word": "Ralph",
+  "start": 16.667,
+  "end": 16.977,
+  "sent": 8
+ },
+ {
+  "word": "von",
+  "start": 16.977,
+  "end": 17.197,
+  "sent": 8
+ },
+ {
+  "word": "Koenigswald",
+  "start": 17.197,
+  "end": 17.787,
+  "sent": 8
+ },
+ {
+  "word": "revisa",
+  "start": 17.787,
+  "end": 18.287,
+  "sent": 8
+ },
+ {
+  "word": "los",
+  "start": 18.287,
+  "end": 18.427,
+  "sent": 8
+ },
+ {
+  "word": "cajones",
+  "start": 18.427,
+  "end": 18.787,
+  "sent": 8
+ },
+ {
+  "word": "de",
+  "start": 18.787,
+  "end": 18.867,
+  "sent": 8
+ },
+ {
+  "word": "una",
+  "start": 18.867,
+  "end": 19.027,
+  "sent": 8
+ },
+ {
+  "word": "farmacia",
+  "start": 19.027,
+  "end": 19.617,
+  "sent": 8
+ },
+ {
+  "word": "Allí",
+  "start": 19.615,
+  "end": 19.925,
+  "sent": 9
+ },
+ {
+  "word": "se",
+  "start": 19.925,
+  "end": 20.055,
+  "sent": 9
+ },
+ {
+  "word": "venden",
+  "start": 20.055,
+  "end": 20.345,
+  "sent": 9
+ },
+ {
+  "word": "huesos",
+  "start": 20.345,
+  "end": 20.615,
+  "sent": 9
+ },
+ {
+  "word": "de",
+  "start": 20.615,
+  "end": 20.705,
+  "sent": 9
+ },
+ {
+  "word": "dragón",
+  "start": 20.705,
+  "end": 21.065,
+  "sent": 9
+ },
+ {
+  "word": "como",
+  "start": 21.065,
+  "end": 21.265,
+  "sent": 9
+ },
+ {
+  "word": "medicina",
+  "start": 21.265,
+  "end": 21.875,
+  "sent": 9
+ },
+ {
+  "word": "Entre",
+  "start": 21.88,
+  "end": 22.29,
+  "sent": 10
+ },
+ {
+  "word": "ellos",
+  "start": 22.29,
+  "end": 22.54,
+  "sent": 10
+ },
+ {
+  "word": "encuentra",
+  "start": 22.54,
+  "end": 22.96,
+  "sent": 10
+ },
+ {
+  "word": "una",
+  "start": 22.96,
+  "end": 23.13,
+  "sent": 10
+ },
+ {
+  "word": "muela",
+  "start": 23.13,
+  "end": 23.53,
+  "sent": 10
+ },
+ {
+  "word": "Es",
+  "start": 24.762,
+  "end": 24.942,
+  "sent": 11
+ },
+ {
+  "word": "mucho",
+  "start": 24.942,
+  "end": 25.222,
+  "sent": 11
+ },
+ {
+  "word": "más",
+  "start": 25.222,
+  "end": 25.392,
+  "sent": 11
+ },
+ {
+  "word": "grande",
+  "start": 25.392,
+  "end": 25.692,
+  "sent": 11
+ },
+ {
+  "word": "que",
+  "start": 25.692,
+  "end": 25.792,
+  "sent": 11
+ },
+ {
+  "word": "la",
+  "start": 25.792,
+  "end": 25.882,
+  "sent": 11
+ },
+ {
+  "word": "de",
+  "start": 25.882,
+  "end": 25.982,
+  "sent": 11
+ },
+ {
+  "word": "cualquier",
+  "start": 25.982,
+  "end": 26.352,
+  "sent": 11
+ },
+ {
+  "word": "gorila",
+  "start": 26.352,
+  "end": 26.822,
+  "sent": 11
+ },
+ {
+  "word": "Pertenecía",
+  "start": 26.879,
+  "end": 27.599,
+  "sent": 12
+ },
+ {
+  "word": "a",
+  "start": 27.599,
+  "end": 27.699,
+  "sent": 12
+ },
+ {
+  "word": "Gigantopithecus",
+  "start": 27.699,
+  "end": 28.679,
+  "sent": 12
+ },
+ {
+  "word": "el",
+  "start": 28.679,
+  "end": 28.869,
+  "sent": 12
+ },
+ {
+  "word": "primate",
+  "start": 28.869,
+  "end": 29.239,
+  "sent": 12
+ },
+ {
+  "word": "más",
+  "start": 29.239,
+  "end": 29.409,
+  "sent": 12
+ },
+ {
+  "word": "grande",
+  "start": 29.409,
+  "end": 29.709,
+  "sent": 12
+ },
+ {
+  "word": "que",
+  "start": 29.709,
+  "end": 29.799,
+  "sent": 12
+ },
+ {
+  "word": "ha",
+  "start": 29.799,
+  "end": 29.829,
+  "sent": 12
+ },
+ {
+  "word": "existido",
+  "start": 29.829,
+  "end": 30.399,
+  "sent": 12
+ },
+ {
+  "word": "Medía",
+  "start": 30.401,
+  "end": 30.821,
+  "sent": 13
+ },
+ {
+  "word": "hasta",
+  "start": 30.821,
+  "end": 31.191,
+  "sent": 13
+ },
+ {
+  "word": "tres",
+  "start": 31.191,
+  "end": 31.401,
+  "sent": 13
+ },
+ {
+  "word": "metros",
+  "start": 31.401,
+  "end": 31.901,
+  "sent": 13
+ },
+ {
+  "word": "Pesaba",
+  "start": 31.901,
+  "end": 32.401,
+  "sent": 14
+ },
+ {
+  "word": "hasta",
+  "start": 32.401,
+  "end": 32.701,
+  "sent": 14
+ },
+ {
+  "word": "trescientos",
+  "start": 32.701,
+  "end": 33.281,
+  "sent": 14
+ },
+ {
+  "word": "kilos",
+  "start": 33.281,
+  "end": 33.661,
+  "sent": 14
+ },
+ {
+  "word": "Vivió",
+  "start": 33.938,
+  "end": 34.288,
+  "sent": 15
+ },
+ {
+  "word": "en",
+  "start": 34.288,
+  "end": 34.378,
+  "sent": 15
+ },
+ {
+  "word": "el",
+  "start": 34.378,
+  "end": 34.468,
+  "sent": 15
+ },
+ {
+  "word": "sur",
+  "start": 34.468,
+  "end": 34.688,
+  "sent": 15
+ },
+ {
+  "word": "de",
+  "start": 34.688,
+  "end": 34.828,
+  "sent": 15
+ },
+ {
+  "word": "China",
+  "start": 34.828,
+  "end": 35.148,
+  "sent": 15
+ },
+ {
+  "word": "casi",
+  "start": 35.148,
+  "end": 35.438,
+  "sent": 15
+ },
+ {
+  "word": "dos",
+  "start": 35.438,
+  "end": 35.678,
+  "sent": 15
+ },
+ {
+  "word": "millones",
+  "start": 35.678,
+  "end": 36.068,
+  "sent": 15
+ },
+ {
+  "word": "de",
+  "start": 36.068,
+  "end": 36.188,
+  "sent": 15
+ },
+ {
+  "word": "años",
+  "start": 36.188,
+  "end": 36.638,
+  "sent": 15
+ },
+ {
+  "word": "Pero",
+  "start": 36.638,
+  "end": 36.868,
+  "sent": 16
+ },
+ {
+  "word": "los",
+  "start": 36.868,
+  "end": 37.028,
+  "sent": 16
+ },
+ {
+  "word": "bosques",
+  "start": 37.028,
+  "end": 37.378,
+  "sent": 16
+ },
+ {
+  "word": "se",
+  "start": 37.378,
+  "end": 37.468,
+  "sent": 16
+ },
+ {
+  "word": "secaron",
+  "start": 37.468,
+  "end": 37.978,
+  "sent": 16
+ },
+ {
+  "word": "El",
+  "start": 37.976,
+  "end": 38.146,
+  "sent": 17
+ },
+ {
+  "word": "gigante",
+  "start": 38.146,
+  "end": 38.546,
+  "sent": 17
+ },
+ {
+  "word": "no",
+  "start": 38.546,
+  "end": 38.676,
+  "sent": 17
+ },
+ {
+  "word": "supo",
+  "start": 38.676,
+  "end": 38.916,
+  "sent": 17
+ },
+ {
+  "word": "cambiar",
+  "start": 38.916,
+  "end": 39.216,
+  "sent": 17
+ },
+ {
+  "word": "su",
+  "start": 39.216,
+  "end": 39.356,
+  "sent": 17
+ },
+ {
+  "word": "dieta",
+  "start": 39.356,
+  "end": 39.736,
+  "sent": 17
+ },
+ {
+  "word": "Hace",
+  "start": 39.749,
+  "end": 40.089,
+  "sent": 18
+ },
+ {
+  "word": "más",
+  "start": 40.089,
+  "end": 40.269,
+  "sent": 18
+ },
+ {
+  "word": "de",
+  "start": 40.269,
+  "end": 40.359,
+  "sent": 18
+ },
+ {
+  "word": "doscientos",
+  "start": 40.359,
+  "end": 40.809,
+  "sent": 18
+ },
+ {
+  "word": "mil",
+  "start": 40.809,
+  "end": 40.979,
+  "sent": 18
+ },
+ {
+  "word": "años",
+  "start": 40.979,
+  "end": 41.319,
+  "sent": 18
+ },
+ {
+  "word": "desapareció",
+  "start": 41.319,
+  "end": 41.909,
+  "sent": 18
+ },
+ {
+  "word": "para",
+  "start": 41.909,
+  "end": 42.079,
+  "sent": 18
+ },
+ {
+  "word": "siempre",
+  "start": 42.079,
+  "end": 42.499,
+  "sent": 18
+ },
+ {
+  "word": "Fue",
+  "start": 42.575,
+  "end": 42.755,
+  "sent": 19
+ },
+ {
+  "word": "el",
+  "start": 42.755,
+  "end": 42.835,
+  "sent": 19
+ },
+ {
+  "word": "primer",
+  "start": 42.835,
+  "end": 43.125,
+  "sent": 19
+ },
+ {
+  "word": "gigante",
+  "start": 43.125,
+  "end": 43.535,
+  "sent": 19
+ },
+ {
+  "word": "real",
+  "start": 43.535,
+  "end": 43.905,
+  "sent": 19
+ },
+ {
+  "word": "Y",
+  "start": 43.945,
+  "end": 44.075,
+  "sent": 20
+ },
+ {
+  "word": "no",
+  "start": 44.075,
+  "end": 44.265,
+  "sent": 20
+ },
+ {
+  "word": "era",
+  "start": 44.265,
+  "end": 44.405,
+  "sent": 20
+ },
+ {
+  "word": "humano",
+  "start": 44.405,
+  "end": 44.805,
+  "sent": 20
+ },
+ {
+  "word": "Los",
+  "start": 44.808,
+  "end": 45.078,
+  "sent": 21
+ },
+ {
+  "word": "textos",
+  "start": 45.078,
+  "end": 45.418,
+  "sent": 21
+ },
+ {
+  "word": "antiguos",
+  "start": 45.418,
+  "end": 45.998,
+  "sent": 21
+ },
+ {
+  "word": "sí",
+  "start": 45.998,
+  "end": 46.308,
+  "sent": 21
+ },
+ {
+  "word": "hablan",
+  "start": 46.308,
+  "end": 46.568,
+  "sent": 21
+ },
+ {
+  "word": "de",
+  "start": 46.568,
+  "end": 46.688,
+  "sent": 21
+ },
+ {
+  "word": "gigantes",
+  "start": 46.688,
+  "end": 47.138,
+  "sent": 21
+ },
+ {
+  "word": "humanos",
+  "start": 47.138,
+  "end": 47.638,
+  "sent": 21
+ },
+ {
+  "word": "El",
+  "start": 47.641,
+  "end": 47.841,
+  "sent": 22
+ },
+ {
+  "word": "Génesis",
+  "start": 47.841,
+  "end": 48.281,
+  "sent": 22
+ },
+ {
+  "word": "menciona",
+  "start": 48.281,
+  "end": 48.741,
+  "sent": 22
+ },
+ {
+  "word": "a",
+  "start": 48.741,
+  "end": 48.941,
+  "sent": 22
+ },
+ {
+  "word": "los",
+  "start": 48.941,
+  "end": 49.111,
+  "sent": 22
+ },
+ {
+  "word": "nefilim",
+  "start": 49.111,
+  "end": 49.561,
+  "sent": 22
+ },
+ {
+  "word": "La",
+  "start": 49.885,
+  "end": 50.025,
+  "sent": 23
+ },
+ {
+  "word": "Biblia",
+  "start": 50.025,
+  "end": 50.525,
+  "sent": 23
+ },
+ {
+  "word": "describe",
+  "start": 50.525,
+  "end": 51.125,
+  "sent": 23
+ },
+ {
+  "word": "a",
+  "start": 51.125,
+  "end": 51.285,
+  "sent": 23
+ },
+ {
+  "word": "Goliat",
+  "start": 51.285,
+  "end": 51.755,
+  "sent": 23
+ },
+ {
+  "word": "de",
+  "start": 51.755,
+  "end": 51.915,
+  "sent": 23
+ },
+ {
+  "word": "Gat",
+  "start": 51.915,
+  "end": 52.155,
+  "sent": 23
+ },
+ {
+  "word": "Pero",
+  "start": 52.393,
+  "end": 52.613,
+  "sent": 24
+ },
+ {
+  "word": "su",
+  "start": 52.613,
+  "end": 52.733,
+  "sent": 24
+ },
+ {
+  "word": "altura",
+  "start": 52.733,
+  "end": 53.103,
+  "sent": 24
+ },
+ {
+  "word": "depende",
+  "start": 53.103,
+  "end": 53.503,
+  "sent": 24
+ },
+ {
+  "word": "del",
+  "start": 53.503,
+  "end": 53.613,
+  "sent": 24
+ },
+ {
+  "word": "manuscrito",
+  "start": 53.613,
+  "end": 54.283,
+  "sent": 24
+ },
+ {
+  "word": "El",
+  "start": 54.613,
+  "end": 54.733,
+  "sent": 25
+ },
+ {
+  "word": "texto",
+  "start": 54.733,
+  "end": 54.913,
+  "sent": 25
+ },
+ {
+  "word": "hebreo",
+  "start": 54.913,
+  "end": 55.283,
+  "sent": 25
+ },
+ {
+  "word": "dice",
+  "start": 55.283,
+  "end": 55.633,
+  "sent": 25
+ },
+ {
+  "word": "casi",
+  "start": 55.633,
+  "end": 55.993,
+  "sent": 25
+ },
+ {
+  "word": "tres",
+  "start": 55.993,
+  "end": 56.253,
+  "sent": 25
+ },
+ {
+  "word": "metros",
+  "start": 56.253,
+  "end": 56.823,
+  "sent": 25
+ },
+ {
+  "word": "Un",
+  "start": 56.827,
+  "end": 57.057,
+  "sent": 26
+ },
+ {
+  "word": "rollo",
+  "start": 57.057,
+  "end": 57.357,
+  "sent": 26
+ },
+ {
+  "word": "del",
+  "start": 57.357,
+  "end": 57.497,
+  "sent": 26
+ },
+ {
+  "word": "mar",
+  "start": 57.497,
+  "end": 57.707,
+  "sent": 26
+ },
+ {
+  "word": "Muerto",
+  "start": 57.707,
+  "end": 58.157,
+  "sent": 26
+ },
+ {
+  "word": "dice",
+  "start": 58.157,
+  "end": 58.437,
+  "sent": 26
+ },
+ {
+  "word": "solo",
+  "start": 58.437,
+  "end": 58.737,
+  "sent": 26
+ },
+ {
+  "word": "dos",
+  "start": 58.737,
+  "end": 59.187,
+  "sent": 26
+ },
+ {
+  "word": "Mil",
+  "start": 59.189,
+  "end": 59.539,
+  "sent": 27
+ },
+ {
+  "word": "quinientos",
+  "start": 59.539,
+  "end": 60.019,
+  "sent": 27
+ },
+ {
+  "word": "veinte",
+  "start": 60.019,
+  "end": 60.419,
+  "sent": 27
+ },
+ {
+  "word": "La",
+  "start": 60.416,
+  "end": 60.646,
+  "sent": 28
+ },
+ {
+  "word": "flota",
+  "start": 60.646,
+  "end": 60.926,
+  "sent": 28
+ },
+ {
+  "word": "de",
+  "start": 60.926,
+  "end": 61.056,
+  "sent": 28
+ },
+ {
+  "word": "Magallanes",
+  "start": 61.056,
+  "end": 61.686,
+  "sent": 28
+ },
+ {
+  "word": "pasa",
+  "start": 61.686,
+  "end": 61.966,
+  "sent": 28
+ },
+ {
+  "word": "el",
+  "start": 61.966,
+  "end": 62.046,
+  "sent": 28
+ },
+ {
+  "word": "invierno",
+  "start": 62.046,
+  "end": 62.476,
+  "sent": 28
+ },
+ {
+  "word": "en",
+  "start": 62.476,
+  "end": 62.566,
+  "sent": 28
+ },
+ {
+  "word": "San",
+  "start": 62.566,
+  "end": 62.796,
+  "sent": 28
+ },
+ {
+  "word": "Julián",
+  "start": 62.796,
+  "end": 63.276,
+  "sent": 28
+ },
+ {
+  "word": "en",
+  "start": 63.276,
+  "end": 63.446,
+  "sent": 28
+ },
+ {
+  "word": "el",
+  "start": 63.446,
+  "end": 63.546,
+  "sent": 28
+ },
+ {
+  "word": "sur",
+  "start": 63.546,
+  "end": 63.776,
+  "sent": 28
+ },
+ {
+  "word": "de",
+  "start": 63.776,
+  "end": 63.866,
+  "sent": 28
+ },
+ {
+  "word": "la",
+  "start": 63.866,
+  "end": 63.936,
+  "sent": 28
+ },
+ {
+  "word": "actual",
+  "start": 63.936,
+  "end": 64.226,
+  "sent": 28
+ },
+ {
+  "word": "Argentina",
+  "start": 64.226,
+  "end": 64.846,
+  "sent": 28
+ },
+ {
+  "word": "Su",
+  "start": 64.928,
+  "end": 65.098,
+  "sent": 29
+ },
+ {
+  "word": "cronista",
+  "start": 65.098,
+  "end": 65.668,
+  "sent": 29
+ },
+ {
+  "word": "Antonio",
+  "start": 65.668,
+  "end": 66.178,
+  "sent": 29
+ },
+ {
+  "word": "Pigafetta",
+  "start": 66.178,
+  "end": 66.818,
+  "sent": 29
+ },
+ {
+  "word": "escribe",
+  "start": 66.818,
+  "end": 67.358,
+  "sent": 29
+ },
+ {
+  "word": "que",
+  "start": 67.358,
+  "end": 67.478,
+  "sent": 29
+ },
+ {
+  "word": "un",
+  "start": 67.478,
+  "end": 67.628,
+  "sent": 29
+ },
+ {
+  "word": "nativo",
+  "start": 67.628,
+  "end": 68.088,
+  "sent": 29
+ },
+ {
+  "word": "era",
+  "start": 68.088,
+  "end": 68.268,
+  "sent": 29
+ },
+ {
+  "word": "tan",
+  "start": 68.268,
+  "end": 68.448,
+  "sent": 29
+ },
+ {
+  "word": "alto",
+  "start": 68.448,
+  "end": 68.758,
+  "sent": 29
+ },
+ {
+  "word": "que",
+  "start": 68.758,
+  "end": 68.868,
+  "sent": 29
+ },
+ {
+  "word": "los",
+  "start": 68.868,
+  "end": 69.038,
+  "sent": 29
+ },
+ {
+  "word": "europeos",
+  "start": 69.038,
+  "end": 69.558,
+  "sent": 29
+ },
+ {
+  "word": "le",
+  "start": 69.558,
+  "end": 69.668,
+  "sent": 29
+ },
+ {
+  "word": "llegaban",
+  "start": 69.668,
+  "end": 70.048,
+  "sent": 29
+ },
+ {
+  "word": "a",
+  "start": 70.048,
+  "end": 70.108,
+  "sent": 29
+ },
+ {
+  "word": "la",
+  "start": 70.108,
+  "end": 70.208,
+  "sent": 29
+ },
+ {
+  "word": "cintura",
+  "start": 70.208,
+  "end": 70.818,
+  "sent": 29
+ },
+ {
+  "word": "Magallanes",
+  "start": 70.816,
+  "end": 71.486,
+  "sent": 30
+ },
+ {
+  "word": "los",
+  "start": 71.486,
+  "end": 71.666,
+  "sent": 30
+ },
+ {
+  "word": "llama",
+  "start": 71.666,
+  "end": 72.056,
+  "sent": 30
+ },
+ {
+  "word": "patagones",
+  "start": 72.056,
+  "end": 72.906,
+  "sent": 30
+ },
+ {
+  "word": "La",
+  "start": 72.908,
+  "end": 73.168,
+  "sent": 31
+ },
+ {
+  "word": "tierra",
+  "start": 73.168,
+  "end": 73.528,
+  "sent": 31
+ },
+ {
+  "word": "recibe",
+  "start": 73.528,
+  "end": 73.918,
+  "sent": 31
+ },
+ {
+  "word": "su",
+  "start": 73.918,
+  "end": 74.058,
+  "sent": 31
+ },
+ {
+  "word": "nombre",
+  "start": 74.058,
+  "end": 74.478,
+  "sent": 31
+ },
+ {
+  "word": "Patagonia",
+  "start": 74.481,
+  "end": 75.221,
+  "sent": 32
+ },
+ {
+  "word": "Durante",
+  "start": 76.319,
+  "end": 76.699,
+  "sent": 33
+ },
+ {
+  "word": "dos",
+  "start": 76.699,
+  "end": 76.879,
+  "sent": 33
+ },
+ {
+  "word": "siglos",
+  "start": 76.879,
+  "end": 77.289,
+  "sent": 33
+ },
+ {
+  "word": "y",
+  "start": 77.289,
+  "end": 77.359,
+  "sent": 33
+ },
+ {
+  "word": "medio",
+  "start": 77.359,
+  "end": 77.8,
+  "sent": 33
+ },
+ {
+  "word": "Europa",
+  "start": 77.931,
+  "end": 78.364,
+  "sent": 33
+ },
+ {
+  "word": "creyó",
+  "start": 78.364,
+  "end": 78.744,
+  "sent": 33
+ },
+ {
+  "word": "que",
+  "start": 78.744,
+  "end": 78.834,
+  "sent": 33
+ },
+ {
+  "word": "en",
+  "start": 78.834,
+  "end": 78.924,
+  "sent": 33
+ },
+ {
+  "word": "el",
+  "start": 78.924,
+  "end": 79.044,
+  "sent": 33
+ },
+ {
+  "word": "fin",
+  "start": 79.044,
+  "end": 79.264,
+  "sent": 33
+ },
+ {
+  "word": "del",
+  "start": 79.264,
+  "end": 79.424,
+  "sent": 33
+ },
+ {
+  "word": "mundo",
+  "start": 79.424,
+  "end": 79.784,
+  "sent": 33
+ },
+ {
+  "word": "vivían",
+  "start": 79.784,
+  "end": 80.154,
+  "sent": 33
+ },
+ {
+  "word": "gigantes",
+  "start": 80.154,
+  "end": 80.813,
+  "sent": 33
+ },
+ {
+  "word": "En",
+  "start": 80.992,
+  "end": 81.116,
+  "sent": 34
+ },
+ {
+  "word": "mil",
+  "start": 81.116,
+  "end": 81.286,
+  "sent": 34
+ },
+ {
+  "word": "setecientos",
+  "start": 81.286,
+  "end": 81.846,
+  "sent": 34
+ },
+ {
+  "word": "setenta",
+  "start": 81.846,
+  "end": 82.226,
+  "sent": 34
+ },
+ {
+  "word": "y",
+  "start": 82.226,
+  "end": 82.346,
+  "sent": 34
+ },
+ {
+  "word": "tres",
+  "start": 82.346,
+  "end": 82.646,
+  "sent": 34
+ },
+ {
+  "word": "un",
+  "start": 82.793,
+  "end": 82.961,
+  "sent": 34
+ },
+ {
+  "word": "relato",
+  "start": 82.961,
+  "end": 83.361,
+  "sent": 34
+ },
+ {
+  "word": "británico",
+  "start": 83.361,
+  "end": 83.921,
+  "sent": 34
+ },
+ {
+  "word": "oficial",
+  "start": 83.921,
+  "end": 84.411,
+  "sent": 34
+ },
+ {
+  "word": "por",
+  "start": 84.411,
+  "end": 84.571,
+  "sent": 34
+ },
+ {
+  "word": "fin",
+  "start": 84.571,
+  "end": 84.791,
+  "sent": 34
+ },
+ {
+  "word": "los",
+  "start": 84.791,
+  "end": 85.001,
+  "sent": 34
+ },
+ {
+  "word": "midió",
+  "start": 85.001,
+  "end": 85.402,
+  "sent": 34
+ },
+ {
+  "word": "Un",
+  "start": 85.564,
+  "end": 85.748,
+  "sent": 35
+ },
+ {
+  "word": "metro",
+  "start": 85.748,
+  "end": 86.098,
+  "sent": 35
+ },
+ {
+  "word": "noventa",
+  "start": 86.098,
+  "end": 86.498,
+  "sent": 35
+ },
+ {
+  "word": "y",
+  "start": 86.498,
+  "end": 86.598,
+  "sent": 35
+ },
+ {
+  "word": "ocho",
+  "start": 86.598,
+  "end": 86.917,
+  "sent": 35
+ },
+ {
+  "word": "Altos",
+  "start": 87.387,
+  "end": 87.617,
+  "sent": 36
+ },
+ {
+  "word": "sí",
+  "start": 87.617,
+  "end": 87.94,
+  "sent": 36
+ },
+ {
+  "word": "Gigantes",
+  "start": 88.141,
+  "end": 88.911,
+  "sent": 37
+ },
+ {
+  "word": "no",
+  "start": 88.911,
+  "end": 89.234,
+  "sent": 37
+ },
+ {
+  "word": "Probablemente",
+  "start": 89.4,
+  "end": 90.214,
+  "sent": 38
+ },
+ {
+  "word": "eran",
+  "start": 90.214,
+  "end": 90.464,
+  "sent": 38
+ },
+ {
+  "word": "tehuelches",
+  "start": 90.464,
+  "end": 91.189,
+  "sent": 38
+ },
+ {
+  "word": "Volvemos",
+  "start": 91.382,
+  "end": 91.885,
+  "sent": 39
+ },
+ {
+  "word": "a",
+  "start": 91.885,
+  "end": 91.965,
+  "sent": 39
+ },
+ {
+  "word": "mil",
+  "start": 91.965,
+  "end": 92.205,
+  "sent": 39
+ },
+ {
+  "word": "ochocientos",
+  "start": 92.205,
+  "end": 92.845,
+  "sent": 39
+ },
+ {
+  "word": "sesenta",
+  "start": 92.845,
+  "end": 93.255,
+  "sent": 39
+ },
+ {
+  "word": "y",
+  "start": 93.255,
+  "end": 93.335,
+  "sent": 39
+ },
+ {
+  "word": "nueve",
+  "start": 93.335,
+  "end": 93.681,
+  "sent": 39
+ },
+ {
+  "word": "El",
+  "start": 93.862,
+  "end": 94.075,
+  "sent": 40
+ },
+ {
+  "word": "pie",
+  "start": 94.075,
+  "end": 94.255,
+  "sent": 40
+ },
+ {
+  "word": "de",
+  "start": 94.255,
+  "end": 94.415,
+  "sent": 40
+ },
+ {
+  "word": "piedra",
+  "start": 94.415,
+  "end": 94.795,
+  "sent": 40
+ },
+ {
+  "word": "pertenece",
+  "start": 94.795,
+  "end": 95.415,
+  "sent": 40
+ },
+ {
+  "word": "a",
+  "start": 95.415,
+  "end": 95.455,
+  "sent": 40
+ },
+ {
+  "word": "un",
+  "start": 95.455,
+  "end": 95.625,
+  "sent": 40
+ },
+ {
+  "word": "hombre",
+  "start": 95.625,
+  "end": 95.915,
+  "sent": 40
+ },
+ {
+  "word": "de",
+  "start": 95.915,
+  "end": 96.075,
+  "sent": 40
+ },
+ {
+  "word": "tres",
+  "start": 96.075,
+  "end": 96.345,
+  "sent": 40
+ },
+ {
+  "word": "metros",
+  "start": 96.345,
+  "end": 96.865,
+  "sent": 40
+ },
+ {
+  "word": "tendido",
+  "start": 97.007,
+  "end": 97.433,
+  "sent": 40
+ },
+ {
+  "word": "en",
+  "start": 97.433,
+  "end": 97.493,
+  "sent": 40
+ },
+ {
+  "word": "la",
+  "start": 97.493,
+  "end": 97.663,
+  "sent": 40
+ },
+ {
+  "word": "tierra",
+  "start": 97.663,
+  "end": 98.013,
+  "sent": 40
+ },
+ {
+  "word": "de",
+  "start": 98.013,
+  "end": 98.173,
+  "sent": 40
+ },
+ {
+  "word": "Cardiff",
+  "start": 98.173,
+  "end": 98.623,
+  "sent": 40
+ },
+ {
+  "word": "Nueva",
+  "start": 98.623,
+  "end": 98.943,
+  "sent": 40
+ },
+ {
+  "word": "York",
+  "start": 98.943,
+  "end": 99.328,
+  "sent": 40
+ },
+ {
+  "word": "Miles",
+  "start": 99.505,
+  "end": 99.845,
+  "sent": 41
+ },
+ {
+  "word": "de",
+  "start": 99.845,
+  "end": 99.975,
+  "sent": 41
+ },
+ {
+  "word": "personas",
+  "start": 99.975,
+  "end": 100.555,
+  "sent": 41
+ },
+ {
+  "word": "hacen",
+  "start": 100.555,
+  "end": 100.865,
+  "sent": 41
+ },
+ {
+  "word": "fila",
+  "start": 100.865,
+  "end": 101.225,
+  "sent": 41
+ },
+ {
+  "word": "para",
+  "start": 101.225,
+  "end": 101.445,
+  "sent": 41
+ },
+ {
+  "word": "verlo",
+  "start": 101.445,
+  "end": 101.826,
+  "sent": 41
+ },
+ {
+  "word": "Algunos",
+  "start": 101.989,
+  "end": 102.476,
+  "sent": 42
+ },
+ {
+  "word": "creen",
+  "start": 102.476,
+  "end": 102.796,
+  "sent": 42
+ },
+ {
+  "word": "que",
+  "start": 102.796,
+  "end": 102.946,
+  "sent": 42
+ },
+ {
+  "word": "es",
+  "start": 102.946,
+  "end": 103.096,
+  "sent": 42
+ },
+ {
+  "word": "un",
+  "start": 103.096,
+  "end": 103.246,
+  "sent": 42
+ },
+ {
+  "word": "gigante",
+  "start": 103.246,
+  "end": 103.766,
+  "sent": 42
+ },
+ {
+  "word": "bíblico",
+  "start": 103.766,
+  "end": 104.216,
+  "sent": 42
+ },
+ {
+  "word": "petrificado",
+  "start": 104.216,
+  "end": 105.075,
+  "sent": 42
+ },
+ {
+  "word": "El",
+  "start": 105.076,
+  "end": 105.193,
+  "sent": 43,
+  "approx": true
+ },
+ {
+  "word": "empresario",
+  "start": 105.203,
+  "end": 105.632,
+  "sent": 43,
+  "approx": true
+ },
+ {
+  "word": "Phineas",
+  "start": 105.669,
+  "end": 105.981,
+  "sent": 43,
+  "approx": true
+ },
+ {
+  "word": "Barnum",
+  "start": 106.008,
+  "end": 106.28,
+  "sent": 43,
+  "approx": true
+ },
+ {
+  "word": "ofrece",
+  "start": 106.304,
+  "end": 106.577,
+  "sent": 43,
+  "approx": true
+ },
+ {
+  "word": "cincuenta",
+  "start": 106.6,
+  "end": 106.99,
+  "sent": 43,
+  "approx": true
+ },
+ {
+  "word": "mil",
+  "start": 107.024,
+  "end": 107.18,
+  "sent": 43,
+  "approx": true
+ },
+ {
+  "word": "dólares",
+  "start": 107.193,
+  "end": 107.505,
+  "sent": 43,
+  "approx": true
+ },
+ {
+  "word": "por",
+  "start": 107.532,
+  "end": 107.688,
+  "sent": 43,
+  "approx": true
+ },
+ {
+  "word": "una",
+  "start": 107.701,
+  "end": 107.857,
+  "sent": 43,
+  "approx": true
+ },
+ {
+  "word": "parte",
+  "start": 107.871,
+  "end": 108.104,
+  "sent": 43,
+  "approx": true
+ },
+ {
+  "word": "Le",
+  "start": 108.314,
+  "end": 108.595,
+  "sent": 44,
+  "approx": true
+ },
+ {
+  "word": "dicen",
+  "start": 108.619,
+  "end": 109.181,
+  "sent": 44,
+  "approx": true
+ },
+ {
+  "word": "que",
+  "start": 109.229,
+  "end": 109.604,
+  "sent": 44,
+  "approx": true
+ },
+ {
+  "word": "no",
+  "start": 109.636,
+  "end": 109.917,
+  "sent": 44,
+  "approx": true
+ },
+ {
+  "word": "Entonces",
+  "start": 110.156,
+  "end": 110.507,
+  "sent": 45,
+  "approx": true
+ },
+ {
+  "word": "fabrica",
+  "start": 110.538,
+  "end": 110.85,
+  "sent": 45,
+  "approx": true
+ },
+ {
+  "word": "su",
+  "start": 110.877,
+  "end": 110.994,
+  "sent": 45,
+  "approx": true
+ },
+ {
+  "word": "propia",
+  "start": 111.004,
+  "end": 111.278,
+  "sent": 45,
+  "approx": true
+ },
+ {
+  "word": "copia",
+  "start": 111.301,
+  "end": 111.536,
+  "sent": 45,
+  "approx": true
+ },
+ {
+  "word": "Ahora",
+  "start": 111.732,
+  "end": 112.344,
+  "sent": 46,
+  "approx": true
+ },
+ {
+  "word": "hay",
+  "start": 112.397,
+  "end": 112.805,
+  "sent": 46,
+  "approx": true
+ },
+ {
+  "word": "dos",
+  "start": 112.84,
+  "end": 113.248,
+  "sent": 46,
+  "approx": true
+ },
+ {
+  "word": "gigantes",
+  "start": 113.283,
+  "end": 114.201,
+  "sent": 46,
+  "approx": true
+ },
+ {
+  "word": "Y",
+  "start": 114.519,
+  "end": 114.591,
+  "sent": 47,
+  "approx": true
+ },
+ {
+  "word": "cada",
+  "start": 114.597,
+  "end": 114.777,
+  "sent": 47,
+  "approx": true
+ },
+ {
+  "word": "dueño",
+  "start": 114.792,
+  "end": 115.008,
+  "sent": 47,
+  "approx": true
+ },
+ {
+  "word": "acusa",
+  "start": 115.026,
+  "end": 115.242,
+  "sent": 47,
+  "approx": true
+ },
+ {
+  "word": "al",
+  "start": 115.261,
+  "end": 115.368,
+  "sent": 47,
+  "approx": true
+ },
+ {
+  "word": "otro",
+  "start": 115.378,
+  "end": 115.557,
+  "sent": 47,
+  "approx": true
+ },
+ {
+  "word": "de",
+  "start": 115.573,
+  "end": 115.68,
+  "sent": 47,
+  "approx": true
+ },
+ {
+  "word": "mostrar",
+  "start": 115.69,
+  "end": 115.977,
+  "sent": 47,
+  "approx": true
+ },
+ {
+  "word": "un",
+  "start": 116.002,
+  "end": 116.109,
+  "sent": 47,
+  "approx": true
+ },
+ {
+  "word": "fraude",
+  "start": 116.119,
+  "end": 116.37,
+  "sent": 47,
+  "approx": true
+ },
+ {
+  "word": "El",
+  "start": 116.564,
+  "end": 116.733,
+  "sent": 48,
+  "approx": true
+ },
+ {
+  "word": "diez",
+  "start": 116.747,
+  "end": 117.029,
+  "sent": 48,
+  "approx": true
+ },
+ {
+  "word": "de",
+  "start": 117.053,
+  "end": 117.222,
+  "sent": 48,
+  "approx": true
+ },
+ {
+  "word": "diciembre",
+  "start": 117.236,
+  "end": 117.799,
+  "sent": 48,
+  "approx": true
+ },
+ {
+  "word": "George",
+  "start": 117.848,
+  "end": 118.241,
+  "sent": 48,
+  "approx": true
+ },
+ {
+  "word": "Hull",
+  "start": 118.276,
+  "end": 118.557,
+  "sent": 48,
+  "approx": true
+ },
+ {
+  "word": "confiesa",
+  "start": 118.581,
+  "end": 119.088,
+  "sent": 48,
+  "approx": true
+ },
+ {
+  "word": "Él",
+  "start": 119.293,
+  "end": 119.447,
+  "sent": 49,
+  "approx": true
+ },
+ {
+  "word": "mandó",
+  "start": 119.461,
+  "end": 119.769,
+  "sent": 49,
+  "approx": true
+ },
+ {
+  "word": "tallar",
+  "start": 119.796,
+  "end": 120.156,
+  "sent": 49,
+  "approx": true
+ },
+ {
+  "word": "la",
+  "start": 120.187,
+  "end": 120.342,
+  "sent": 49,
+  "approx": true
+ },
+ {
+  "word": "figura",
+  "start": 120.355,
+  "end": 120.715,
+  "sent": 49,
+  "approx": true
+ },
+ {
+  "word": "en",
+  "start": 120.747,
+  "end": 120.901,
+  "sent": 49,
+  "approx": true
+ },
+ {
+  "word": "yeso",
+  "start": 120.914,
+  "end": 121.172,
+  "sent": 49,
+  "approx": true
+ },
+ {
+  "word": "y",
+  "start": 121.194,
+  "end": 121.297,
+  "sent": 49,
+  "approx": true
+ },
+ {
+  "word": "la",
+  "start": 121.306,
+  "end": 121.46,
+  "sent": 49,
+  "approx": true
+ },
+ {
+  "word": "enterró",
+  "start": 121.473,
+  "end": 121.885,
+  "sent": 49,
+  "approx": true
+ },
+ {
+  "word": "un",
+  "start": 121.921,
+  "end": 122.075,
+  "sent": 49,
+  "approx": true
+ },
+ {
+  "word": "año",
+  "start": 122.088,
+  "end": 122.294,
+  "sent": 49,
+  "approx": true
+ },
+ {
+  "word": "antes",
+  "start": 122.312,
+  "end": 122.621,
+  "sent": 49,
+  "approx": true
+ },
+ {
+  "word": "en",
+  "start": 122.648,
+  "end": 122.802,
+  "sent": 49,
+  "approx": true
+ },
+ {
+  "word": "la",
+  "start": 122.815,
+  "end": 122.97,
+  "sent": 49,
+  "approx": true
+ },
+ {
+  "word": "granja",
+  "start": 122.983,
+  "end": 123.343,
+  "sent": 49,
+  "approx": true
+ },
+ {
+  "word": "de",
+  "start": 123.374,
+  "end": 123.529,
+  "sent": 49,
+  "approx": true
+ },
+ {
+  "word": "su",
+  "start": 123.542,
+  "end": 123.696,
+  "sent": 49,
+  "approx": true
+ },
+ {
+  "word": "primo",
+  "start": 123.71,
+  "end": 124.018,
+  "sent": 49,
+  "approx": true
+ },
+ {
+  "word": "Su",
+  "start": 124.167,
+  "end": 124.188,
+  "sent": 50,
+  "approx": true
+ },
+ {
+  "word": "ganancia",
+  "start": 124.19,
+  "end": 124.255,
+  "sent": 50,
+  "approx": true
+ },
+ {
+  "word": "unos",
+  "start": 124.475,
+  "end": 124.8,
+  "sent": 51,
+  "approx": true
+ },
+ {
+  "word": "veinte",
+  "start": 124.828,
+  "end": 125.283,
+  "sent": 51,
+  "approx": true
+ },
+ {
+  "word": "mil",
+  "start": 125.322,
+  "end": 125.582,
+  "sent": 51,
+  "approx": true
+ },
+ {
+  "word": "dólares",
+  "start": 125.605,
+  "end": 126.124,
+  "sent": 51,
+  "approx": true
+ },
+ {
+  "word": "Pero",
+  "start": 126.381,
+  "end": 126.499,
+  "sent": 52,
+  "approx": true
+ },
+ {
+  "word": "un",
+  "start": 126.509,
+  "end": 126.581,
+  "sent": 52,
+  "approx": true
+ },
+ {
+  "word": "gigante",
+  "start": 126.587,
+  "end": 126.776,
+  "sent": 52,
+  "approx": true
+ },
+ {
+  "word": "humano",
+  "start": 126.793,
+  "end": 126.958,
+  "sent": 52,
+  "approx": true
+ },
+ {
+  "word": "sí",
+  "start": 126.973,
+  "end": 127.044,
+  "sent": 52,
+  "approx": true
+ },
+ {
+  "word": "existió",
+  "start": 127.05,
+  "end": 127.24,
+  "sent": 52,
+  "approx": true
+ },
+ {
+  "word": "Robert",
+  "start": 127.41,
+  "end": 127.842,
+  "sent": 53,
+  "approx": true
+ },
+ {
+  "word": "Wadlow",
+  "start": 127.88,
+  "end": 128.312,
+  "sent": 53,
+  "approx": true
+ },
+ {
+  "word": "nació",
+  "start": 128.35,
+  "end": 128.72,
+  "sent": 53,
+  "approx": true
+ },
+ {
+  "word": "en",
+  "start": 128.752,
+  "end": 128.937,
+  "sent": 53,
+  "approx": true
+ },
+ {
+  "word": "Alton",
+  "start": 128.953,
+  "end": 129.324,
+  "sent": 53,
+  "approx": true
+ },
+ {
+  "word": "Illinois",
+  "start": 129.356,
+  "end": 129.911,
+  "sent": 53,
+  "approx": true
+ },
+ {
+  "word": "en",
+  "start": 129.96,
+  "end": 130.145,
+  "sent": 53,
+  "approx": true
+ },
+ {
+  "word": "mil",
+  "start": 130.161,
+  "end": 130.408,
+  "sent": 53,
+  "approx": true
+ },
+ {
+  "word": "novecientos",
+  "start": 130.429,
+  "end": 131.17,
+  "sent": 53,
+  "approx": true
+ },
+ {
+  "word": "dieciocho",
+  "start": 131.235,
+  "end": 131.852,
+  "sent": 53,
+  "approx": true
+ },
+ {
+  "word": "Una",
+  "start": 132.046,
+  "end": 132.203,
+  "sent": 54,
+  "approx": true
+ },
+ {
+  "word": "glándula",
+  "start": 132.217,
+  "end": 132.571,
+  "sent": 54,
+  "approx": true
+ },
+ {
+  "word": "enferma",
+  "start": 132.601,
+  "end": 132.916,
+  "sent": 54,
+  "approx": true
+ },
+ {
+  "word": "la",
+  "start": 132.943,
+  "end": 133.061,
+  "sent": 54,
+  "approx": true
+ },
+ {
+  "word": "hipófisis",
+  "start": 133.071,
+  "end": 133.464,
+  "sent": 54,
+  "approx": true
+ },
+ {
+  "word": "nunca",
+  "start": 133.499,
+  "end": 133.734,
+  "sent": 54,
+  "approx": true
+ },
+ {
+  "word": "dejó",
+  "start": 133.755,
+  "end": 133.951,
+  "sent": 54,
+  "approx": true
+ },
+ {
+  "word": "de",
+  "start": 133.969,
+  "end": 134.086,
+  "sent": 54,
+  "approx": true
+ },
+ {
+  "word": "hacerle",
+  "start": 134.097,
+  "end": 134.411,
+  "sent": 54,
+  "approx": true
+ },
+ {
+  "word": "crecer",
+  "start": 134.439,
+  "end": 134.714,
+  "sent": 54,
+  "approx": true
+ },
+ {
+  "word": "El",
+  "start": 135.082,
+  "end": 135.24,
+  "sent": 55,
+  "approx": true
+ },
+ {
+  "word": "veintisiete",
+  "start": 135.254,
+  "end": 135.888,
+  "sent": 55,
+  "approx": true
+ },
+ {
+  "word": "de",
+  "start": 135.943,
+  "end": 136.101,
+  "sent": 55,
+  "approx": true
+ },
+ {
+  "word": "junio",
+  "start": 136.115,
+  "end": 136.432,
+  "sent": 55,
+  "approx": true
+ },
+ {
+  "word": "de",
+  "start": 136.459,
+  "end": 136.618,
+  "sent": 55,
+  "approx": true
+ },
+ {
+  "word": "mil",
+  "start": 136.632,
+  "end": 136.843,
+  "sent": 55,
+  "approx": true
+ },
+ {
+  "word": "novecientos",
+  "start": 136.861,
+  "end": 137.495,
+  "sent": 55,
+  "approx": true
+ },
+ {
+  "word": "cuarenta",
+  "start": 137.55,
+  "end": 138.026,
+  "sent": 55,
+  "approx": true
+ },
+ {
+  "word": "midió",
+  "start": 138.067,
+  "end": 138.384,
+  "sent": 55,
+  "approx": true
+ },
+ {
+  "word": "dos",
+  "start": 138.411,
+  "end": 138.623,
+  "sent": 55,
+  "approx": true
+ },
+ {
+  "word": "metros",
+  "start": 138.641,
+  "end": 139.011,
+  "sent": 55,
+  "approx": true
+ },
+ {
+  "word": "y",
+  "start": 139.043,
+  "end": 139.149,
+  "sent": 55,
+  "approx": true
+ },
+ {
+  "word": "setenta",
+  "start": 139.158,
+  "end": 139.58,
+  "sent": 55,
+  "approx": true
+ },
+ {
+  "word": "y",
+  "start": 139.617,
+  "end": 139.723,
+  "sent": 55,
+  "approx": true
+ },
+ {
+  "word": "dos",
+  "start": 139.732,
+  "end": 139.943,
+  "sent": 55,
+  "approx": true
+ },
+ {
+  "word": "centímetros",
+  "start": 139.962,
+  "end": 140.595,
+  "sent": 55,
+  "approx": true
+ },
+ {
+  "word": "Nadie",
+  "start": 140.825,
+  "end": 141.175,
+  "sent": 56,
+  "approx": true
+ },
+ {
+  "word": "lo",
+  "start": 141.205,
+  "end": 141.38,
+  "sent": 56,
+  "approx": true
+ },
+ {
+  "word": "ha",
+  "start": 141.395,
+  "end": 141.57,
+  "sent": 56,
+  "approx": true
+ },
+ {
+  "word": "superado",
+  "start": 141.585,
+  "end": 142.109,
+  "sent": 56,
+  "approx": true
+ },
+ {
+  "word": "jamás",
+  "start": 142.155,
+  "end": 142.504,
+  "sent": 56,
+  "approx": true
+ },
+ {
+  "word": "Murió",
+  "start": 142.714,
+  "end": 143.04,
+  "sent": 57,
+  "approx": true
+ },
+ {
+  "word": "menos",
+  "start": 143.068,
+  "end": 143.394,
+  "sent": 57,
+  "approx": true
+ },
+ {
+  "word": "de",
+  "start": 143.422,
+  "end": 143.585,
+  "sent": 57,
+  "approx": true
+ },
+ {
+  "word": "tres",
+  "start": 143.599,
+  "end": 143.87,
+  "sent": 57,
+  "approx": true
+ },
+ {
+  "word": "semanas",
+  "start": 143.894,
+  "end": 144.328,
+  "sent": 57,
+  "approx": true
+ },
+ {
+  "word": "después",
+  "start": 144.365,
+  "end": 144.799,
+  "sent": 57,
+  "approx": true
+ },
+ {
+  "word": "Tenía",
+  "start": 145.028,
+  "end": 145.41,
+  "sent": 58,
+  "approx": true
+ },
+ {
+  "word": "veintidós",
+  "start": 145.443,
+  "end": 146.08,
+  "sent": 58,
+  "approx": true
+ },
+ {
+  "word": "años",
+  "start": 146.135,
+  "end": 146.453,
+  "sent": 58,
+  "approx": true
+ },
+ {
+  "word": "Los",
+  "start": 146.686,
+  "end": 146.896,
+  "sent": 59,
+  "approx": true
+ },
+ {
+  "word": "primeros",
+  "start": 146.914,
+  "end": 147.387,
+  "sent": 59,
+  "approx": true
+ },
+ {
+  "word": "gigantes",
+  "start": 147.428,
+  "end": 147.901,
+  "sent": 59,
+  "approx": true
+ },
+ {
+  "word": "del",
+  "start": 147.942,
+  "end": 148.152,
+  "sent": 59,
+  "approx": true
+ },
+ {
+  "word": "mundo",
+  "start": 148.17,
+  "end": 148.485,
+  "sent": 59,
+  "approx": true
+ },
+ {
+  "word": "fueron",
+  "start": 148.513,
+  "end": 148.88,
+  "sent": 59,
+  "approx": true
+ },
+ {
+  "word": "simios",
+  "start": 148.912,
+  "end": 149.28,
+  "sent": 59,
+  "approx": true
+ },
+ {
+  "word": "Los",
+  "start": 149.483,
+  "end": 149.701,
+  "sent": 60,
+  "approx": true
+ },
+ {
+  "word": "demás",
+  "start": 149.72,
+  "end": 150.047,
+  "sent": 60,
+  "approx": true
+ },
+ {
+  "word": "nacieron",
+  "start": 150.075,
+  "end": 150.565,
+  "sent": 60,
+  "approx": true
+ },
+ {
+  "word": "en",
+  "start": 150.608,
+  "end": 150.771,
+  "sent": 60,
+  "approx": true
+ },
+ {
+  "word": "manuscritos",
+  "start": 150.785,
+  "end": 151.439,
+  "sent": 60,
+  "approx": true
+ },
+ {
+  "word": "en",
+  "start": 151.495,
+  "end": 151.659,
+  "sent": 60,
+  "approx": true
+ },
+ {
+  "word": "diarios",
+  "start": 151.673,
+  "end": 152.108,
+  "sent": 60,
+  "approx": true
+ },
+ {
+  "word": "de",
+  "start": 152.146,
+  "end": 152.31,
+  "sent": 60,
+  "approx": true
+ },
+ {
+  "word": "viaje",
+  "start": 152.324,
+  "end": 152.651,
+  "sent": 60,
+  "approx": true
+ },
+ {
+  "word": "y",
+  "start": 152.679,
+  "end": 152.788,
+  "sent": 60,
+  "approx": true
+ },
+ {
+  "word": "en",
+  "start": 152.797,
+  "end": 152.961,
+  "sent": 60,
+  "approx": true
+ },
+ {
+  "word": "el",
+  "start": 152.975,
+  "end": 153.138,
+  "sent": 60,
+  "approx": true
+ },
+ {
+  "word": "yeso",
+  "start": 153.152,
+  "end": 153.425,
+  "sent": 60,
+  "approx": true
+ },
+ {
+  "word": "de",
+  "start": 153.448,
+  "end": 153.612,
+  "sent": 60,
+  "approx": true
+ },
+ {
+  "word": "un",
+  "start": 153.626,
+  "end": 153.789,
+  "sent": 60,
+  "approx": true
+ },
+ {
+  "word": "estafador",
+  "start": 153.803,
+  "end": 154.348,
+  "sent": 60,
+  "approx": true
+ },
+ {
+  "word": "Y",
+  "start": 154.608,
+  "end": 154.713,
+  "sent": 61,
+  "approx": true
+ },
+ {
+  "word": "el",
+  "start": 154.722,
+  "end": 154.879,
+  "sent": 61,
+  "approx": true
+ },
+ {
+  "word": "único",
+  "start": 154.893,
+  "end": 155.207,
+  "sent": 61,
+  "approx": true
+ },
+ {
+  "word": "gigante",
+  "start": 155.235,
+  "end": 155.654,
+  "sent": 61,
+  "approx": true
+ },
+ {
+  "word": "humano",
+  "start": 155.691,
+  "end": 156.058,
+  "sent": 61,
+  "approx": true
+ },
+ {
+  "word": "real",
+  "start": 156.09,
+  "end": 156.352,
+  "sent": 61,
+  "approx": true
+ },
+ {
+  "word": "no",
+  "start": 156.375,
+  "end": 156.533,
+  "sent": 61,
+  "approx": true
+ },
+ {
+  "word": "fue",
+  "start": 156.546,
+  "end": 156.756,
+  "sent": 61,
+  "approx": true
+ },
+ {
+  "word": "un",
+  "start": 156.774,
+  "end": 156.932,
+  "sent": 61,
+  "approx": true
+ },
+ {
+  "word": "monstruo",
+  "start": 156.945,
+  "end": 157.417,
+  "sent": 61,
+  "approx": true
+ },
+ {
+  "word": "Fue",
+  "start": 157.677,
+  "end": 157.873,
+  "sent": 62,
+  "approx": true
+ },
+ {
+  "word": "un",
+  "start": 157.89,
+  "end": 158.038,
+  "sent": 62,
+  "approx": true
+ },
+ {
+  "word": "joven",
+  "start": 158.051,
+  "end": 158.345,
+  "sent": 62,
+  "approx": true
+ },
+ {
+  "word": "amable",
+  "start": 158.371,
+  "end": 158.714,
+  "sent": 62,
+  "approx": true
+ },
+ {
+  "word": "que",
+  "start": 158.744,
+  "end": 158.941,
+  "sent": 62,
+  "approx": true
+ },
+ {
+  "word": "solo",
+  "start": 158.958,
+  "end": 159.203,
+  "sent": 62,
+  "approx": true
+ },
+ {
+  "word": "quería",
+  "start": 159.225,
+  "end": 159.568,
+  "sent": 62,
+  "approx": true
+ },
+ {
+  "word": "caber",
+  "start": 159.598,
+  "end": 159.893,
+  "sent": 62,
+  "approx": true
+ },
+ {
+  "word": "en",
+  "start": 159.918,
+  "end": 160.066,
+  "sent": 62,
+  "approx": true
+ },
+ {
+  "word": "el",
+  "start": 160.079,
+  "end": 160.226,
+  "sent": 62,
+  "approx": true
+ },
+ {
+  "word": "mundo",
+  "start": 160.239,
+  "end": 160.533,
+  "sent": 62,
+  "approx": true
+ }
+]

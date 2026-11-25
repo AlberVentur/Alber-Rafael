@@ -1,5 +1,5 @@
 # Project STATUS
-- Current stage: **Stage 6 (Collect)**: voice confirmed final by viewer (in/vo.wav from upload_01.mov, 180.0 s). Images: batch 1 received (14 files in in/). ALL look AI-generated (same 2576x1405 size, garbled captions), incl. real people (Koenigswald, Barnum/Hull, Wadlow, Magellan) and real artifacts -> conflicts with MASTER-PROMPT rule; viewer switched to OPTION 2: use the AI images, every AI image of a real person/artifact/document gets a typewriter tape label "RECREACIÓN". Wikimedia blocked from this container. 04 is 512 px (too small). 15 bosque missing. 11a/11b Brady portraits: which is Barnum/Hull unclear. Waiting for zip; build only after "start"
+- Current stage: **Stage 7 (Build)** done -> 99-exports/primeros-gigantes.mp4 (161.6 s). Waiting for Stage 8 revisions
 - Video slug: primeros-gigantes (viewer's own topic: "los primeros gigantes del mundo")
 - Files: 02-videos/primeros-gigantes/research.md, script.md, script_spoken.txt, script_spoken_500.md (6 parts ≤500 chars -> vo_01..vo_06.mp3), assets.md
 - Setup: SETUP OK (2026-11-25). 4 cores, no GPU, 16 GB RAM, ~0.133 s/frame at 1080p (about 40 min for a 10-min video)
@@ -23,3 +23,10 @@
 - Topic: viewer's own. Angle chosen: case file "did giants exist? myth, exaggeration, hoax, science" (5 cases)
 - Length: 3 min (viewer chose directly, skipping the Stage 3 menu). Script 467 words written / 489 spoken, Spanish. Est. render ~12 min
 - Note for Stage 7: align.py is English-only (en-us model, ASCII regex) -> need Spanish pocketsphinx model or the approximate silence-map fallback
+
+## Stage 7 build notes
+- Defaults applied at "start": 04 reconstruction skipped (512 px), 15 forest skipped, 11b = Barnum, 11a = Hull.
+- Voice: trimmed 180.0 -> 160.56 s. Spanish alignment: CMU Sphinx es model (SourceForge) + tools/voice/align_es*.py.
+  Parts 1-4 word-aligned (DP per TTS part); last ~55 s (from "El empresario Phineas Barnum") approximate (pause-snapped).
+- Desk seed 17. Maps: 1938 S. China, 1700 S. America, 1880 NE USA. Mix -17.6 LUFS, TP -1.5 dBTP.
+- Code: 00-setup/engine/src/videos/primeros-gigantes/{Video.tsx,parts.tsx,timeline.json}; timeline from 02-videos/primeros-gigantes/gen_timeline.py
