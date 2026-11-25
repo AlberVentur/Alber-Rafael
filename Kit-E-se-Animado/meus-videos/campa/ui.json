@@ -1,0 +1,22 @@
+{
+ "duracao": 575.0,
+ "palavrasPorLegenda": 4,
+ "destaques": [
+  "crush",
+  "Lucía",
+  "Ramírez",
+  "linterna"
+ ],
+ "trocas": {
+  "1968": "1968",
+  "1959": "1959",
+  "1997": "1997",
+  "1974": "1974"
+ },
+ "elementos": [
+  { "tipo": "placa", "inicio": 144.7, "fim": 150.9, "numero": "1968", "rotulo": "ROBERT ZAJONC · EL EFECTO DE MERA EXPOSICIÓN" },
+  { "tipo": "placa", "inicio": 216.5, "fim": 222.7, "numero": "1959", "rotulo": "STANLEY SCHACHTER · EL MIEDO BUSCA COMPAÑÍA" },
+  { "tipo": "placa", "inicio": 293.4, "fim": 299.6, "numero": "1997", "rotulo": "ARTHUR ARON · LAS 36 PREGUNTAS" },
+  { "tipo": "placa", "inicio": 405.8, "fim": 412.0, "numero": "1974", "rotulo": "DUTTON Y ARON · EL PUENTE COLGANTE" }
+ ]
+}
