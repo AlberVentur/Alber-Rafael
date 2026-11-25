@@ -1,7 +1,7 @@
 # Project STATUS
 - Current stage: **Stage 4 (Script)**: script.md + script_spoken.txt written, waiting for approval
 - Video slug: primeros-gigantes (viewer's own topic: "los primeros gigantes del mundo")
-- Files: 02-videos/primeros-gigantes/research.md, script.md, script_spoken.txt
+- Files: 02-videos/primeros-gigantes/research.md, script.md, script_spoken.txt, script_spoken_500.md (6 parts ≤500 chars -> vo_01..vo_06.mp3)
 - Setup: SETUP OK (2026-11-25). 4 cores, no GPU, 16 GB RAM, ~0.133 s/frame at 1080p (about 40 min for a 10-min video)
 - Web search: works
 - Limits: huggingface.co blocked (not needed); fonts.googleapis.com 404 (fonts come from npm); container is temporary
