@@ -1,7 +1,7 @@
 # Project STATUS
-- Current stage: **Stage 2 (Research)**: research.md written, waiting for approval
+- Current stage: **Stage 4 (Script)**: script.md + script_spoken.txt written, waiting for approval
 - Video slug: primeros-gigantes (viewer's own topic: "los primeros gigantes del mundo")
-- Files: 02-videos/primeros-gigantes/research.md
+- Files: 02-videos/primeros-gigantes/research.md, script.md, script_spoken.txt
 - Setup: SETUP OK (2026-11-25). 4 cores, no GPU, 16 GB RAM, ~0.133 s/frame at 1080p (about 40 min for a 10-min video)
 - Web search: works
 - Limits: huggingface.co blocked (not needed); fonts.googleapis.com 404 (fonts come from npm); container is temporary
@@ -21,3 +21,5 @@
 ## Decisions
 - Viewer language: Spanish (all replies in Spanish)
 - Topic: viewer's own. Angle chosen: case file "did giants exist? myth, exaggeration, hoax, science" (5 cases)
+- Length: 3 min (viewer chose directly, skipping the Stage 3 menu). Script 467 words written / 489 spoken, Spanish. Est. render ~12 min
+- Note for Stage 7: align.py is English-only (en-us model, ASCII regex) -> need Spanish pocketsphinx model or the approximate silence-map fallback
