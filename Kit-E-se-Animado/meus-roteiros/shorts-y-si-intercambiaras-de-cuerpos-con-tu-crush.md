@@ -6,11 +6,11 @@
 
 Corres al espejo… y te mira ella.
 
-Suena su móvil. Es tu propia voz, gritando: "¿Por qué tu cuarto huele a calcetín?"
+Suena su móvil. Es tu propia voz: "¿Por qué tu cuarto huele a calcetín?"
 
-Lo más raro: sus manos las sientes tuyas. Y es real. En 2008, unos científicos suecos lo probaron. Con gafas de realidad virtual, la gente llegaba a sentir que el cuerpo de un maniquí era el suyo.
+Y sus manos las sientes tuyas. En 2008, unos científicos suecos lo probaron. Con gafas de realidad virtual, la gente llegaba a sentir que el cuerpo de un maniquí era el suyo.
 
-Pero lo peor llega en el recreo. Su mejor amiga te dice: "¿Hoy sí se lo vas a decir? Al que miras desde septiembre."
+En el recreo, su mejor amiga te dice: "¿Hoy sí se lo vas a decir? Al que miras desde septiembre."
 
 Y te señala… a ti.
 
