@@ -1,0 +1,53 @@
+{
+  "duracao": 575.0,
+  "palavrasPorLegenda": 4,
+  "destaques": [
+    "crush",
+    "crush.",
+    "Marcos",
+    "Sara",
+    "ranas",
+    "calcetín?",
+    "kétchup.",
+    "maniquí",
+    "espejo",
+    "foco.",
+    "transparencia."
+  ],
+  "trocas": {
+    "2008": "2008",
+    "1977": "1977",
+    "2000": "2000",
+    "1998": "1998"
+  },
+  "elementos": [
+    {
+      "tipo": "placa",
+      "inicio": 101.6,
+      "fim": 107.8,
+      "numero": "2008",
+      "rotulo": "PETKOVA Y EHRSSON · ILUSIÓN DE CAMBIO DE CUERPO"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 227.8,
+      "fim": 233.4,
+      "numero": "1977",
+      "rotulo": "MITA, DERMER Y KNIGHT · LA CARA DEL ESPEJO"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 294.7,
+      "fim": 300.0,
+      "numero": "2000",
+      "rotulo": "THOMAS GILOVICH · EL EFECTO FOCO"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 454.4,
+      "fim": 458.8,
+      "numero": "1998",
+      "rotulo": "THOMAS GILOVICH · LA ILUSIÓN DE TRANSPARENCIA"
+    }
+  ]
+}
