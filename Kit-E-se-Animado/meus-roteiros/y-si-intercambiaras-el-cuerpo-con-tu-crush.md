@@ -1,4 +1,4 @@
-# Guion: ¿Y si intercambiaras el cuerpo con tu crush? (YouTube horizontal, ~9-10 min)
+# Guion: ¿Y si intercambiaras de cuerpos con tu crush? ¿Qué pasaría? (YouTube horizontal, ~10 min)
 
 ## Narración (para grabar o pegar en ElevenLabs)
 
@@ -37,6 +37,30 @@ Esto, aunque parezca imposible, la ciencia lo ha probado. Bueno, más o menos. E
 Y hay más. En otra prueba, el voluntario veía a través de los ojos de otra persona. Y cuando se daban la mano, mucha gente sentía que estaba estrechándose la mano… a sí misma.
 
 Nuestro cerebro decide cuál es nuestro cuerpo usando lo que ve y lo que siente. Y se le puede engañar.
+
+Bajas a la cocina. Su madre está haciendo tostadas.
+
+"Buenos días, cariño. ¿Has dormido bien?"
+
+"Eh… sí. Muy bien… mamá."
+
+Te sale rarísimo.
+
+En la mesa está su hermano pequeño, mirándote con los ojos entrecerrados. "¿Por qué te sientas así? Pareces un chico."
+
+Te pones recta de golpe. Coges una tostada. Le pones mantequilla, mermelada y… kétchup. Como haces tú siempre.
+
+Su madre deja de masticar. Su hermano deja de masticar.
+
+"Es… una moda nueva", dices. "Sale en internet."
+
+Y te comes la tostada entera. Con kétchup. Sin respirar.
+
+Su móvil vibra en tu bolsillo. Un mensaje de ella. Bueno, de tu cuerpo.
+
+"Tu madre me ha dado un beso en la frente y me ha llamado campeón. ¿Esto es normal?"
+
+"Sí", le contestas. "Disimula."
 
 Quedáis a las ocho menos cuarto en la esquina del instituto. Y ahí, por primera vez, te ves a ti mismo. Desde fuera.
 
