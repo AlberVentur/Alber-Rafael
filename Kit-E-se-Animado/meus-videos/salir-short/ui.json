@@ -1,0 +1,27 @@
+{
+  "duracao": 41.5,
+  "palavrasPorLegenda": 3,
+  "destaques": [
+    "salir?",
+    "sábado?",
+    "mil.",
+    "Kamikaze.",
+    "1974,",
+    "amor.",
+    "granizado",
+    "fatal.",
+    "creemos.",
+    "¿Repetimos?",
+    "vídeos."
+  ],
+  "trocas": {},
+  "elementos": [
+    {
+      "tipo": "placa",
+      "inicio": 16.0,
+      "fim": 19.1,
+      "numero": "1974",
+      "rotulo": "DUTTON Y ARON · EL PUENTE COLGANTE"
+    }
+  ]
+}
