@@ -1,0 +1,218 @@
+{
+  "voz": "es-MX-JorgeNeural",
+  "rate": "+5%",
+  "pitch": "-10Hz",
+  "texto": "Eran las tres treinta y tres de la madrugada. Afuera llovía sin parar, y en la tienda solo se escuchaba el zumbido de las lámparas. Entonces sonó la campanita de la puerta. Una señora con rebozo negro entró despacio... y me miró.",
+  "palabras": [
+    {
+      "palabra": "Eran",
+      "inicio": 0.098,
+      "fin": 0.383
+    },
+    {
+      "palabra": "las",
+      "inicio": 0.395,
+      "fin": 0.562
+    },
+    {
+      "palabra": "tres",
+      "inicio": 0.574,
+      "fin": 0.824
+    },
+    {
+      "palabra": "treinta",
+      "inicio": 0.836,
+      "fin": 1.133
+    },
+    {
+      "palabra": "y",
+      "inicio": 1.145,
+      "fin": 1.217
+    },
+    {
+      "palabra": "tres",
+      "inicio": 1.229,
+      "fin": 1.49
+    },
+    {
+      "palabra": "de",
+      "inicio": 1.502,
+      "fin": 1.574
+    },
+    {
+      "palabra": "la",
+      "inicio": 1.586,
+      "fin": 1.657
+    },
+    {
+      "palabra": "madrugada",
+      "inicio": 1.669,
+      "fin": 2.276
+    },
+    {
+      "palabra": "Afuera",
+      "inicio": 3.095,
+      "fin": 3.464
+    },
+    {
+      "palabra": "llovía",
+      "inicio": 3.476,
+      "fin": 3.81
+    },
+    {
+      "palabra": "sin",
+      "inicio": 3.821,
+      "fin": 4.012
+    },
+    {
+      "palabra": "parar",
+      "inicio": 4.024,
+      "fin": 4.309
+    },
+    {
+      "palabra": "y",
+      "inicio": 4.631,
+      "fin": 4.69
+    },
+    {
+      "palabra": "en",
+      "inicio": 4.702,
+      "fin": 4.798
+    },
+    {
+      "palabra": "la",
+      "inicio": 4.81,
+      "fin": 4.893
+    },
+    {
+      "palabra": "tienda",
+      "inicio": 4.905,
+      "fin": 5.238
+    },
+    {
+      "palabra": "solo",
+      "inicio": 5.25,
+      "fin": 5.524
+    },
+    {
+      "palabra": "se",
+      "inicio": 5.536,
+      "fin": 5.643
+    },
+    {
+      "palabra": "escuchaba",
+      "inicio": 5.655,
+      "fin": 6.119
+    },
+    {
+      "palabra": "el",
+      "inicio": 6.131,
+      "fin": 6.19
+    },
+    {
+      "palabra": "zumbido",
+      "inicio": 6.202,
+      "fin": 6.619
+    },
+    {
+      "palabra": "de",
+      "inicio": 6.631,
+      "fin": 6.726
+    },
+    {
+      "palabra": "las",
+      "inicio": 6.738,
+      "fin": 6.905
+    },
+    {
+      "palabra": "lámparas",
+      "inicio": 6.917,
+      "fin": 7.524
+    },
+    {
+      "palabra": "Entonces",
+      "inicio": 8.345,
+      "fin": 8.857
+    },
+    {
+      "palabra": "sonó",
+      "inicio": 8.869,
+      "fin": 9.107
+    },
+    {
+      "palabra": "la",
+      "inicio": 9.119,
+      "fin": 9.214
+    },
+    {
+      "palabra": "campanita",
+      "inicio": 9.226,
+      "fin": 9.774
+    },
+    {
+      "palabra": "de",
+      "inicio": 9.786,
+      "fin": 9.893
+    },
+    {
+      "palabra": "la",
+      "inicio": 9.905,
+      "fin": 10.0
+    },
+    {
+      "palabra": "puerta",
+      "inicio": 10.012,
+      "fin": 10.44
+    },
+    {
+      "palabra": "Una",
+      "inicio": 11.262,
+      "fin": 11.464
+    },
+    {
+      "palabra": "señora",
+      "inicio": 11.476,
+      "fin": 11.905
+    },
+    {
+      "palabra": "con",
+      "inicio": 11.917,
+      "fin": 12.083
+    },
+    {
+      "palabra": "rebozo",
+      "inicio": 12.095,
+      "fin": 12.476
+    },
+    {
+      "palabra": "negro",
+      "inicio": 12.488,
+      "fin": 12.786
+    },
+    {
+      "palabra": "entró",
+      "inicio": 12.798,
+      "fin": 13.071
+    },
+    {
+      "palabra": "despacio",
+      "inicio": 13.083,
+      "fin": 13.69
+    },
+    {
+      "palabra": "y",
+      "inicio": 13.917,
+      "fin": 14.0
+    },
+    {
+      "palabra": "me",
+      "inicio": 14.012,
+      "fin": 14.131
+    },
+    {
+      "palabra": "miró",
+      "inicio": 14.143,
+      "fin": 14.512
+    }
+  ]
+}
