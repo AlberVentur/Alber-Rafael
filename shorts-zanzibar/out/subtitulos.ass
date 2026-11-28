@@ -1,0 +1,42 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H00FFFFFF,&H00FFFFFF,&H00261724,&H80000000,1,0,0,0,100,100,0,0,1,7,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:01.47,Sub,,0,0,0,,LA GUERRA MÁS CORTA DE LA HISTORIA
+Dialogue: 0,0:00:01.47,0:00:03.32,Sub,,0,0,0,,DURÓ TREINTA Y OCHO MINUTOS
+Dialogue: 0,0:00:03.40,0:00:04.20,Sub,,0,0,0,,ZANZÍBAR
+Dialogue: 0,0:00:04.20,0:00:06.15,Sub,,0,0,0,,MIL OCHOCIENTOS NOVENTA Y SEIS
+Dialogue: 0,0:00:06.25,0:00:07.30,Sub,,0,0,0,,MUERE EL SULTÁN Y SU PRIMO
+Dialogue: 0,0:00:07.30,0:00:08.35,Sub,,0,0,0,,JÁLID OCUPA EL TRONO SIN
+Dialogue: 0,0:00:08.35,0:00:09.87,Sub,,0,0,0,,PERMISO BRITÁNICO
+Dialogue: 0,0:00:09.96,0:00:10.71,Sub,,0,0,0,,ULTIMÁTUM
+Dialogue: 0,0:00:10.71,0:00:11.88,Sub,,0,0,0,,O TE VAS ANTES DE LAS NUEVE
+Dialogue: 0,0:00:11.88,0:00:13.07,Sub,,0,0,0,,O HAY GUERRA
+Dialogue: 0,0:00:13.16,0:00:14.49,Sub,,0,0,0,,JÁLID SE ATRINCHERA EN EL PALACIO
+Dialogue: 0,0:00:14.49,0:00:16.41,Sub,,0,0,0,,CON UNOS TRES MIL DEFENSORES
+Dialogue: 0,0:00:16.51,0:00:17.48,Sub,,0,0,0,,A LAS NUEVE Y DOS
+Dialogue: 0,0:00:17.48,0:00:19.77,Sub,,0,0,0,,CINCO BARCOS BRITÁNICOS ABREN FUEGO
+Dialogue: 0,0:00:19.86,0:00:20.88,Sub,,0,0,0,,MINUTOS DESPUÉS
+Dialogue: 0,0:00:20.88,0:00:22.27,Sub,,0,0,0,,EL PALACIO ARDE
+Dialogue: 0,0:00:22.36,0:00:23.14,Sub,,0,0,0,,POR SUERTE
+Dialogue: 0,0:00:23.14,0:00:24.21,Sub,,0,0,0,,JÁLID ESCAPA AL CONSULADO
+Dialogue: 0,0:00:24.21,0:00:25.26,Sub,,0,0,0,,ALEMÁN
+Dialogue: 0,0:00:25.35,0:00:26.21,Sub,,0,0,0,,POR DESGRACIA
+Dialogue: 0,0:00:26.21,0:00:27.24,Sub,,0,0,0,,UNOS QUINIENTOS DE SUS HOMBRES
+Dialogue: 0,0:00:27.24,0:00:28.85,Sub,,0,0,0,,MUEREN O QUEDAN HERIDOS
+Dialogue: 0,0:00:28.93,0:00:30.34,Sub,,0,0,0,,¿LOS BRITÁNICOS?
+Dialogue: 0,0:00:30.43,0:00:31.96,Sub,,0,0,0,,UN MARINERO HERIDO
+Dialogue: 0,0:00:32.06,0:00:32.72,Sub,,0,0,0,,FÍJATE
+Dialogue: 0,0:00:32.72,0:00:33.68,Sub,,0,0,0,,DURÓ MENOS QUE UN CAPÍTULO
+Dialogue: 0,0:00:33.68,0:00:34.88,Sub,,0,0,0,,DE TU SERIE
+Dialogue: 0,0:00:34.97,0:00:35.70,Sub,,0,0,0,,Y ENCIMA
+Dialogue: 0,0:00:35.70,0:00:36.88,Sub,,0,0,0,,A SUS PARTIDARIOS LES COBRARON
+Dialogue: 0,0:00:36.88,0:00:38.22,Sub,,0,0,0,,LOS CAÑONAZOS
+Dialogue: 0,0:00:38.31,0:00:40.14,Sub,,0,0,0,,SUSCRÍBETE SI TE GUSTÓ EL VIDEO

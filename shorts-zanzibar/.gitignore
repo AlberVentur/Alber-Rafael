@@ -1,0 +1,6 @@
+node_modules/
+.venv/
+out/*
+!out/zanzibar_1080x1920.mp4
+!out/zanzibar_1080x1920_subtitulos.mp4
+!out/subtitulos.ass
