@@ -1,0 +1,209 @@
+# Guion: ¿Y si tu crush te confesara un secreto que nadie sabe? 🤫💘 (YouTube horizontal, ~8-9 min)
+
+Versión: en la biblioteca, tu crush te cuenta un secreto que no sabe ni su mejor amiga. Durante una semana tienes que guardarlo… hasta el festival de fin de trimestre. Con cuatro estudios reales sobre secretos y confesiones. La suscripción cae hacia el segundo 30.
+
+## Narración (para grabar o pegar en ElevenLabs)
+
+Martes. Último recreo. Estás en la biblioteca, fingiendo que estudias, cuando alguien se sienta justo delante de ti.
+
+Es ella. Tu crush.
+
+Mira a los lados. Se acerca. Y te dice en voz muy bajita:
+
+"¿Puedo contarte algo? Algo que no sabe nadie. Ni siquiera Sara."
+
+Sara. Su mejor amiga desde los cinco años.
+
+Tragas saliva. Y dices que sí.
+
+Y antes de saber qué secreto es: si te gustan estas historias de "¿y si…?", suscríbete al canal y activa la campanita. Y ahora sí. Vamos a ver qué pasa.
+
+Ella no habla enseguida. Juega con la goma del pelo. Abre la boca. La cierra. Mira el reloj.
+
+"Prométeme que no se lo vas a contar a nadie."
+
+"Te lo prometo."
+
+Y en ese silencio, piensas: ¿cuántos secretos tendrá? ¿Cuántos tendrá cualquiera?
+
+Los científicos lo han preguntado. En 2017, el psicólogo Michael Slepian, de la Universidad de Columbia, y su equipo pidieron a miles de personas que repasaran una lista de secretos típicos y marcaran los que tenían.
+
+De media, cada persona guardaba unos trece secretos. Y unos cinco no se los había contado jamás a nadie.
+
+Pero lo más curioso fue otra cosa. Lo que más pesaba no era tener que esconder el secreto delante de los demás. Era pensar en él a solas. En la cama. En el autobús. En clase. El secreto se te cuela en la cabeza una y otra vez, aunque nadie te pregunte por él.
+
+Y cuanto más vueltas le das, peor te sientes.
+
+Ella respira hondo. Saca el móvil. Lo gira hacia ti.
+
+En la pantalla hay una cuenta que conoces muy bien. Un dibujo de una nube morada. Doscientos mil seguidores. Se llama "Nube Lila".
+
+Nube Lila sube canciones. Solo la voz y una guitarra. Nunca ha enseñado la cara. Nadie sabe quién es.
+
+Y tú… la escuchas todas las noches antes de dormir.
+
+"Soy yo", dice ella.
+
+Te quedas mirando el móvil. Luego a ella. Luego al móvil otra vez.
+
+"¿Tú eres… Nube Lila?"
+
+"Shhh."
+
+Te tapa la boca con la mano. Y los dos os reís en voz baja, como si os hubieran pillado haciendo algo terrible.
+
+"¿Y por qué no se lo has contado a nadie?"
+
+"Porque me da pánico cantar delante de gente. En mi cuarto, sí. Con el móvil, sí. Pero si alguien me mira… me quedo en blanco."
+
+"¿Y por qué me lo cuentas a mí?"
+
+Se encoge de hombros. "No sé. Necesitaba contárselo a alguien."
+
+Y eso tiene más ciencia de lo que parece.
+
+En 2012, dos neurocientíficos de la Universidad de Harvard, Diana Tamir y Jason Mitchell, metieron a personas en un escáner cerebral. Les pedían que hablaran de sí mismas, o que hablaran de otras personas.
+
+Cuando hablaban de sí mismas, se encendían en el cerebro las mismas zonas que se activan con la comida rica o con el dinero. Las zonas de la recompensa.
+
+Y luego hicieron una prueba más. Les ofrecían elegir: o ganar unos céntimos extra, o hablar un poco de ellos mismos. Muchísimas personas renunciaron al dinero… solo por poder hablar de sí mismas.
+
+Contar algo de ti, a tu cerebro, le sienta bien. Y contar algo que llevas años guardando… le sienta todavía mejor.
+
+Suena el timbre.
+
+Ella se levanta, se cuelga la mochila, y antes de irse te dice: "Gracias por escuchar."
+
+Y se va.
+
+Tú te quedas sentado. Solo. En la biblioteca vacía. Con el secreto más grande del instituto dentro de la cabeza.
+
+Miércoles.
+
+Primera hora, clase de inglés. Marcos, tu mejor amigo, se sienta a tu lado y te pone un auricular en la oreja.
+
+"Escucha esto. Nube Lila ha subido canción nueva. Esta tía canta increíble. ¿Quién será? Seguro que es de otro país."
+
+Tú miras al frente. Dos filas delante está ella, tomando apuntes como si nada.
+
+"Sí… seguro que es de otro país", dices.
+
+Marcos te mira raro. "¿Por qué te has puesto rojo?"
+
+"Hace calor."
+
+Estáis en diciembre.
+
+En el recreo, Sara se acerca a ti con los ojos entornados.
+
+"Ayer os vi en la biblioteca. Muy juntitos. ¿De qué hablabais?"
+
+"De… deberes."
+
+"¿De deberes? Ella nunca hace los deberes en el recreo."
+
+Sara se va. Pero se gira dos veces para mirarte.
+
+Y ahora lo entiendes. Guardar el secreto de otra persona también pesa. Cada vez que alguien dice "Nube Lila", te da un vuelco el estómago. Cada vez que Sara te mira, sientes que lo llevas escrito en la frente.
+
+Jueves.
+
+A la salida, ella te escribe: "¿Te vienes al aula de música? Quiero enseñarte algo."
+
+El aula de música está vacía. Hay un piano viejo, un montón de sillas apiladas y una guitarra con una pegatina de una nube morada.
+
+Ella se sienta con la guitarra. Abre una libreta llena de tachones.
+
+"Es la canción nueva. No está terminada. Me falta el final."
+
+"¿De qué va?"
+
+"De alguien a quien no me atrevo a decirle una cosa."
+
+Te enseña la libreta. Hay frases enteras tachadas. Otras escritas encima. Hay una que pone: "Lo que no digo, lo escribo."
+
+"Es que yo soy así", dice. "Lo que no puedo decir en voz alta, lo escribo en una canción. Y entonces ya no me pesa tanto."
+
+Eso también lo estudió la ciencia.
+
+En 1986, el psicólogo James Pennebaker, de Estados Unidos, pidió a un grupo de estudiantes universitarios que escribieran durante quince minutos al día, cuatro días seguidos, sobre lo que más les había dolido en la vida. Cosas que nunca habían contado. A otro grupo le pidió que escribieran sobre cosas sin importancia, como su habitación o sus zapatos.
+
+Durante esos días, los que escribieron sobre lo que sentían lo pasaron peor. Se emocionaron. Lloraron. Pero en los meses siguientes, fueron menos veces al médico que los del otro grupo.
+
+Poner en palabras lo que guardas dentro… ayuda. Aunque solo lo lea un papel.
+
+Pasáis la tarde buscando el final de la canción. Tú propones una frase. Ella la canta. No suena bien. Os reís. Pruebas otra. Ella la canta otra vez.
+
+Y por primera vez, la escuchas cantar en directo. Sin móvil. Sin nube morada. A un metro de ti.
+
+Y no se queda en blanco.
+
+Viernes. Festival de fin de trimestre.
+
+El gimnasio está lleno. Hay padres, profesores y todo el instituto sentado en las gradas. Hay un chico que hace malabares, un grupo de baile y un profesor que cuenta chistes que no hacen gracia.
+
+Y en el programa, al final del todo, pone: "Actuación sorpresa."
+
+Tú sabes quién es.
+
+Vas detrás del escenario. Ella está sentada en una caja, con la guitarra en las rodillas. Le tiemblan las manos.
+
+"No puedo. Hay demasiada gente."
+
+"No mires a la gente. Mírame a mí. Haz como en el aula de música."
+
+Ella respira hondo. Se levanta. Y sale.
+
+Las luces se apagan. Un foco solo para ella. Silencio total.
+
+Y empieza a cantar.
+
+A los diez segundos, alguien en las gradas grita: "¡Es Nube Lila! ¡Es la canción de Nube Lila!"
+
+Marcos se levanta de la silla con la boca abierta. Sara se lleva las manos a la cara.
+
+Y ella sigue cantando. Te busca con la mirada, en la esquina del escenario. Y no deja de cantar.
+
+Cuando termina, el gimnasio entero se pone de pie.
+
+Detrás del escenario, ella llega corriendo. Temblando todavía. Riéndose. Y te abraza.
+
+"Lo he hecho. No me lo creo. Lo he hecho."
+
+Y luego se separa un poco. Te mira. Y dice:
+
+"Oye. Yo te he contado mi secreto. Ahora te toca a ti. Cuéntame uno que no sepa nadie."
+
+Y aquí viene el último estudio.
+
+En 1994, dos psicólogas de la Universidad de California, Nancy Collins y Lynn Miller, reunieron los resultados de decenas de experimentos sobre contar cosas personales. Y encontraron tres cosas.
+
+Una: las personas que se abren y cuentan cosas íntimas suelen caer mejor. Dos: a la gente que nos gusta, le contamos más cosas. Y tres: después de abrirnos con alguien, esa persona nos gusta un poco más que antes.
+
+Es como un círculo. Tú te abres, la otra persona se abre, y cada vuelta os acerca un poco más.
+
+Y ella acaba de dar la primera vuelta.
+
+Tú respiras hondo. Como ella antes de salir al escenario.
+
+"Vale. Mi secreto es… que me gustas. Desde hace mucho. Desde antes de saber que eras Nube Lila."
+
+Silencio.
+
+Y ella sonríe. Saca la libreta del bolsillo. La abre por la última página. Y te enseña el final de la canción. La frase que faltaba.
+
+Pone: "Y al final, se lo dije."
+
+"¿Y tú de quién creías que iba la canción?", te pregunta.
+
+Así que ya lo sabes. Todo el mundo guarda secretos. Unos trece, de media. Y a veces, contarle uno a la persona adecuada… es lo que hace que la otra persona te cuente el suyo.
+
+Y tú, ¿qué secreto le contarías a tu crush? ¿O te lo guardarías para siempre? Cuéntamelo en los comentarios. Y suscríbete para más vídeos.
+
+## Fuentes
+- Slepian, M. L., Chun, J. S. y Mason, M. F. (2017). The experience of secrecy. Journal of Personality and Social Psychology 113(1): 1-33. doi:10.1037/pspa0000085
+- Tamir, D. I. y Mitchell, J. P. (2012). Disclosing information about the self is intrinsically rewarding. PNAS 109(21): 8038-8043. doi:10.1073/pnas.1202129109
+- Pennebaker, J. W. y Beall, S. K. (1986). Confronting a traumatic event: Toward an understanding of inhibition and disease. Journal of Abnormal Psychology 95(3): 274-281. doi:10.1037/0021-843X.95.3.274
+- Collins, N. L. y Miller, L. C. (1994). Self-disclosure and liking: A meta-analytic review. Psychological Bulletin 116(3): 457-475. doi:10.1037/0033-2909.116.3.457
+
+⚠️ La historia y los personajes son ficción. Los experimentos y estudios citados son reales.
