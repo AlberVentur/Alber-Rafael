@@ -34,7 +34,7 @@ export const SHOTS: ShotDef[] = [
     K(390, [-33.2, 1.7, 22.4], [-31, 1.45, 17.5], 36, false), K(558, [-32.0, 1.6, 21.0], [-31, 1.45, 17.5], 34),
   ] },
   { id: 4, a: 555, b: 804, luz: "day", fog: [200, 1400], keys: [ // llegan veinte mil emús; casi dos metros
-    K(555, [20, 6, 40], [60, 2, -60], 44, false), K(670, [24, 4, 20], [70, 1, -90], 44), K(700, [43.5, 1.6, -21], [48, 1.2, -28], 38), K(804, [44.6, 1.5, -23.2], [48, 1.2, -28], 36),
+    K(555, [18, 2.4, 42], [52, 1.6, -30], 36, false), K(670, [24, 1.9, 30], [58, 1.4, -40], 34), K(700, [43.5, 1.6, -21], [48, 1.2, -28], 38), K(804, [44.6, 1.5, -23.2], [48, 1.2, -28], 36),
   ] },
   { id: 5, a: 800, b: 962, luz: "day", fog: [150, 900], keys: [ // comen, pisotean, rompen cercas; entran los conejos
     K(800, [4, 1.3, 2], [18, 0.8, -10], 40, false), K(870, [2, 1.2, 0], [10, 0.6, -6], 40), K(962, [-6.5, 1.0, 1.5], [-12, 0.4, -3], 40),
@@ -53,7 +53,7 @@ export const SHOTS: ShotDef[] = [
     K(1745, [DAM.x - 22.6, 1.35, DAM.z - 25.4], [DAM.x - 6, 1.1, DAM.z - 6], 38), K(1800, [DAM.x - 23.3, 1.3, DAM.z - 23.0], [DAM.x - 22.1, 1.1, DAM.z - 20.4], 34), K(1852, [DAM.x - 23.0, 1.3, DAM.z - 22.5], [DAM.x - 22.1, 1.1, DAM.z - 20.4], 34),
   ] },
   { id: 10, a: 1850, b: 2104, luz: "day", fog: [200, 1200], keys: [ // la ametralladora en el camión
-    K(1850, [-200, 3, ROUGH.z + 14], [-185, 1.5, ROUGH.z], 42, false), K(2104, [-95, 3.2, ROUGH.z + 16], [-80, 1.5, ROUGH.z], 42),
+    K(1850, [-199, 3, ROUGH.z + 13], [-188, 1.4, ROUGH.z], 40, false), K(2104, [-97, 3.2, ROUGH.z + 14], [-84, 1.4, ROUGH.z], 42, false),
   ] },
   { id: 11, a: 2102, b: 2192, luz: "day", fog: [200, 1200], keys: [ // el ejército se retira
     K(2102, [8, 1.7, 30], [0, 1.4, 44], 38, false), K(2192, [9, 1.9, 27], [0, 1.4, 44], 40),
@@ -62,7 +62,7 @@ export const SHOTS: ShotDef[] = [
     K(2190, [LOOKOUT.x + 26, 3, LOOKOUT.z + 26], [LOOKOUT.x, 1.5, LOOKOUT.z], 40, false), K(2380, [LOOKOUT.x + 9, 2.2, LOOKOUT.z + 9], [LOOKOUT.x, 2.8, LOOKOUT.z], 38), K(2474, [LOOKOUT.x + 6.5, 3.0, LOOKOUT.z + 6.5], [LOOKOUT.x, 3.4, LOOKOUT.z], 36),
   ] },
   { id: 13, a: 2470, b: 2762, luz: "room", fog: [200, 900], keys: [ // el informe de Meredith
-    K(2470, [OFFICE_X - 3.0, 1.6, 4.0], [OFFICE_X - 3.0, 1.3, -1.5], 40, false), K(2600, [OFFICE_X - 3.0, 1.55, 1.6], [OFFICE_X - 3.0, 1.15, -1.4], 38), K(2762, [OFFICE_X - 3.0, 1.5, 0.9], [OFFICE_X - 3.0, 1.1, -1.4], 36),
+    K(2470, [OFFICE_X - 2.7, 1.6, 4.0], [OFFICE_X - 2.7, 1.4, -1.5], 40, false), K(2600, [OFFICE_X - 2.6, 1.55, 1.8], [OFFICE_X - 2.65, 1.35, -1.6], 38), K(2762, [OFFICE_X - 2.6, 1.5, 1.2], [OFFICE_X - 2.65, 1.3, -1.6], 36),
   ] },
   { id: 14, a: 2760, b: 2917, luz: "day", fog: [200, 1200], keys: [ // fíjate: diez dardos a un blanco que corre
     K(2760, [PLAIN.x - 4, 1.4, PLAIN.z + 5.5], [PLAIN.x, 1.1, PLAIN.z], 40, false), K(2917, [PLAIN.x + 11, 1.4, PLAIN.z + 5.5], [PLAIN.x + 14, 1.1, PLAIN.z], 40),
@@ -124,7 +124,7 @@ export const dofAt = (id: number, f: number): { cInf: number; focus?: V3 } => {
     case 10: return { cInf: 4 };
     case 11: return { cInf: 8 };
     case 12: return { cInf: 10, focus: [LOOKOUT.x, 3.2, LOOKOUT.z] };
-    case 13: return { cInf: 12, focus: [OFFICE_X - 3.0, 1.0, -1.4] };
+    case 13: return { cInf: 12, focus: [OFFICE_X - 2.7, 1.3, -1.6] };
     case 14: return { cInf: 6 };
     case 15: return { cInf: 6 };
     case 16: return { cInf: 11 };

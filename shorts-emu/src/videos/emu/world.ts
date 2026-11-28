@@ -366,7 +366,7 @@ export class World {
       draws.forEach((d, i) => { g.setTransform(Kc, 0, 0, Kc, (i % cols) * TW, Math.floor(i / cols) * TH); d(new Pen(g)); });
       const t = new THREE.CanvasTexture(cv); t.colorSpace = THREE.SRGBColorSpace; t.anisotropy = 8; return { tex: t, cols, rows, n: 8 }; })();
     const scatter = (cx: number, cz: number, rx: number, rz: number, n: number, seed: number) => Array.from({ length: n }, (_, i) => ({ x: cx + (hh(i, seed) - 0.5) * 2 * rx, z: cz + (hh(i, seed + 1) - 0.5) * 2 * rz }));
-    this.flockFar = new Crowd(R, at, [...scatter(85, -100, 70, 55, 2600, 60), ...scatter(160, -200, 120, 60, 1800, 61)], 1.3);
+    this.flockFar = new Crowd(R, at, [...scatter(80, -45, 60, 35, 2600, 60), ...scatter(160, -200, 120, 60, 1800, 61)], 1.3);
     this.flockDam = new Crowd(R, at, scatter(DAM.x + 8, DAM.z + 30, 30, 16, 900, 62).filter((q) => Math.hypot(q.x - DAM.x, q.z - DAM.z) > DAM.r + 2), 1.9);
     this.flockLook = new Crowd(R, at, scatter(LOOKOUT.x - 10, LOOKOUT.z - 12, 22, 14, 160, 63), 2.4);
     for (const c of [this.flockFar, this.flockDam, this.flockLook]) { c.mesh.scale.set(1, 0.86, 1); c.mesh.visible = false; }
@@ -420,7 +420,7 @@ export class World {
     for (const m of this.clouds) m.quaternion.copy(cam.quaternion);
     this.rainU.uT.value = t; this.rainU.uCam.value.copy(cam.position); this.rainU.uFade.value = id === 8 ? 1 - smooth((f - 1352) / 14) : 0;
     this.wheel.rotation.z = -t * 3; this.table.visible = id === 16;
-    this.flockFar.mesh.visible = id === 4; this.flockDam.mesh.visible = id === 9; this.flockLook.mesh.visible = id === 12;
+    this.flockFar.mesh.visible = id === 4; this.flockFar.shift.value.set(f >= 690 ? 600 : 0, 0, 0); this.flockDam.mesh.visible = id === 9; this.flockLook.mesh.visible = id === 12;
     this.flockDam.shift.value.set(0, 0, id === 9 ? -12 * smooth((f - 1600) / 140) + (f > 1755 ? 40 * smooth((f - 1760) / 60) : 0) : 0);
     // camión: estacionado (toma 7) o en la persecución (toma 10)
     if (id === 10) {
@@ -474,7 +474,7 @@ export class World {
       card("news", NEWS, 600, 420, FARM.x - 1.0, 0.98, FARM.z + 7.9, 0.78, 0.55);
     }
     if (id === 4) {
-      for (let k = 0; k < (f >= 690 ? 0 : 40); k++) { const x = 30 + k * 2.2 - ((f - 555) / 30) * 2.5 + hh(k, 5) * 3, z = -8 - hh(k, 6) * 26; emu(`run${k % 4}`, x, 0, z, { run: 1, phase: runPh(2.6, k) }, -1, k); if (k % 6 === 0) dust(x + 1, 0, z, k); }
+      for (let k = 0; k < (f >= 690 ? 0 : 40); k++) { const x = 34 + k * 1.6 - ((f - 555) / 30) * 3.2 + hh(k, 5) * 3, z = 24 - hh(k, 6) * 26; emu(`run${k % 4}`, x, 0, z, { run: 1, phase: runPh(2.6, k) }, -1, k); if (k % 6 === 0) dust(x + 1, 0, z, k); }
       if (f >= 690) {
         emu("big", 48, 0, -28.2, { expr: f > 735 ? "lid" : "happy", tall: 0.4, phase: 0 }, -1, 600);
         person("farmerScale", farmer(3), 46.5, 0, -28.0, { mode: "stand", expr: "shock", facing: 0 }, 4);
@@ -530,15 +530,21 @@ export class World {
     if (id === 13) {
       const X = OFFICE_X - 3.0;
       person("meredith13", MEREDITH, X, 0, -2.85, { mode: "stand", expr: f > 2700 ? "nervous" : "stern", facing: 0 }, 1);
-      card("report", REPORT, 400, 600, X, 1.05, -1.35, 0.5, 0.72);
+      card("report", REPORT, 400, 600, X + 0.62, 1.18, -1.3, 0.5, 0.72);
     }
     if (id === 14) {
       const bx = PLAIN.x - 2 + (f - 2760) * 0.1;
       st.places.push({ key: `board|${Math.floor((t * 2.6) % 1 * 8)}`, x: bx, y: 0, z: PLAIN.z, size: tier(cam.position.distanceTo(this.v.set(bx, 1, PLAIN.z))), draw: dartboardDraw(Math.floor((t * 2.6) % 1 * 8) / 8) });
       blob(st, sunDir, bx, 0, PLAIN.z);
-      for (let d = 0; d < 10; d++) { const s0 = 2775 + d * 11, u = (f - s0) / 12; if (u < 0) continue; const hit = d === 9; const x0 = PLAIN.x - 12, ex = hit ? bx + (f - s0 - 12) * 0.1 * 0 : PLAIN.x - 4 + d * 1.6, ey = hit ? 0.95 : 0.05, ez = PLAIN.z + (hit ? 0.05 : 1 + hh(d, 60) * 1.5);
-        const k2 = Math.min(1, u), x = hit && u >= 1 ? bx : x0 + (ex - x0) * k2, y = 1.4 + (ey - 1.4) * k2 + 0.6 * Math.sin(Math.PI * k2), z = PLAIN.z + 1 + (ez - PLAIN.z - 1) * k2;
-        card("dart", dartDraw, 256, 64, x, y, z, 0.5, 0.125); }
+      const boardX = (ff: number) => PLAIN.x - 2 + (ff - 2760) * 0.1;
+      for (let d = 0; d < 10; d++) {
+        const s0 = 2772 + d * 12, u = (f - s0) / 10; if (u < 0) continue;
+        const hit = d === 9, land = s0 + 10, lx = boardX(land) + (hit ? 0 : (d % 2 ? 1 : -1) * (0.75 + 0.2 * hh(d, 61))), ly = hit ? 1.0 : 0.2 + hh(d, 62) * 1.4, lz = PLAIN.z + (hit ? 0.06 : -0.6);
+        const sx = lx - 5, sy = 1.6, sz = PLAIN.z + 2.5, k2 = Math.min(1, u);
+        let x = sx + (lx - sx) * k2, y = sy + (ly - sy) * k2 + 0.4 * Math.sin(Math.PI * k2), z = sz + (lz - sz) * k2;
+        if (hit && u >= 1) { x = bx - 0.05; y = 1.0; z = PLAIN.z + 0.06; }
+        card("dart", dartDraw, 256, 64, x, y, z, 0.8, 0.2);
+      }
     }
     if (id === 15) {
       person("meredith15", MEREDITH, PLAIN.x - 30.6, 0, PLAIN.z + 32.6, { mode: "stand", expr: f > 3000 ? "grin" : "stern", facing: 0, look: 1 }, 1);
