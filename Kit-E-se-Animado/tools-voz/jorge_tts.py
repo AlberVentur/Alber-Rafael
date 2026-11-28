@@ -1,5 +1,6 @@
 """Narración con edge-tts (es-MX-JorgeNeural) + tiempos por palabra.
-Uso: .venv/bin/python tools-voz/jorge_tts.py texto.txt carpeta_salida [velocidad]
+Uso: .venv/bin/python tools-voz/jorge_tts.py texto.txt carpeta_salida [velocidad] [tono]
+Ej.: ... "+10%" "-8Hz"  (tono negativo = voz más grave)
 Salida: voz.mp3, voz.wav (48 kHz, -14 LUFS) y palabras.json."""
 import asyncio, json, os, ssl, subprocess, sys
 import certifi, edge_tts
@@ -15,9 +16,9 @@ def contexto_ssl():
             ctx.load_verify_locations(cafile=extra)
     return ctx
 
-async def generar(texto, out, rate):
+async def generar(texto, out, rate, pitch="+0Hz"):
     edge_tts.communicate._SSL_CTX = contexto_ssl()  # usado en la conexión websocket
-    com = edge_tts.Communicate(texto, VOZ, rate=rate, boundary="WordBoundary",
+    com = edge_tts.Communicate(texto, VOZ, rate=rate, pitch=pitch, boundary="WordBoundary",
                                proxy=os.environ.get("HTTPS_PROXY") or os.environ.get("https_proxy"))
     palabras = []
     with open(os.path.join(out, "voz.mp3"), "wb") as f:
@@ -35,8 +36,9 @@ async def generar(texto, out, rate):
 def main():
     texto = open(sys.argv[1], encoding="utf-8").read().strip()
     out = sys.argv[2]; rate = sys.argv[3] if len(sys.argv) > 3 else "+25%"
+    pitch = sys.argv[4] if len(sys.argv) > 4 else "+0Hz"
     os.makedirs(out, exist_ok=True)
-    pal = asyncio.run(generar(texto, out, rate))
+    pal = asyncio.run(generar(texto, out, rate, pitch))
     mp3, wav = os.path.join(out, "voz.mp3"), os.path.join(out, "voz.wav")
     # loudnorm en dos pasadas: medir y luego aplicar (más preciso en clips cortos)
     med = subprocess.run(["ffmpeg", "-hide_banner", "-i", mp3, "-af",
