@@ -1,0 +1,6 @@
+node_modules/
+.venv/
+out/*
+!out/emu_1920x1080.mp4
+!out/emu_1920x1080_subtitulos.mp4
+!out/emu_subtitulos.ass
