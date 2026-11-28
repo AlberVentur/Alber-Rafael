@@ -1,0 +1,507 @@
+[
+ {
+  "word": "Y",
+  "start": 0.098,
+  "end": 0.205
+ },
+ {
+  "word": "si",
+  "start": 0.217,
+  "end": 0.383
+ },
+ {
+  "word": "tu",
+  "start": 0.395,
+  "end": 0.526
+ },
+ {
+  "word": "crush",
+  "start": 0.538,
+  "end": 0.883
+ },
+ {
+  "word": "te",
+  "start": 0.895,
+  "end": 0.99
+ },
+ {
+  "word": "dejara",
+  "start": 1.002,
+  "end": 1.36
+ },
+ {
+  "word": "en",
+  "start": 1.371,
+  "end": 1.455
+ },
+ {
+  "word": "visto",
+  "start": 1.467,
+  "end": 1.871
+ },
+ {
+  "word": "Le",
+  "start": 2.69,
+  "end": 2.833
+ },
+ {
+  "word": "mandas",
+  "start": 2.845,
+  "end": 3.25
+ },
+ {
+  "word": "un",
+  "start": 3.262,
+  "end": 3.369
+ },
+ {
+  "word": "meme",
+  "start": 3.381,
+  "end": 3.643
+ },
+ {
+  "word": "a",
+  "start": 3.655,
+  "end": 3.702
+ },
+ {
+  "word": "las",
+  "start": 3.714,
+  "end": 3.881
+ },
+ {
+  "word": "diez",
+  "start": 3.893,
+  "end": 4.286
+ },
+ {
+  "word": "Diez",
+  "start": 5.107,
+  "end": 5.417
+ },
+ {
+  "word": "y",
+  "start": 5.429,
+  "end": 5.488
+ },
+ {
+  "word": "cinco",
+  "start": 5.5,
+  "end": 5.917
+ },
+ {
+  "word": "visto",
+  "start": 6.238,
+  "end": 6.631
+ },
+ {
+  "word": "Miras",
+  "start": 7.452,
+  "end": 7.845
+ },
+ {
+  "word": "el",
+  "start": 7.857,
+  "end": 7.964
+ },
+ {
+  "word": "móvil",
+  "start": 7.976,
+  "end": 8.321
+ },
+ {
+  "word": "cuarenta",
+  "start": 8.333,
+  "end": 8.738
+ },
+ {
+  "word": "veces",
+  "start": 8.75,
+  "end": 9.262
+ },
+ {
+  "word": "Escribes",
+  "start": 10.083,
+  "end": 10.607
+ },
+ {
+  "word": "jajaja",
+  "start": 10.619,
+  "end": 11.083
+ },
+ {
+  "word": "y",
+  "start": 11.298,
+  "end": 11.369
+ },
+ {
+  "word": "lo",
+  "start": 11.381,
+  "end": 11.512
+ },
+ {
+  "word": "borras",
+  "start": 11.524,
+  "end": 12.036
+ },
+ {
+  "word": "Pero",
+  "start": 12.857,
+  "end": 13.036
+ },
+ {
+  "word": "aquí",
+  "start": 13.048,
+  "end": 13.262
+ },
+ {
+  "word": "viene",
+  "start": 13.274,
+  "end": 13.548
+ },
+ {
+  "word": "lo",
+  "start": 13.56,
+  "end": 13.655
+ },
+ {
+  "word": "raro",
+  "start": 13.667,
+  "end": 14.012
+ },
+ {
+  "word": "En",
+  "start": 14.833,
+  "end": 15.012
+ },
+ {
+  "word": "2011",
+  "start": 15.024,
+  "end": 15.702
+ },
+ {
+  "word": "en",
+  "start": 15.952,
+  "end": 16.119
+ },
+ {
+  "word": "la",
+  "start": 16.131,
+  "end": 16.214
+ },
+ {
+  "word": "Universidad",
+  "start": 16.226,
+  "end": 16.869
+ },
+ {
+  "word": "de",
+  "start": 16.881,
+  "end": 16.952
+ },
+ {
+  "word": "Virginia",
+  "start": 16.964,
+  "end": 17.5
+ },
+ {
+  "word": "unas",
+  "start": 17.833,
+  "end": 18.083
+ },
+ {
+  "word": "chicas",
+  "start": 18.095,
+  "end": 18.488
+ },
+ {
+  "word": "vieron",
+  "start": 18.5,
+  "end": 18.75
+ },
+ {
+  "word": "los",
+  "start": 18.762,
+  "end": 18.905
+ },
+ {
+  "word": "perfiles",
+  "start": 18.917,
+  "end": 19.429
+ },
+ {
+  "word": "de",
+  "start": 19.44,
+  "end": 19.524
+ },
+ {
+  "word": "unos",
+  "start": 19.536,
+  "end": 19.821
+ },
+ {
+  "word": "chicos",
+  "start": 19.833,
+  "end": 20.333
+ },
+ {
+  "word": "Los",
+  "start": 21.155,
+  "end": 21.345
+ },
+ {
+  "word": "que",
+  "start": 21.357,
+  "end": 21.464
+ },
+ {
+  "word": "más",
+  "start": 21.476,
+  "end": 21.738
+ },
+ {
+  "word": "les",
+  "start": 21.75,
+  "end": 21.893
+ },
+ {
+  "word": "gustaron",
+  "start": 21.905,
+  "end": 22.357
+ },
+ {
+  "word": "no",
+  "start": 22.369,
+  "end": 22.488
+ },
+ {
+  "word": "fueron",
+  "start": 22.5,
+  "end": 22.798
+ },
+ {
+  "word": "los",
+  "start": 22.81,
+  "end": 22.94
+ },
+ {
+  "word": "que",
+  "start": 22.952,
+  "end": 23.048
+ },
+ {
+  "word": "seguro",
+  "start": 23.06,
+  "end": 23.476
+ },
+ {
+  "word": "que",
+  "start": 23.488,
+  "end": 23.607
+ },
+ {
+  "word": "las",
+  "start": 23.619,
+  "end": 23.762
+ },
+ {
+  "word": "querían",
+  "start": 23.774,
+  "end": 24.238
+ },
+ {
+  "word": "Fueron",
+  "start": 25.06,
+  "end": 25.357
+ },
+ {
+  "word": "los",
+  "start": 25.369,
+  "end": 25.512
+ },
+ {
+  "word": "que",
+  "start": 25.524,
+  "end": 25.631
+ },
+ {
+  "word": "no",
+  "start": 25.643,
+  "end": 25.786
+ },
+ {
+  "word": "sabían",
+  "start": 25.798,
+  "end": 26.191
+ },
+ {
+  "word": "si",
+  "start": 26.202,
+  "end": 26.333
+ },
+ {
+  "word": "las",
+  "start": 26.345,
+  "end": 26.5
+ },
+ {
+  "word": "querían",
+  "start": 26.512,
+  "end": 26.976
+ },
+ {
+  "word": "La",
+  "start": 27.798,
+  "end": 27.929
+ },
+ {
+  "word": "duda",
+  "start": 27.94,
+  "end": 28.214
+ },
+ {
+  "word": "hace",
+  "start": 28.226,
+  "end": 28.417
+ },
+ {
+  "word": "que",
+  "start": 28.429,
+  "end": 28.56
+ },
+ {
+  "word": "pienses",
+  "start": 28.571,
+  "end": 29.024
+ },
+ {
+  "word": "más",
+  "start": 29.036,
+  "end": 29.262
+ },
+ {
+  "word": "en",
+  "start": 29.274,
+  "end": 29.381
+ },
+ {
+  "word": "esa",
+  "start": 29.393,
+  "end": 29.595
+ },
+ {
+  "word": "persona",
+  "start": 29.607,
+  "end": 30.131
+ },
+ {
+  "word": "Y",
+  "start": 30.952,
+  "end": 31.107
+ },
+ {
+  "word": "a",
+  "start": 31.119,
+  "end": 31.179
+ },
+ {
+  "word": "las",
+  "start": 31.19,
+  "end": 31.369
+ },
+ {
+  "word": "doce",
+  "start": 31.381,
+  "end": 31.643
+ },
+ {
+  "word": "y",
+  "start": 31.655,
+  "end": 31.714
+ },
+ {
+  "word": "media",
+  "start": 31.726,
+  "end": 32.083
+ },
+ {
+  "word": "llega",
+  "start": 32.357,
+  "end": 32.69
+ },
+ {
+  "word": "Perdón",
+  "start": 32.976,
+  "end": 33.405
+ },
+ {
+  "word": "me",
+  "start": 33.69,
+  "end": 33.786
+ },
+ {
+  "word": "quedé",
+  "start": 33.798,
+  "end": 34.06
+ },
+ {
+  "word": "sin",
+  "start": 34.071,
+  "end": 34.262
+ },
+ {
+  "word": "batería",
+  "start": 34.274,
+  "end": 34.809
+ },
+ {
+  "word": "Qué",
+  "start": 35.643,
+  "end": 35.762
+ },
+ {
+  "word": "le",
+  "start": 35.774,
+  "end": 35.857
+ },
+ {
+  "word": "contestarías",
+  "start": 35.869,
+  "end": 36.762
+ },
+ {
+  "word": "Si",
+  "start": 37.595,
+  "end": 37.833
+ },
+ {
+  "word": "te",
+  "start": 37.845,
+  "end": 37.976
+ },
+ {
+  "word": "ha",
+  "start": 37.988,
+  "end": 38.048
+ },
+ {
+  "word": "gustado",
+  "start": 38.06,
+  "end": 38.488
+ },
+ {
+  "word": "el",
+  "start": 38.5,
+  "end": 38.56
+ },
+ {
+  "word": "vídeo",
+  "start": 38.571,
+  "end": 38.952
+ },
+ {
+  "word": "suscríbete",
+  "start": 39.167,
+  "end": 39.857
+ }
+]

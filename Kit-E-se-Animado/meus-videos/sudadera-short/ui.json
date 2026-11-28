@@ -1,0 +1,31 @@
+{
+  "duracao": 41.5,
+  "palavrasPorLegenda": 3,
+  "destaques": [
+    "sudadera?",
+    "frío.",
+    "momento\".",
+    "semana.",
+    "devuelve.",
+    "clase.",
+    "ti\".",
+    "ciencia.",
+    "2018,",
+    "pareja.",
+    "estresante.",
+    "tranquilas.",
+    "abrazo.",
+    "vuelta?",
+    "suscríbete."
+  ],
+  "trocas": {},
+  "elementos": [
+    {
+      "tipo": "placa",
+      "inicio": 19.0,
+      "fim": 22.2,
+      "numero": "2018",
+      "rotulo": "HOFER Y COLABORADORES · EL OLOR DE TU PAREJA"
+    }
+  ]
+}

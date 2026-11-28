@@ -1,0 +1,489 @@
+{
+ "words": [
+  {
+   "text": "¿Y",
+   "start": 0.098,
+   "end": 0.205
+  },
+  {
+   "text": "si",
+   "start": 0.217,
+   "end": 0.383
+  },
+  {
+   "text": "tu",
+   "start": 0.395,
+   "end": 0.526
+  },
+  {
+   "text": "crush",
+   "start": 0.538,
+   "end": 0.859
+  },
+  {
+   "text": "copiara",
+   "start": 0.871,
+   "end": 1.312
+  },
+  {
+   "text": "todo",
+   "start": 1.324,
+   "end": 1.609
+  },
+  {
+   "text": "lo",
+   "start": 1.621,
+   "end": 1.717
+  },
+  {
+   "text": "que",
+   "start": 1.729,
+   "end": 1.871
+  },
+  {
+   "text": "haces?",
+   "start": 1.883,
+   "end": 2.336
+  },
+  {
+   "text": "Te",
+   "start": 3.155,
+   "end": 3.274
+  },
+  {
+   "text": "tocas",
+   "start": 3.286,
+   "end": 3.619
+  },
+  {
+   "text": "el",
+   "start": 3.631,
+   "end": 3.738
+  },
+  {
+   "text": "pelo:",
+   "start": 3.75,
+   "end": 4.06
+  },
+  {
+   "text": "ella",
+   "start": 4.321,
+   "end": 4.548
+  },
+  {
+   "text": "se",
+   "start": 4.56,
+   "end": 4.702
+  },
+  {
+   "text": "toca",
+   "start": 4.714,
+   "end": 4.988
+  },
+  {
+   "text": "el",
+   "start": 5.0,
+   "end": 5.083
+  },
+  {
+   "text": "pelo.",
+   "start": 5.095,
+   "end": 5.441
+  },
+  {
+   "text": "Te",
+   "start": 6.262,
+   "end": 6.381
+  },
+  {
+   "text": "cruzas",
+   "start": 6.393,
+   "end": 6.75
+  },
+  {
+   "text": "de",
+   "start": 6.762,
+   "end": 6.833
+  },
+  {
+   "text": "brazos:",
+   "start": 6.845,
+   "end": 7.31
+  },
+  {
+   "text": "ella",
+   "start": 7.571,
+   "end": 7.809
+  },
+  {
+   "text": "también.",
+   "start": 7.821,
+   "end": 8.286
+  },
+  {
+   "text": "Piensas",
+   "start": 9.107,
+   "end": 9.548
+  },
+  {
+   "text": "que",
+   "start": 9.56,
+   "end": 9.679
+  },
+  {
+   "text": "te",
+   "start": 9.69,
+   "end": 9.786
+  },
+  {
+   "text": "está",
+   "start": 9.798,
+   "end": 10.012
+  },
+  {
+   "text": "vacilando.",
+   "start": 10.024,
+   "end": 10.655
+  },
+  {
+   "text": "Pero",
+   "start": 11.476,
+   "end": 11.679
+  },
+  {
+   "text": "ni",
+   "start": 11.69,
+   "end": 11.809
+  },
+  {
+   "text": "se",
+   "start": 11.821,
+   "end": 11.964
+  },
+  {
+   "text": "da",
+   "start": 11.976,
+   "end": 12.095
+  },
+  {
+   "text": "cuenta.",
+   "start": 12.107,
+   "end": 12.524
+  },
+  {
+   "text": "En",
+   "start": 13.345,
+   "end": 13.512
+  },
+  {
+   "text": "1999,",
+   "start": 13.524,
+   "end": 14.964
+  },
+  {
+   "text": "en",
+   "start": 15.19,
+   "end": 15.357
+  },
+  {
+   "text": "la",
+   "start": 15.369,
+   "end": 15.452
+  },
+  {
+   "text": "Universidad",
+   "start": 15.464,
+   "end": 16.095
+  },
+  {
+   "text": "de",
+   "start": 16.107,
+   "end": 16.19
+  },
+  {
+   "text": "Nueva",
+   "start": 16.202,
+   "end": 16.417
+  },
+  {
+   "text": "York,",
+   "start": 16.429,
+   "end": 16.774
+  },
+  {
+   "text": "unas",
+   "start": 17.095,
+   "end": 17.31
+  },
+  {
+   "text": "personas",
+   "start": 17.321,
+   "end": 17.798
+  },
+  {
+   "text": "charlaron",
+   "start": 17.81,
+   "end": 18.286
+  },
+  {
+   "text": "con",
+   "start": 18.298,
+   "end": 18.476
+  },
+  {
+   "text": "alguien",
+   "start": 18.488,
+   "end": 18.809
+  },
+  {
+   "text": "que,",
+   "start": 18.821,
+   "end": 19.048
+  },
+  {
+   "text": "en",
+   "start": 19.226,
+   "end": 19.369
+  },
+  {
+   "text": "secreto,",
+   "start": 19.381,
+   "end": 19.893
+  },
+  {
+   "text": "copiaba",
+   "start": 20.119,
+   "end": 20.524
+  },
+  {
+   "text": "sus",
+   "start": 20.536,
+   "end": 20.726
+  },
+  {
+   "text": "gestos.",
+   "start": 20.738,
+   "end": 21.286
+  },
+  {
+   "text": "Dijeron",
+   "start": 22.107,
+   "end": 22.536
+  },
+  {
+   "text": "que",
+   "start": 22.548,
+   "end": 22.667
+  },
+  {
+   "text": "la",
+   "start": 22.679,
+   "end": 22.774
+  },
+  {
+   "text": "charla",
+   "start": 22.786,
+   "end": 23.119
+  },
+  {
+   "text": "había",
+   "start": 23.131,
+   "end": 23.405
+  },
+  {
+   "text": "ido",
+   "start": 23.417,
+   "end": 23.595
+  },
+  {
+   "text": "mejor,",
+   "start": 23.607,
+   "end": 23.94
+  },
+  {
+   "text": "y",
+   "start": 24.214,
+   "end": 24.286
+  },
+  {
+   "text": "que",
+   "start": 24.298,
+   "end": 24.441
+  },
+  {
+   "text": "esa",
+   "start": 24.452,
+   "end": 24.667
+  },
+  {
+   "text": "persona",
+   "start": 24.679,
+   "end": 25.095
+  },
+  {
+   "text": "les",
+   "start": 25.107,
+   "end": 25.286
+  },
+  {
+   "text": "caía",
+   "start": 25.298,
+   "end": 25.643
+  },
+  {
+   "text": "mejor.",
+   "start": 25.655,
+   "end": 26.095
+  },
+  {
+   "text": "Lo",
+   "start": 26.917,
+   "end": 27.071
+  },
+  {
+   "text": "llamaron",
+   "start": 27.083,
+   "end": 27.512
+  },
+  {
+   "text": "el",
+   "start": 27.524,
+   "end": 27.631
+  },
+  {
+   "text": "efecto",
+   "start": 27.643,
+   "end": 28.024
+  },
+  {
+   "text": "camaleón.",
+   "start": 28.036,
+   "end": 28.583
+  },
+  {
+   "text": "Sin",
+   "start": 29.405,
+   "end": 29.69
+  },
+  {
+   "text": "querer,",
+   "start": 29.702,
+   "end": 30.048
+  },
+  {
+   "text": "copiamos",
+   "start": 30.31,
+   "end": 30.81
+  },
+  {
+   "text": "a",
+   "start": 30.821,
+   "end": 30.881
+  },
+  {
+   "text": "quien",
+   "start": 30.893,
+   "end": 31.083
+  },
+  {
+   "text": "nos",
+   "start": 31.095,
+   "end": 31.238
+  },
+  {
+   "text": "cae",
+   "start": 31.25,
+   "end": 31.476
+  },
+  {
+   "text": "bien.",
+   "start": 31.488,
+   "end": 31.809
+  },
+  {
+   "text": "Haz",
+   "start": 32.631,
+   "end": 32.845
+  },
+  {
+   "text": "la",
+   "start": 32.857,
+   "end": 32.952
+  },
+  {
+   "text": "prueba.",
+   "start": 32.964,
+   "end": 33.393
+  },
+  {
+   "text": "Tócate",
+   "start": 34.214,
+   "end": 34.607
+  },
+  {
+   "text": "el",
+   "start": 34.619,
+   "end": 34.714
+  },
+  {
+   "text": "pelo.",
+   "start": 34.726,
+   "end": 35.071
+  },
+  {
+   "text": "Y",
+   "start": 35.893,
+   "end": 36.024
+  },
+  {
+   "text": "mira",
+   "start": 36.036,
+   "end": 36.321
+  },
+  {
+   "text": "qué",
+   "start": 36.333,
+   "end": 36.5
+  },
+  {
+   "text": "hace.",
+   "start": 36.512,
+   "end": 36.857
+  },
+  {
+   "text": "Si",
+   "start": 37.679,
+   "end": 37.917
+  },
+  {
+   "text": "te",
+   "start": 37.929,
+   "end": 38.06
+  },
+  {
+   "text": "ha",
+   "start": 38.071,
+   "end": 38.131
+  },
+  {
+   "text": "gustado",
+   "start": 38.143,
+   "end": 38.571
+  },
+  {
+   "text": "el",
+   "start": 38.583,
+   "end": 38.643
+  },
+  {
+   "text": "vídeo,",
+   "start": 38.655,
+   "end": 39.036
+  },
+  {
+   "text": "suscríbete.",
+   "start": 39.25,
+   "end": 39.94
+  }
+ ]
+}

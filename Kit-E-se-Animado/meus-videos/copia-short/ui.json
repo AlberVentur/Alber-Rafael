@@ -1,0 +1,29 @@
+{
+  "duracao": 41.5,
+  "palavrasPorLegenda": 3,
+  "destaques": [
+    "haces?",
+    "pelo.",
+    "también.",
+    "vacilando.",
+    "cuenta.",
+    "1999,",
+    "gestos.",
+    "mejor.",
+    "camaleón.",
+    "bien.",
+    "prueba.",
+    "hace.",
+    "suscríbete."
+  ],
+  "trocas": {},
+  "elementos": [
+    {
+      "tipo": "placa",
+      "inicio": 13.5,
+      "fim": 16.7,
+      "numero": "1999",
+      "rotulo": "CHARTRAND Y BARGH · EL EFECTO CAMALEÓN"
+    }
+  ]
+}

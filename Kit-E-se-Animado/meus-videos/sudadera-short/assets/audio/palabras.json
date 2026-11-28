@@ -1,0 +1,462 @@
+[
+ {
+  "word": "Y",
+  "start": 0.098,
+  "end": 0.205
+ },
+ {
+  "word": "si",
+  "start": 0.217,
+  "end": 0.383
+ },
+ {
+  "word": "tu",
+  "start": 0.395,
+  "end": 0.526
+ },
+ {
+  "word": "crush",
+  "start": 0.538,
+  "end": 0.895
+ },
+ {
+  "word": "te",
+  "start": 0.907,
+  "end": 1.014
+ },
+ {
+  "word": "robara",
+  "start": 1.026,
+  "end": 1.383
+ },
+ {
+  "word": "la",
+  "start": 1.395,
+  "end": 1.479
+ },
+ {
+  "word": "sudadera",
+  "start": 1.49,
+  "end": 2.086
+ },
+ {
+  "word": "Recreo",
+  "start": 2.905,
+  "end": 3.477
+ },
+ {
+  "word": "Hace",
+  "start": 4.31,
+  "end": 4.607
+ },
+ {
+  "word": "frío",
+  "start": 4.619,
+  "end": 5.0
+ },
+ {
+  "word": "Ella",
+  "start": 5.821,
+  "end": 6.095
+ },
+ {
+  "word": "te",
+  "start": 6.107,
+  "end": 6.214
+ },
+ {
+  "word": "la",
+  "start": 6.226,
+  "end": 6.321
+ },
+ {
+  "word": "pide",
+  "start": 6.333,
+  "end": 6.643
+ },
+ {
+  "word": "Solo",
+  "start": 6.94,
+  "end": 7.202
+ },
+ {
+  "word": "un",
+  "start": 7.214,
+  "end": 7.345
+ },
+ {
+  "word": "momento",
+  "start": 7.357,
+  "end": 7.845
+ },
+ {
+  "word": "Pasa",
+  "start": 8.667,
+  "end": 8.976
+ },
+ {
+  "word": "una",
+  "start": 8.988,
+  "end": 9.179
+ },
+ {
+  "word": "semana",
+  "start": 9.19,
+  "end": 9.667
+ },
+ {
+  "word": "No",
+  "start": 10.488,
+  "end": 10.702
+ },
+ {
+  "word": "te",
+  "start": 10.714,
+  "end": 10.833
+ },
+ {
+  "word": "la",
+  "start": 10.845,
+  "end": 10.905
+ },
+ {
+  "word": "devuelve",
+  "start": 10.917,
+  "end": 11.417
+ },
+ {
+  "word": "La",
+  "start": 12.238,
+  "end": 12.405
+ },
+ {
+  "word": "lleva",
+  "start": 12.417,
+  "end": 12.726
+ },
+ {
+  "word": "a",
+  "start": 12.738,
+  "end": 12.786
+ },
+ {
+  "word": "clase",
+  "start": 12.798,
+  "end": 13.226
+ },
+ {
+  "word": "Y",
+  "start": 14.048,
+  "end": 14.191
+ },
+ {
+  "word": "un",
+  "start": 14.202,
+  "end": 14.345
+ },
+ {
+  "word": "día",
+  "start": 14.357,
+  "end": 14.571
+ },
+ {
+  "word": "te",
+  "start": 14.583,
+  "end": 14.69
+ },
+ {
+  "word": "dice",
+  "start": 14.702,
+  "end": 15.036
+ },
+ {
+  "word": "Huele",
+  "start": 15.31,
+  "end": 15.548
+ },
+ {
+  "word": "a",
+  "start": 15.56,
+  "end": 15.619
+ },
+ {
+  "word": "ti",
+  "start": 15.631,
+  "end": 15.881
+ },
+ {
+  "word": "Y",
+  "start": 16.714,
+  "end": 16.893
+ },
+ {
+  "word": "eso",
+  "start": 16.905,
+  "end": 17.131
+ },
+ {
+  "word": "tiene",
+  "start": 17.143,
+  "end": 17.405
+ },
+ {
+  "word": "ciencia",
+  "start": 17.417,
+  "end": 17.94
+ },
+ {
+  "word": "En",
+  "start": 18.762,
+  "end": 18.94
+ },
+ {
+  "word": "2018",
+  "start": 18.952,
+  "end": 19.833
+ },
+ {
+  "word": "en",
+  "start": 20.06,
+  "end": 20.19
+ },
+ {
+  "word": "Canadá",
+  "start": 20.202,
+  "end": 20.619
+ },
+ {
+  "word": "unas",
+  "start": 20.94,
+  "end": 21.179
+ },
+ {
+  "word": "chicas",
+  "start": 21.19,
+  "end": 21.571
+ },
+ {
+  "word": "olieron",
+  "start": 21.583,
+  "end": 21.929
+ },
+ {
+  "word": "camisetas",
+  "start": 21.94,
+  "end": 22.559
+ },
+ {
+  "word": "que",
+  "start": 22.571,
+  "end": 22.679
+ },
+ {
+  "word": "había",
+  "start": 22.69,
+  "end": 22.94
+ },
+ {
+  "word": "llevado",
+  "start": 22.952,
+  "end": 23.309
+ },
+ {
+  "word": "su",
+  "start": 23.321,
+  "end": 23.464
+ },
+ {
+  "word": "pareja",
+  "start": 23.476,
+  "end": 23.952
+ },
+ {
+  "word": "Después",
+  "start": 24.774,
+  "end": 25.238
+ },
+ {
+  "word": "les",
+  "start": 25.25,
+  "end": 25.405
+ },
+ {
+  "word": "hicieron",
+  "start": 25.417,
+  "end": 25.798
+ },
+ {
+  "word": "una",
+  "start": 25.81,
+  "end": 25.976
+ },
+ {
+  "word": "prueba",
+  "start": 25.988,
+  "end": 26.286
+ },
+ {
+  "word": "muy",
+  "start": 26.298,
+  "end": 26.56
+ },
+ {
+  "word": "estresante",
+  "start": 26.571,
+  "end": 27.226
+ },
+ {
+  "word": "Las",
+  "start": 28.048,
+  "end": 28.262
+ },
+ {
+  "word": "que",
+  "start": 28.274,
+  "end": 28.369
+ },
+ {
+  "word": "olieron",
+  "start": 28.381,
+  "end": 28.714
+ },
+ {
+  "word": "la",
+  "start": 28.726,
+  "end": 28.798
+ },
+ {
+  "word": "camiseta",
+  "start": 28.81,
+  "end": 29.298
+ },
+ {
+  "word": "de",
+  "start": 29.31,
+  "end": 29.417
+ },
+ {
+  "word": "su",
+  "start": 29.429,
+  "end": 29.56
+ },
+ {
+  "word": "pareja",
+  "start": 29.571,
+  "end": 29.917
+ },
+ {
+  "word": "estaban",
+  "start": 29.929,
+  "end": 30.357
+ },
+ {
+  "word": "más",
+  "start": 30.369,
+  "end": 30.595
+ },
+ {
+  "word": "tranquilas",
+  "start": 30.607,
+  "end": 31.286
+ },
+ {
+  "word": "Tu",
+  "start": 32.107,
+  "end": 32.238
+ },
+ {
+  "word": "olor",
+  "start": 32.25,
+  "end": 32.583
+ },
+ {
+  "word": "para",
+  "start": 32.845,
+  "end": 33.143
+ },
+ {
+  "word": "ella",
+  "start": 33.155,
+  "end": 33.452
+ },
+ {
+  "word": "es",
+  "start": 33.714,
+  "end": 33.881
+ },
+ {
+  "word": "como",
+  "start": 33.893,
+  "end": 34.095
+ },
+ {
+  "word": "un",
+  "start": 34.107,
+  "end": 34.274
+ },
+ {
+  "word": "abrazo",
+  "start": 34.286,
+  "end": 34.726
+ },
+ {
+  "word": "Se",
+  "start": 35.548,
+  "end": 35.774
+ },
+ {
+  "word": "la",
+  "start": 35.786,
+  "end": 35.893
+ },
+ {
+  "word": "pedirías",
+  "start": 35.905,
+  "end": 36.393
+ },
+ {
+  "word": "de",
+  "start": 36.405,
+  "end": 36.464
+ },
+ {
+  "word": "vuelta",
+  "start": 36.476,
+  "end": 36.905
+ },
+ {
+  "word": "Si",
+  "start": 37.726,
+  "end": 37.964
+ },
+ {
+  "word": "te",
+  "start": 37.976,
+  "end": 38.107
+ },
+ {
+  "word": "ha",
+  "start": 38.119,
+  "end": 38.179
+ },
+ {
+  "word": "gustado",
+  "start": 38.19,
+  "end": 38.619
+ },
+ {
+  "word": "el",
+  "start": 38.631,
+  "end": 38.69
+ },
+ {
+  "word": "vídeo",
+  "start": 38.702,
+  "end": 39.083
+ },
+ {
+  "word": "suscríbete",
+  "start": 39.298,
+  "end": 39.988
+ }
+]

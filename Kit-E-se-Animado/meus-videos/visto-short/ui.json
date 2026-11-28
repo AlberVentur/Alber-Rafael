@@ -1,0 +1,29 @@
+{
+  "duracao": 41.5,
+  "palavrasPorLegenda": 3,
+  "destaques": [
+    "visto?",
+    "diez.",
+    "visto.",
+    "cuarenta",
+    "borras.",
+    "raro.",
+    "2011,",
+    "perfiles",
+    "querían.",
+    "duda",
+    "batería\".",
+    "contestarías?",
+    "suscríbete."
+  ],
+  "trocas": {},
+  "elementos": [
+    {
+      "tipo": "placa",
+      "inicio": 15.0,
+      "fim": 18.2,
+      "numero": "2011",
+      "rotulo": "WHITCHURCH, WILSON Y GILBERT · LA DUDA ATRAE"
+    }
+  ]
+}

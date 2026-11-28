@@ -1,0 +1,487 @@
+[
+ {
+  "word": "Y",
+  "start": 0.098,
+  "end": 0.205
+ },
+ {
+  "word": "si",
+  "start": 0.217,
+  "end": 0.383
+ },
+ {
+  "word": "tu",
+  "start": 0.395,
+  "end": 0.526
+ },
+ {
+  "word": "crush",
+  "start": 0.538,
+  "end": 0.859
+ },
+ {
+  "word": "copiara",
+  "start": 0.871,
+  "end": 1.312
+ },
+ {
+  "word": "todo",
+  "start": 1.324,
+  "end": 1.609
+ },
+ {
+  "word": "lo",
+  "start": 1.621,
+  "end": 1.717
+ },
+ {
+  "word": "que",
+  "start": 1.729,
+  "end": 1.871
+ },
+ {
+  "word": "haces",
+  "start": 1.883,
+  "end": 2.336
+ },
+ {
+  "word": "Te",
+  "start": 3.155,
+  "end": 3.274
+ },
+ {
+  "word": "tocas",
+  "start": 3.286,
+  "end": 3.619
+ },
+ {
+  "word": "el",
+  "start": 3.631,
+  "end": 3.738
+ },
+ {
+  "word": "pelo",
+  "start": 3.75,
+  "end": 4.06
+ },
+ {
+  "word": "ella",
+  "start": 4.321,
+  "end": 4.548
+ },
+ {
+  "word": "se",
+  "start": 4.56,
+  "end": 4.702
+ },
+ {
+  "word": "toca",
+  "start": 4.714,
+  "end": 4.988
+ },
+ {
+  "word": "el",
+  "start": 5.0,
+  "end": 5.083
+ },
+ {
+  "word": "pelo",
+  "start": 5.095,
+  "end": 5.441
+ },
+ {
+  "word": "Te",
+  "start": 6.262,
+  "end": 6.381
+ },
+ {
+  "word": "cruzas",
+  "start": 6.393,
+  "end": 6.75
+ },
+ {
+  "word": "de",
+  "start": 6.762,
+  "end": 6.833
+ },
+ {
+  "word": "brazos",
+  "start": 6.845,
+  "end": 7.31
+ },
+ {
+  "word": "ella",
+  "start": 7.571,
+  "end": 7.809
+ },
+ {
+  "word": "también",
+  "start": 7.821,
+  "end": 8.286
+ },
+ {
+  "word": "Piensas",
+  "start": 9.107,
+  "end": 9.548
+ },
+ {
+  "word": "que",
+  "start": 9.56,
+  "end": 9.679
+ },
+ {
+  "word": "te",
+  "start": 9.69,
+  "end": 9.786
+ },
+ {
+  "word": "está",
+  "start": 9.798,
+  "end": 10.012
+ },
+ {
+  "word": "vacilando",
+  "start": 10.024,
+  "end": 10.655
+ },
+ {
+  "word": "Pero",
+  "start": 11.476,
+  "end": 11.679
+ },
+ {
+  "word": "ni",
+  "start": 11.69,
+  "end": 11.809
+ },
+ {
+  "word": "se",
+  "start": 11.821,
+  "end": 11.964
+ },
+ {
+  "word": "da",
+  "start": 11.976,
+  "end": 12.095
+ },
+ {
+  "word": "cuenta",
+  "start": 12.107,
+  "end": 12.524
+ },
+ {
+  "word": "En",
+  "start": 13.345,
+  "end": 13.512
+ },
+ {
+  "word": "1999",
+  "start": 13.524,
+  "end": 14.964
+ },
+ {
+  "word": "en",
+  "start": 15.19,
+  "end": 15.357
+ },
+ {
+  "word": "la",
+  "start": 15.369,
+  "end": 15.452
+ },
+ {
+  "word": "Universidad",
+  "start": 15.464,
+  "end": 16.095
+ },
+ {
+  "word": "de",
+  "start": 16.107,
+  "end": 16.19
+ },
+ {
+  "word": "Nueva",
+  "start": 16.202,
+  "end": 16.417
+ },
+ {
+  "word": "York",
+  "start": 16.429,
+  "end": 16.774
+ },
+ {
+  "word": "unas",
+  "start": 17.095,
+  "end": 17.31
+ },
+ {
+  "word": "personas",
+  "start": 17.321,
+  "end": 17.798
+ },
+ {
+  "word": "charlaron",
+  "start": 17.81,
+  "end": 18.286
+ },
+ {
+  "word": "con",
+  "start": 18.298,
+  "end": 18.476
+ },
+ {
+  "word": "alguien",
+  "start": 18.488,
+  "end": 18.809
+ },
+ {
+  "word": "que",
+  "start": 18.821,
+  "end": 19.048
+ },
+ {
+  "word": "en",
+  "start": 19.226,
+  "end": 19.369
+ },
+ {
+  "word": "secreto",
+  "start": 19.381,
+  "end": 19.893
+ },
+ {
+  "word": "copiaba",
+  "start": 20.119,
+  "end": 20.524
+ },
+ {
+  "word": "sus",
+  "start": 20.536,
+  "end": 20.726
+ },
+ {
+  "word": "gestos",
+  "start": 20.738,
+  "end": 21.286
+ },
+ {
+  "word": "Dijeron",
+  "start": 22.107,
+  "end": 22.536
+ },
+ {
+  "word": "que",
+  "start": 22.548,
+  "end": 22.667
+ },
+ {
+  "word": "la",
+  "start": 22.679,
+  "end": 22.774
+ },
+ {
+  "word": "charla",
+  "start": 22.786,
+  "end": 23.119
+ },
+ {
+  "word": "había",
+  "start": 23.131,
+  "end": 23.405
+ },
+ {
+  "word": "ido",
+  "start": 23.417,
+  "end": 23.595
+ },
+ {
+  "word": "mejor",
+  "start": 23.607,
+  "end": 23.94
+ },
+ {
+  "word": "y",
+  "start": 24.214,
+  "end": 24.286
+ },
+ {
+  "word": "que",
+  "start": 24.298,
+  "end": 24.441
+ },
+ {
+  "word": "esa",
+  "start": 24.452,
+  "end": 24.667
+ },
+ {
+  "word": "persona",
+  "start": 24.679,
+  "end": 25.095
+ },
+ {
+  "word": "les",
+  "start": 25.107,
+  "end": 25.286
+ },
+ {
+  "word": "caía",
+  "start": 25.298,
+  "end": 25.643
+ },
+ {
+  "word": "mejor",
+  "start": 25.655,
+  "end": 26.095
+ },
+ {
+  "word": "Lo",
+  "start": 26.917,
+  "end": 27.071
+ },
+ {
+  "word": "llamaron",
+  "start": 27.083,
+  "end": 27.512
+ },
+ {
+  "word": "el",
+  "start": 27.524,
+  "end": 27.631
+ },
+ {
+  "word": "efecto",
+  "start": 27.643,
+  "end": 28.024
+ },
+ {
+  "word": "camaleón",
+  "start": 28.036,
+  "end": 28.583
+ },
+ {
+  "word": "Sin",
+  "start": 29.405,
+  "end": 29.69
+ },
+ {
+  "word": "querer",
+  "start": 29.702,
+  "end": 30.048
+ },
+ {
+  "word": "copiamos",
+  "start": 30.31,
+  "end": 30.81
+ },
+ {
+  "word": "a",
+  "start": 30.821,
+  "end": 30.881
+ },
+ {
+  "word": "quien",
+  "start": 30.893,
+  "end": 31.083
+ },
+ {
+  "word": "nos",
+  "start": 31.095,
+  "end": 31.238
+ },
+ {
+  "word": "cae",
+  "start": 31.25,
+  "end": 31.476
+ },
+ {
+  "word": "bien",
+  "start": 31.488,
+  "end": 31.809
+ },
+ {
+  "word": "Haz",
+  "start": 32.631,
+  "end": 32.845
+ },
+ {
+  "word": "la",
+  "start": 32.857,
+  "end": 32.952
+ },
+ {
+  "word": "prueba",
+  "start": 32.964,
+  "end": 33.393
+ },
+ {
+  "word": "Tócate",
+  "start": 34.214,
+  "end": 34.607
+ },
+ {
+  "word": "el",
+  "start": 34.619,
+  "end": 34.714
+ },
+ {
+  "word": "pelo",
+  "start": 34.726,
+  "end": 35.071
+ },
+ {
+  "word": "Y",
+  "start": 35.893,
+  "end": 36.024
+ },
+ {
+  "word": "mira",
+  "start": 36.036,
+  "end": 36.321
+ },
+ {
+  "word": "qué",
+  "start": 36.333,
+  "end": 36.5
+ },
+ {
+  "word": "hace",
+  "start": 36.512,
+  "end": 36.857
+ },
+ {
+  "word": "Si",
+  "start": 37.679,
+  "end": 37.917
+ },
+ {
+  "word": "te",
+  "start": 37.929,
+  "end": 38.06
+ },
+ {
+  "word": "ha",
+  "start": 38.071,
+  "end": 38.131
+ },
+ {
+  "word": "gustado",
+  "start": 38.143,
+  "end": 38.571
+ },
+ {
+  "word": "el",
+  "start": 38.583,
+  "end": 38.643
+ },
+ {
+  "word": "vídeo",
+  "start": 38.655,
+  "end": 39.036
+ },
+ {
+  "word": "suscríbete",
+  "start": 39.25,
+  "end": 39.94
+ }
+]
