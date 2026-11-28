@@ -1,0 +1,65 @@
+{
+  "duracao": 643.0,
+  "palavrasPorLegenda": 3,
+  "destaques": [
+    "crush.",
+    "Sara.",
+    "secreto",
+    "trece",
+    "cinco",
+    "jamás",
+    "Lila.",
+    "Lila?",
+    "pánico",
+    "blanco.",
+    "recompensa.",
+    "dinero…",
+    "Marcos,",
+    "rojo?",
+    "diciembre.",
+    "juntitos.",
+    "pesa.",
+    "escribo.",
+    "médico",
+    "directo.",
+    "Viernes.",
+    "sorpresa.",
+    "cantar.",
+    "Lila!",
+    "gustas.",
+    "dije.",
+    "comentarios.",
+    "vídeos."
+  ],
+  "trocas": {},
+  "elementos": [
+    {
+      "tipo": "placa",
+      "inicio": 64.3,
+      "fim": 70.5,
+      "numero": "2017",
+      "rotulo": "MICHAEL SLEPIAN · LA EXPERIENCIA DEL SECRETO"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 180.4,
+      "fim": 186.6,
+      "numero": "2012",
+      "rotulo": "TAMIR Y MITCHELL · HABLAR DE TI ES UNA RECOMPENSA"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 371.3,
+      "fim": 377.5,
+      "numero": "1986",
+      "rotulo": "JAMES PENNEBAKER · ESCRIBIR LO QUE SIENTES"
+    },
+    {
+      "tipo": "placa",
+      "inicio": 544.1,
+      "fim": 550.3,
+      "numero": "1994",
+      "rotulo": "COLLINS Y MILLER · ABRIRSE Y GUSTAR"
+    }
+  ]
+}
